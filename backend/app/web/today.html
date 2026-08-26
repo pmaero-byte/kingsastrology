@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Today at the Court — Kingsastrology</title>
+  <link rel="stylesheet" href="/assets/today.css">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#04070e">
+</head>
+<body>
+  <header class="top-bar">
+    <a class="brand" href="/today">
+      <div class="brand-mark">KA</div>
+      <div><h1>Kingsastrology</h1><small>the royal almanac</small></div>
+    </a>
+    <nav class="top-links" aria-label="Site">
+      <button id="streak-pill" class="loc-chip" type="button" title="Daily visit streak" aria-label="Daily streak">🔥 —</button>
+      <button id="locate" class="loc-chip" type="button" title="Use my location">◎ <span id="loc-name">Delhi</span></button>
+      <a href="/clock">Spacetime Clock</a>
+      <a href="/tribunal">Tribunal</a>
+    </nav>
+  </header>
+
+  <nav class="dot-nav" id="dot-nav" aria-label="Sections"></nav>
+
+  <section class="hero">
+    <p class="eyebrow">the sky, this very moment</p>
+    <h1 class="hero-time" id="hero-time">—:—</h1>
+    <p class="hero-date" id="hero-date">loading the court…</p>
+    <div class="chips">
+      <div class="chip"><small>Nakshatra</small><strong id="c-nak">—</strong><em id="c-nak-next"></em></div>
+      <div class="chip"><small>Tithi</small><strong id="c-tithi">—</strong><em id="c-tithi-next"></em></div>
+      <div class="chip"><small>Hora of</small><strong id="c-hora">—</strong><em id="c-hora-next"></em></div>
+      <div class="chip"><small>Yoga · Karaṇa</small><strong id="c-yoga">—</strong><em id="c-karana"></em></div>
+      <div class="chip"><small>Sun · Moon in</small><strong id="c-signs">—</strong><em id="c-paksha"></em></div>
+    </div>
+    <div class="cal-ribbon" id="cal-ribbon">
+      <span>loading calendars…</span>
+    </div>
+    <a class="scroll-cue" href="#day">begin the journey</a>
+  </section>
+
+  <main class="journey">
+
+    <!-- II. THIS DAY -->
+    <section class="chapter" id="day">
+      <div class="chapter-head">
+        <div class="chapter-numeral">II</div>
+        <h2>This Day</h2><span class="sa">· अद्य · آج</span>
+      </div>
+      <p class="chapter-lede" id="day-lede">Reading the day's sky…</p>
+      <div class="day-wheel">
+        <div class="wheel" id="wheel"></div>
+        <div class="wheel-axis"><span id="w-open">—</span><span id="w-noon">—</span><span id="w-close">—</span></div>
+      </div>
+      <div class="grid c4" id="day-grid"></div>
+      <div class="timeline" id="day-timeline"></div>
+      <p class="note">Hora, Abhijit, Brahma-muhūrta and Rahu-Kaal are traditional timing conventions of general use — not Brihat Jataka doctrine, and not verdicts on fortune. Positions and transitions are computed from the zīj record.</p>
+    </section>
+
+    <!-- III. THIS WEEK -->
+    <section class="chapter" id="week">
+      <div class="chapter-head">
+        <div class="chapter-numeral">III</div>
+        <h2>This Week</h2><span class="sa">· सप्ताह · ہفتہ</span>
+      </div>
+      <p class="chapter-lede">Seven vara-lords take the throne in turn, while the Moon — the fastest graha — walks her circuit of the signs.</p>
+      <div class="week-strip" id="week-strip"></div>
+      <div class="timeline" id="week-timeline"></div>
+    </section>
+
+    <!-- IV. THIS MONTH -->
+    <section class="chapter" id="month">
+      <div class="chapter-head">
+        <div class="chapter-numeral">IV</div>
+        <h2>This Month</h2><span class="sa">· मास · مہینہ</span>
+      </div>
+      <p class="chapter-lede">The lunations bracket the month; the Sun's saṅkrānti turns the solar wheel. Where the Moon's latitude runs low at a lunation, an eclipse is possible — a geometric hint, never an omen.</p>
+      <div class="timeline" id="month-timeline"></div>
+    </section>
+
+    <!-- V. THIS YEAR -->
+    <section class="chapter" id="year">
+      <div class="chapter-head">
+        <div class="chapter-numeral">V</div>
+        <h2>This Year</h2><span class="sa">· वर्ष · سال</span>
+      </div>
+      <p class="chapter-lede">The slow grahas colour the year: Jupiter changes her sign roughly yearly, Saturn lingers for seasons. These are the year's long hands.</p>
+      <div class="grid c3" id="year-lords"></div>
+      <div class="timeline" id="year-timeline"></div>
+    </section>
+
+    <!-- I. THE MOMENT — live, placed last as the return point -->
+    <section class="chapter" id="moment">
+      <div class="chapter-head">
+        <div class="chapter-numeral">I</div>
+        <h2>The Moment, kept</h2><span class="sa">· समय · وقت</span>
+      </div>
+      <p class="chapter-lede">Every instant of this page is computed from the pinned zīj record — reproducible, citable, and published with its errors. The court keeps its own ledger at the Tribunal.</p>
+      <div class="grid c2">
+        <div class="card"><small class="k">Provenance</small><div class="v" style="font-size:16px">zīj-1.0.0 · qānūn-1.0.0</div><div class="sub">JPL elements (1800–2050) · PyEphem-verified · planets ≤0.1°, Moon ≤0.36°</div></div>
+        <div class="card"><small class="k">Where is this written?</small><div class="v" style="font-size:16px">Every claim carries its source</div><div class="sub"><a href="/tribunal" style="color:var(--teal)">Read the Tribunal ledger</a> · <a href="/api/v1/now" style="color:var(--teal)">Raw JSON of this moment</a></div></div>
+        <div class="card" style="grid-column:1/-1"><small class="k">Your day's sky</small>
+          <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:10px">
+            <button class="loc-chip" id="share-btn" type="button">↗ share your day's sky</button>
+            <button class="loc-chip" id="remind-btn" type="button">🔔 remind me tomorrow at 8 AM</button>
+          </div>
+          <div class="sub" id="remind-note"></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p class="royal">"These people measured before they asserted, and they printed their errors."</p>
+    <p>Kingsastrology · deterministic compute, no AI at runtime · <a href="/clock">Spacetime Clock</a> · <a href="/tribunal">Tribunal</a> · <a href="/docs">API</a></p>
+  </footer>
+
+  <script src="/assets/today.js"></script>
+</body>
+</html>

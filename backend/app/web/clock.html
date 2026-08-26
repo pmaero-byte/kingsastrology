@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kingsastrology — Spacetime Clock</title>
+  <link rel="stylesheet" href="/assets/clock.css">
+</head>
+<body class="clock-page">
+  <header class="sky-head">
+    <div class="brand">
+      <div class="brand-mark">KA</div>
+      <div class="brand-text">
+        <h1 data-i18n="title">Spacetime Clock</h1>
+        <p data-i18n="subtitle">the royal court of the grahas, riding the curved sky</p>
+      </div>
+    </div>
+
+    <div class="readouts">
+      <span id="mode-badge" class="badge live">LIVE SKY</span>
+      <div class="reading"><small data-i18n="local_date">local date</small><strong id="clock-date">—</strong></div>
+      <div class="reading"><small data-i18n="local_time">local time</small><strong id="clock-time">—</strong></div>
+      <div class="reading"><small data-i18n="epoch">epoch</small><strong id="clock-jd">—</strong></div>
+      <div class="reading"><small data-i18n="ayanamsa">ayanamsa</small><strong id="clock-aya">—</strong></div>
+      <select id="lang" class="ctl" title="Language / भाषा / اللغة" aria-label="Language">
+        <option value="en">EN</option>
+        <option value="hi">हिंदी</option>
+        <option value="ar">العربية</option>
+      </select>
+      <a class="badge fast" href="/today" style="text-decoration:none">Today</a>
+      <a class="badge paused" href="/tribunal" style="text-decoration:none" data-i18n="tribunal">Tribunal</a>
+    </div>
+  </header>
+
+  <main id="stage" aria-label="Spacetime clock of planetary positions">
+    <canvas id="sky"></canvas>
+
+    <div class="cal-strip" id="cal-strip" aria-label="Calendars of this instant">
+      <div class="cal-row"><small data-i18n="cal_hijri">Hijrī</small><strong id="cal-hijri">—</strong></div>
+      <div class="cal-row"><small data-i18n="cal_jalali">Jalālī</small><strong id="cal-jalali">—</strong></div>
+      <div class="cal-row"><small data-i18n="cal_vikram">Vikram Saṃvat</small><strong id="cal-vikram">—</strong></div>
+      <div class="cal-row"><small data-i18n="cal_saka">Śaka</small><strong id="cal-saka">—</strong></div>
+      <div class="cal-row"><small data-i18n="cal_kali">Kali ahargaṇa</small><strong id="cal-kali">—</strong></div>
+    </div>
+
+    <aside class="hilal" id="hilal" aria-label="Crescent visibility">
+      <h4 data-i18n="hilal_title">The crescent — hilāl</h4>
+      <label>lat <input id="hilal-lat" type="number" step="0.0001" value="28.6139"></label>
+      <label>lon <input id="hilal-lon" type="number" step="0.0001" value="77.2090"></label>
+      <label>elev m <input id="hilal-elev" type="number" step="1" value="216"></label>
+      <button id="hilal-btn" type="button" class="ctl" data-i18n="hilal_check">Check this evening</button>
+      <div id="hilal-out"></div>
+      <p class="disclaimer" data-i18n="hilal_disclaimer">Observables are computed; the visibility class is one labelled criterion (Yallop, hypothesis-under-trial). Not a religious ruling.</p>
+    </aside>
+
+    <aside class="legend" aria-label="Current sidereal placements">
+      <table>
+        <thead>
+          <tr><th></th><th data-i18n="graha">Graha</th><th data-i18n="rasi">Rāśi</th><th data-i18n="deg">Deg</th><th>±′</th><th data-i18n="nakshatra">Nakshatra</th><th>R</th></tr>
+        </thead>
+        <tbody id="legend-body"></tbody>
+      </table>
+      <p class="legend-note" data-i18n="legend_note">Geocentric sidereal longitudes. R = retrograde. Rahu/Ketu are the mean lunar nodes. Tap a row for its lesson (Tafhīm mode).</p>
+    </aside>
+
+    <section class="lesson" id="lesson" aria-label="Lesson" role="dialog">
+      <button class="close-x" id="lesson-close" type="button" aria-label="Close">×</button>
+      <h3 id="lesson-title"></h3>
+      <p class="lesson-q" id="lesson-q"></p>
+      <div id="lesson-body"></div>
+    </section>
+
+    <div class="controls" role="group" aria-label="Time controls">
+      <button id="btn-now" type="button" class="ctl active" title="Snap to the living sky" data-i18n="now">Now</button>
+      <button id="btn-play" type="button" class="ctl" title="Play / pause (Space)">⏸</button>
+      <button id="btn-drishti" type="button" class="ctl" title="Toggle drishti chords (R-2.13)" data-i18n="drishti">Drishti</button>
+      <select id="speed" class="ctl" title="Time speed"></select>
+      <input id="datetime" type="datetime-local" class="ctl" title="Jump to a moment" aria-label="Jump to date and time">
+    </div>
+
+    <p class="provenance">
+      <span data-i18n="provenance">Visualization-grade ephemeris: JPL approximate Keplerian elements (1800–2050) with truncated lunar theory;
+      sidereal via Lahiri ayanamsa approximation · orbit radii compressed (r<sup>0.45</sup>) and the Moon's orbit
+      enlarged for legibility · schematic fabric — the Swiss-Ephemeris compute engine remains the source of truth.</span>
+      <a href="/tribunal" style="color:var(--teal)" data-i18n="see_tribunal">See the Tribunal ledger</a>.
+    </p>
+  </main>
+
+  <script src="/assets/ephemeris.js"></script>
+  <script src="/assets/clock.js"></script>
+</body>
+</html>

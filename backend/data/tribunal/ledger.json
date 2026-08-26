@@ -1,0 +1,105 @@
+{
+  "ledger_version": "1.0.0",
+  "policy": "Failures and limits are published as loudly as successes. Entries are append-only; a retraction never deletes, it engraves.",
+  "entries": [
+    {
+      "id": "VER-001",
+      "type": "verification",
+      "date": "2026-08-26",
+      "title": "Sky engine cross-validated against PyEphem",
+      "detail": "Geocentric tropical longitudes compared for 2026-08-26 10:57 UT. All five planets within 0.10 deg of ephem 4.2.1; Sun exact to 0.01 deg; Moon within 0.36 deg (truncated lunar theory).",
+      "tier": "measured",
+      "evidence": {"ephem_version": "4.2.1", "timestamp_ms_utc": 1756208220000, "worst_planet_deg": 0.08, "moon_deg": 0.36}
+    },
+    {
+      "id": "VER-002",
+      "type": "verification",
+      "date": "2026-08-26",
+      "title": "Python Zij and browser clock agree to float tolerance",
+      "detail": "Same algorithms ported to Python (services/sky_engine.py) and JavaScript (web/ephemeris.js). Sidereal longitudes agree within 5e-7 deg across three timestamps (2000, 2026, 2030).",
+      "tier": "measured",
+      "evidence": {"timestamps_ms_utc": [946728000000, 1756208220000, 1893456000000], "worst_delta_deg": 4.6e-7}
+    },
+    {
+      "id": "LIM-001",
+      "type": "limitation",
+      "date": "2026-08-26",
+      "title": "Keplerian element window is 1800-2050",
+      "detail": "JPL approximate elements are fitted for 1800-2050. Zij rows outside that window are stamped tier=extrapolated and must never be presented as measured.",
+      "tier": "doctrine",
+      "evidence": {"window_jd": [2378496.5, 2469806.5]}
+    },
+    {
+      "id": "LIM-002",
+      "type": "limitation",
+      "date": "2026-08-26",
+      "title": "Ayanamsa is an approximation",
+      "detail": "Lahiri (Chitrapaksha) ayanamsa uses a linear approximation (23.85306 deg at J2000 + 0.013966 deg/yr). Error is arcminute-level 1950-2050; every payload carries ayanamsa_err_arcmin=2.0.",
+      "tier": "measured",
+      "evidence": {"formula": "aya = 23.85306 + 0.013966*(jd-2451545)/365.25"}
+    },
+    {
+      "id": "LIM-003",
+      "type": "limitation",
+      "date": "2026-08-26",
+      "title": "Moon longitude from a truncated series",
+      "detail": "Schlyter's truncated lunar theory (12 perturbation terms) was within 0.36 deg of PyEphem at the validation instant; treat up to ~0.4 deg as the working error bar until the Swiss-Ephemeris engine (A1) replaces it.",
+      "tier": "measured",
+      "evidence": {"terms": 12, "observed_worst_deg": 0.36}
+    },
+    {
+      "id": "LIM-004",
+      "type": "limitation",
+      "date": "2026-08-26",
+      "title": "Crescent classification is hypothesis-under-trial",
+      "detail": "The Yallop (1997) q-criterion is implemented as commonly published, but the implementation has NOT been verified against the original HM Nautical Almanac Office tables. Raw observables (altitudes, ARCL, ARCV, lag) are measured; the A-F band is hypothesis.",
+      "tier": "hypothesis",
+      "evidence": {"criterion": "q=(ARCL-(-0.13666*ARCV+14.1667))/10"}
+    },
+    {
+      "id": "LIM-005",
+      "type": "limitation",
+      "date": "2026-08-26",
+      "title": "Tabular calendars can differ from observed ones by a day",
+      "detail": "Hijri is tabular (30-year cycle, epoch JD 1948440.5): +-1 day vs local moon-sighting. Jalali is Birashk tabular: +-1 day vs the astronomical equinox calendar. Vikram Samvat uses the solar-year convention with the sa-kranti approximated to 14 April.",
+      "tier": "measured",
+      "evidence": {"hijri_epoch_jd": 1948440.5, "kali_epoch_jd": 588465.5}
+    },
+    {
+      "id": "DIS-001",
+      "type": "limitation",
+      "date": "2026-08-26",
+      "title": "Clock display compresses radii; angles are never altered",
+      "detail": "The Spacetime Clock compresses orbit radii (r^0.45) and enlarges the Moon's orbit for legibility; the spacetime fabric is schematic. All displayed angles are true geocentric sidereal longitudes. Disclosed in the page footer.",
+      "tier": "measured",
+      "evidence": {"compression": "r^0.45"}
+    },
+    {
+      "id": "DIS-002",
+      "type": "limitation",
+      "date": "2026-08-26",
+      "title": "Drishti chords exclude Rahu/Ketu",
+      "detail": "R-2.13's aspect table covers the seven classical grahas. The engine computes no Rahu/Ketu drishti and draws no chords for them, rather than inventing doctrine.",
+      "tier": "doctrine",
+      "evidence": {"rule_id": "R-2.13"}
+    },
+    {
+      "id": "RET",
+      "type": "retraction",
+      "date": null,
+      "title": "No retractions on record",
+      "detail": "The retraction schema exists and is empty. When a finding is withdrawn, it is engraved here with its evidence and its replacement - never deleted.",
+      "tier": "measured",
+      "evidence": null
+    },
+    {
+      "id": "PRE",
+      "type": "pre_registration",
+      "date": null,
+      "title": "No pre-registrations on record",
+      "detail": "The pre-registration schema exists and is empty. A pre-registered claim must state: the rule, the exact computed predicate, the scoring window, the scoring script hash, and the adjudicator - before the outcome exists.",
+      "tier": "measured",
+      "evidence": null
+    }
+  ]
+}

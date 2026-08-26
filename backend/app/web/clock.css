@@ -1,0 +1,403 @@
+/* Kingsastrology — Spacetime Clock styles. Shares the Royal Review palette. */
+
+:root {
+  color-scheme: dark;
+  --bg-deep: #030711;
+  --surface: rgba(14, 22, 38, .84);
+  --ink: #f6f1df;
+  --muted: #aeb7c8;
+  --quiet: #76839a;
+  --line: rgba(225, 205, 146, .18);
+  --line-strong: rgba(232, 190, 93, .42);
+  --gold: #e7bd63;
+  --gold-strong: #ffd77a;
+  --teal: #27c5b6;
+}
+
+* { box-sizing: border-box; }
+
+html, body { height: 100%; }
+
+body.clock-page {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background:
+    radial-gradient(1200px 700px at 50% -10%, rgba(38, 54, 96, .35), transparent 70%),
+    var(--bg-deep);
+  color: var(--ink);
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+/* ------------------------------------------------------------- header */
+
+.sky-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 14px 22px;
+  border-bottom: 1px solid var(--line);
+  background: rgba(5, 10, 22, .72);
+  backdrop-filter: blur(8px);
+  flex-wrap: wrap;
+}
+
+.brand { display: flex; align-items: center; gap: 12px; }
+
+.brand-mark {
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 12px;
+  font-weight: 800;
+  letter-spacing: .04em;
+  color: #1b1405;
+  background: linear-gradient(135deg, var(--gold-strong), #b98a2e);
+  box-shadow: 0 0 24px rgba(231, 189, 99, .35);
+}
+
+.brand-text h1 {
+  margin: 0;
+  font-size: 17px;
+  letter-spacing: .02em;
+}
+
+.brand-text p {
+  margin: 1px 0 0;
+  font-size: 11.5px;
+  color: var(--quiet);
+  font-style: italic;
+}
+
+.readouts {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  flex-wrap: wrap;
+}
+
+.reading { display: flex; flex-direction: column; min-width: 86px; }
+.reading small {
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  font-size: 9.5px;
+  color: var(--quiet);
+}
+.reading strong { font-size: 13.5px; font-variant-numeric: tabular-nums; }
+
+.badge {
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: .14em;
+}
+.badge.live   { color: #06231f; background: var(--teal); box-shadow: 0 0 18px rgba(39,197,182,.45); }
+.badge.fast   { color: #221503; background: var(--gold-strong); }
+.badge.paused { color: var(--muted); background: rgba(118,131,154,.18); }
+
+/* --------------------------------------------------------------- stage */
+
+#stage { position: relative; flex: 1; min-height: 0; }
+
+#sky {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+/* -------------------------------------------------------------- legend */
+
+.legend {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  width: 322px;
+  max-height: calc(100% - 130px);
+  overflow: auto;
+  padding: 12px 14px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: rgba(9, 15, 30, .82);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 18px 48px rgba(0, 0, 0, .4);
+}
+
+.legend table { width: 100%; border-collapse: collapse; }
+
+.legend th {
+  text-align: left;
+  font-size: 9.5px;
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  color: var(--quiet);
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--line);
+}
+
+.legend td {
+  padding: 6px 6px 6px 0;
+  font-size: 12.5px;
+  border-bottom: 1px solid rgba(118, 131, 154, .12);
+  white-space: nowrap;
+  vertical-align: middle;
+}
+
+.legend tr:last-child td { border-bottom: none; }
+
+.legend td small,
+.legend .sa { display: block; color: var(--quiet); font-size: 10px; }
+
+.legend .chip {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+.legend .glyph { font-size: 13px; }
+.legend .deg { font-variant-numeric: tabular-nums; color: var(--ink); }
+.legend .nak { color: var(--muted); font-size: 11px; }
+.legend .retro {
+  color: var(--gold-strong);
+  font-weight: 800;
+  text-align: center;
+  width: 18px;
+}
+
+.legend-note {
+  margin: 10px 0 0;
+  font-size: 10px;
+  line-height: 1.5;
+  color: var(--quiet);
+}
+
+/* ------------------------------------------------------------ controls */
+
+.controls {
+  position: absolute;
+  left: 50%;
+  bottom: 46px;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  padding: 8px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: rgba(9, 15, 30, .85);
+  backdrop-filter: blur(10px);
+}
+
+.ctl {
+  height: 32px;
+  border-radius: 999px;
+  border: 1px solid rgba(225, 205, 146, .25);
+  background: rgba(20, 30, 52, .9);
+  color: var(--ink);
+  font: inherit;
+  font-size: 12.5px;
+  padding: 0 14px;
+  cursor: pointer;
+}
+
+.ctl:hover { border-color: var(--line-strong); }
+
+.ctl.active {
+  color: #06231f;
+  background: var(--teal);
+  border-color: transparent;
+  font-weight: 700;
+}
+
+input.ctl[type="datetime-local"] { width: 190px; color-scheme: dark; }
+
+select.ctl { appearance: auto; }
+
+/* ---------------------------------------------------------- provenance */
+
+.provenance {
+  position: absolute;
+  left: 18px;
+  bottom: 12px;
+  max-width: min(560px, calc(100% - 36px));
+  margin: 0;
+  font-size: 10px;
+  line-height: 1.55;
+  color: rgba(118, 131, 154, .85);
+}
+
+/* ---------------------------------------------------------- responsive */
+
+@media (max-width: 900px) {
+  body.clock-page { overflow: auto; }
+
+  #stage { min-height: 62vh; }
+
+  .legend {
+    position: static;
+    width: auto;
+    margin: 10px 14px 90px;
+    max-height: none;
+    overflow-x: auto;
+  }
+
+  .controls { bottom: 14px; width: max-content; max-width: calc(100% - 20px); flex-wrap: wrap; justify-content: center; }
+
+  .provenance { display: none; }
+
+  .readouts { gap: 10px; }
+}
+
+/* ------------------------------------------------------- tribunal page */
+
+.tribunal-main {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 22px 18px 60px;
+}
+
+.tribunal-policy {
+  font-style: italic;
+  color: var(--muted);
+  border-left: 3px solid var(--line-strong);
+  padding-left: 12px;
+}
+
+.t-section { margin-top: 28px; }
+
+.t-section h2 {
+  font-size: 14px;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--gold);
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 8px;
+}
+
+.t-card {
+  margin: 12px 0;
+  padding: 14px 16px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: rgba(9, 15, 30, .82);
+}
+
+.t-card h3 { margin: 6px 0; font-size: 15px; }
+.t-card p { margin: 6px 0; font-size: 13px; color: var(--muted); line-height: 1.55; }
+
+.t-head { display: flex; align-items: center; gap: 10px; font-size: 12px; }
+.t-head time { margin-left: auto; color: var(--quiet); }
+
+.t-evidence {
+  margin: 8px 0 0;
+  padding: 8px 10px;
+  border-radius: 8px;
+  background: rgba(3, 7, 17, .8);
+  color: var(--teal);
+  font-size: 11px;
+  overflow-x: auto;
+}
+
+.badge.tier-measured { background: rgba(39, 197, 182, .18); color: var(--teal); }
+.badge.tier-doctrine { background: rgba(231, 189, 99, .16); color: var(--gold-strong); }
+.badge.tier-hypothesis { background: rgba(138, 125, 255, .18); color: #b3a8ff; }
+
+/* ------------------------------------------------- clock: extra panels */
+
+.cal-strip {
+  position: absolute;
+  top: 14px;
+  left: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 10px 12px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: rgba(9, 15, 30, .78);
+  backdrop-filter: blur(10px);
+  font-size: 11.5px;
+  max-width: 250px;
+}
+
+.cal-strip .cal-row { display: flex; gap: 8px; justify-content: space-between; }
+.cal-strip .cal-row small { color: var(--quiet); letter-spacing: .06em; }
+.cal-strip .cal-row strong { font-weight: 600; font-variant-numeric: tabular-nums; text-align: right; }
+
+.legend tr { cursor: pointer; }
+.legend tr:hover td { background: rgba(231, 189, 99, .06); }
+.legend .err { color: var(--quiet); font-size: 10px; }
+
+.lesson {
+  position: absolute;
+  left: 16px;
+  bottom: 92px;
+  width: min(360px, calc(100% - 32px));
+  max-height: 44vh;
+  overflow: auto;
+  padding: 14px 16px;
+  border: 1px solid var(--line-strong);
+  border-radius: 14px;
+  background: rgba(9, 15, 30, .92);
+  backdrop-filter: blur(12px);
+  box-shadow: 0 18px 48px rgba(0, 0, 0, .5);
+  display: none;
+}
+
+.lesson.open { display: block; }
+.lesson h3 { margin: 0 0 6px; font-size: 14px; color: var(--gold-strong); }
+.lesson .lesson-q { font-style: italic; color: var(--muted); font-size: 12px; margin: 0 0 8px; }
+.lesson p { margin: 6px 0; font-size: 12.5px; line-height: 1.6; color: var(--ink); }
+.lesson .lesson-tier { margin-top: 8px; }
+.lesson .close-x {
+  position: absolute; top: 8px; right: 10px;
+  background: none; border: none; color: var(--quiet);
+  font-size: 15px; cursor: pointer;
+}
+
+.hilal {
+  position: absolute;
+  top: 178px;
+  left: 16px;
+  width: 250px;
+  padding: 12px 14px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: rgba(9, 15, 30, .85);
+  backdrop-filter: blur(10px);
+  font-size: 12px;
+}
+
+.hilal h4 { margin: 0 0 8px; font-size: 11px; letter-spacing: .1em; text-transform: uppercase; color: var(--quiet); }
+.hilal .row { display: flex; justify-content: space-between; gap: 8px; padding: 2px 0; font-variant-numeric: tabular-nums; }
+.hilal .row small { color: var(--quiet); }
+.hilal input {
+  width: 100%;
+  margin: 2px 0;
+  padding: 5px 8px;
+  border-radius: 8px;
+  border: 1px solid rgba(225, 205, 146, .25);
+  background: rgba(20, 30, 52, .9);
+  color: var(--ink);
+  font: inherit;
+  font-size: 12px;
+}
+.hilal button { margin-top: 8px; width: 100%; }
+.hilal .disclaimer { margin: 8px 0 0; font-size: 10px; color: var(--quiet); line-height: 1.5; }
+
+.toolbar-links { display: flex; gap: 8px; align-items: center; }
+.toolbar-links a { text-decoration: none; }
+
+@media (max-width: 900px) {
+  .cal-strip { position: static; margin: 10px 14px; max-width: none; }
+  .hilal { position: static; width: auto; margin: 10px 14px; }
+  .lesson { bottom: 14px; }
+}

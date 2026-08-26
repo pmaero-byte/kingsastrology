@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kingsastrology Royal Review</title>
+  <link rel="stylesheet" href="/assets/app.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-mark">KA</div>
+        <div>
+          <h1>Kingsastrology</h1>
+          <p>Royal Review</p>
+        </div>
+      </div>
+
+      <section class="progress-panel" aria-label="Review progress">
+        <div class="progress-head">
+          <span id="progress-label">0%</span>
+          <small>approved</small>
+        </div>
+        <div class="progress-track">
+          <div id="progress-bar" class="progress-bar"></div>
+        </div>
+        <div class="metric-grid">
+          <div><strong id="metric-approved">0</strong><span>Approved</span></div>
+          <div><strong id="metric-needs">0</strong><span>Improve</span></div>
+          <div><strong id="metric-open">290</strong><span>Open</span></div>
+        </div>
+      </section>
+
+      <form class="filters" id="filters">
+        <label>
+          <span>Chapter</span>
+          <select id="chapter-filter">
+            <option value="">All chapters</option>
+          </select>
+        </label>
+        <label>
+          <span>Decision</span>
+          <select id="decision-filter">
+            <option value="">All decisions</option>
+            <option value="unreviewed">Unreviewed</option>
+            <option value="approved">Approved</option>
+            <option value="needs_improvement">Needs improvement</option>
+          </select>
+        </label>
+        <label>
+          <span>Classification</span>
+          <select id="classification-filter">
+            <option value="">All classes</option>
+            <option value="strength">Strength</option>
+            <option value="tend">Tend</option>
+            <option value="neutral">Neutral</option>
+            <option value="table">Table</option>
+          </select>
+        </label>
+        <label>
+          <span>Search</span>
+          <input id="search-filter" type="search" placeholder="Rule, title, verse">
+        </label>
+      </form>
+    </aside>
+
+    <main class="workspace">
+      <header class="workspace-header">
+        <div>
+          <p class="eyebrow">Chapters 8-20</p>
+          <h2>Legendary Rule Court</h2>
+        </div>
+        <div class="toolbar">
+          <span id="result-count">Loading</span>
+          <a href="/today">Today</a>
+          <a href="/clock">Spacetime Clock</a>
+          <a href="/tribunal">Tribunal</a>
+          <a href="/review/rules">Classic HTML</a>
+          <a href="/rules/scope">Scope JSON</a>
+        </div>
+      </header>
+
+      <section class="content-grid">
+        <nav class="rule-list" id="rule-list" aria-label="Rules"></nav>
+
+        <article class="inspector" id="inspector">
+          <div class="empty-state">
+            <h3>Loading rules</h3>
+            <p>The review workbench is preparing the rule set.</p>
+          </div>
+        </article>
+      </section>
+    </main>
+  </div>
+
+  <template id="rule-row-template">
+    <button class="rule-row" type="button">
+      <span class="row-top">
+        <strong class="row-id"></strong>
+        <span class="row-decision"></span>
+      </span>
+      <span class="row-title"></span>
+      <span class="row-meta"></span>
+    </button>
+  </template>
+
+  <script src="/assets/app.js" defer></script>
+</body>
+</html>

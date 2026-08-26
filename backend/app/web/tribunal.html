@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kingsastrology — The Tribunal</title>
+  <link rel="stylesheet" href="/assets/clock.css">
+</head>
+<body class="clock-page">
+  <header class="sky-head">
+    <div class="brand">
+      <div class="brand-mark">KA</div>
+      <div class="brand-text">
+        <h1>The Tribunal — المحكمة</h1>
+        <p>the court where this instrument publishes its own wounds</p>
+      </div>
+    </div>
+    <div class="readouts">
+      <a class="badge fast" href="/clock" style="text-decoration:none">← Spacetime Clock</a>
+      <a class="badge live" href="/api/v1/tribunal" style="text-decoration:none">Ledger JSON</a>
+    </div>
+  </header>
+
+  <main class="tribunal-main">
+    <p class="tribunal-policy" id="policy"></p>
+    <section id="ledger" aria-label="Falsification ledger"></section>
+  </main>
+
+  <script>
+    "use strict";
+    const TYPE_ORDER = ["verification", "limitation", "retraction", "pre_registration"];
+    const TYPE_TITLES = {
+      verification: "Verifications — what was checked and passed",
+      limitation: "Limitations & disclosures — what this instrument cannot yet claim",
+      retraction: "Retractions — findings withdrawn, engraved not deleted",
+      pre_registration: "Pre-registrations — claims staked before their outcomes exist",
+    };
+
+    fetch("/api/v1/tribunal").then(r => r.json()).then(data => {
+      document.getElementById("policy").textContent = data.policy || "";
+      const root = document.getElementById("ledger");
+      for (const type of TYPE_ORDER) {
+        const entries = data.entries.filter(e => e.type === type);
+        const section = document.createElement("section");
+        section.className = "t-section";
+        const h = document.createElement("h2");
+        h.textContent = `${TYPE_TITLES[type]} (${entries.length})`;
+        section.appendChild(h);
+        for (const e of entries) {
+          const card = document.createElement("article");
+          card.className = "t-card";
+          const tier = e.tier || "measured";
+          card.innerHTML = `
+            <div class="t-head">
+              <strong>${e.id}</strong>
+              <span class="badge tier-${tier}">${tier}</span>
+              <time>${e.date || "—"}</time>
+            </div>
+            <h3>${e.title}</h3>
+            <p>${e.detail}</p>
+            ${e.evidence ? `<pre class="t-evidence">${JSON.stringify(e.evidence, null, 1)}</pre>` : ""}
+          `;
+          section.appendChild(card);
+        }
+        root.appendChild(section);
+      }
+    }).catch(err => {
+      document.getElementById("ledger").innerHTML =
+        `<p class="t-card">The ledger could not be read: ${err.message}</p>`;
+    });
+  </script>
+</body>
+</html>
