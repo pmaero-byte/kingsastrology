@@ -12,6 +12,7 @@ from fastapi import APIRouter, HTTPException, Query
 
 from app.services import calendars as calendars_svc
 from app.services import crescent as crescent_svc
+from app.services import brief as brief_svc
 from app.services import panchanga as panchanga_svc
 from app.services import periods as periods_svc
 from app.services import qanun as qanun_svc
@@ -91,6 +92,19 @@ def now_strip(
     payload = panchanga_svc.now_strip(ms, lat, lon, elev_m)
     payload["calendars"] = calendars_svc.all_calendars(sky_engine.julian_day(ms))
     return payload
+
+
+@router.get("/brief")
+def brief(
+    lang: str = Query(default="en", pattern="^(en|hi|ar)$"),
+    timestamp_ms_utc: Optional[int] = Query(default=None),
+    lat: float = Query(default=28.6139, ge=-90, le=90),
+    lon: float = Query(default=77.2090, ge=-180, le=180),
+    elev_m: float = Query(default=216.0, ge=-430, le=9000),
+) -> dict:
+    """The Daily Brief: plain-language, tier-stamped, deterministic."""
+    ms = _parse_timestamp(timestamp_ms_utc)
+    return brief_svc.daily_brief(ms, lat, lon, elev_m, lang)
 
 
 @router.get("/report/day")

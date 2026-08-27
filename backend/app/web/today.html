@@ -17,6 +17,11 @@
     <nav class="top-links" aria-label="Site">
       <button id="streak-pill" class="loc-chip" type="button" title="Daily visit streak" aria-label="Daily streak">🔥 —</button>
       <button id="locate" class="loc-chip" type="button" title="Use my location">◎ <span id="loc-name">Delhi</span></button>
+      <select id="lang" class="lang-select" aria-label="Language">
+        <option value="en">EN</option>
+        <option value="hi">हिंदी</option>
+        <option value="ar">العربية</option>
+      </select>
       <a href="/clock">Spacetime Clock</a>
       <a href="/tribunal">Tribunal</a>
     </nav>
@@ -37,6 +42,15 @@
     </div>
     <div class="cal-ribbon" id="cal-ribbon">
       <span>loading calendars…</span>
+    </div>
+    <div class="brief" id="brief" aria-live="polite">
+      <div class="brief-head">
+        <span class="brief-title" id="brief-title">Today, plainly</span>
+        <span class="brief-lang" id="brief-lang"></span>
+      </div>
+      <div class="brief-lines" id="brief-lines"><p class="brief-line">…</p></div>
+      <div class="brief-tomorrow" id="brief-tomorrow"></div>
+      <div class="brief-skill" id="brief-skill"></div>
     </div>
     <a class="scroll-cue" href="#day">begin the journey</a>
   </section>

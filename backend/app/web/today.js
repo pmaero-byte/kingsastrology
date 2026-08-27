@@ -195,6 +195,7 @@ function renderYear() {
 
 function loadAll() {
   const q = state.obs ? `lat=${state.obs.lat}&lon=${state.obs.lon}` : "";
+  const lang = localStorage.getItem("ka-lang") || "en";
   const j = (url) => fetch(url).then((r) => r.json());
   Promise.all([
     j(`/api/v1/now?${q}&_=${Date.now()}`),
@@ -202,11 +203,44 @@ function loadAll() {
     j(`/api/v1/report/week?${q}&_=${Date.now()}`),
     j(`/api/v1/report/month?${q}&_=${Date.now()}`),
     j(`/api/v1/report/year?${q}&_=${Date.now()}`),
-  ]).then(([now, day, week, month, year]) => {
+    j(`/api/v1/brief?${q}&lang=${lang}&_=${Date.now()}`),
+  ]).then(([now, day, week, month, year, brief]) => {
     state.now = now; state.day = day; state.week = week; state.month = month; state.year = year;
+    renderBrief(brief);
     renderHero(); renderDay(); renderWeek(); renderMonth(); renderYear();
   }).catch((err) => {
     $("hero-date").textContent = "The court could not be reached: " + err.message;
+  });
+}
+
+/* ----------------------------------------------------------- daily brief */
+
+function renderBrief(b) {
+  state.brief = b;
+  const lines = b.lines.map((l) =>
+    `<p class="brief-line" data-tier="${l.tier}">${l.text}<small class="tier-tag">${l.tier}</small></p>`
+  ).join("");
+  $("brief-lines").innerHTML = lines;
+  $("brief-tomorrow").innerHTML = `☾ ${b.tomorrow.text}`;
+  $("brief-skill").textContent = b.skill_statement;
+  $("brief-lang").textContent = { en: "English", hi: "हिंदी", ar: "العربية" }[b.lang];
+  const rtl = b.lang === "ar";
+  $("brief").setAttribute("dir", rtl ? "rtl" : "ltr");
+}
+
+function wireLang() {
+  const sel = $("lang");
+  let saved = "en";
+  try { saved = localStorage.getItem("ka-lang") || "en"; } catch (e) { void e; }
+  sel.value = saved;
+  sel.addEventListener("change", () => {
+    const lang = sel.value;
+    try { localStorage.setItem("ka-lang", lang); } catch (e) { void e; }
+    const q = state.obs ? `&lat=${state.obs.lat}&lon=${state.obs.lon}` : "";
+    fetch(`/api/v1/brief?lang=${lang}${q}&_=${Date.now()}`)
+      .then((r) => r.json())
+      .then(renderBrief)
+      .catch(() => {});
   });
 }
 
@@ -335,4 +369,5 @@ wireShare();
 wireRemind();
 wireDotNav();
 wireReveal();
+wireLang();
 startLiveTicking();
