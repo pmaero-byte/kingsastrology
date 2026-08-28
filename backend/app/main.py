@@ -49,6 +49,10 @@ def create_app() -> FastAPI:
     def spacetime_clock() -> FileResponse:
         return FileResponse(_web_dir() / "clock.html")
 
+    @app.get("/mirror")
+    def mirror_page() -> FileResponse:
+        return FileResponse(_web_dir() / "mirror.html")
+
     @app.get("/tribunal")
     def tribunal_page() -> FileResponse:
         return FileResponse(_web_dir() / "tribunal.html")

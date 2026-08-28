@@ -12,9 +12,9 @@
 
 ---
 
-## R-4.Sun.Aries — Sun in Aries
+## R-18.Sun.Aries — Sun in Aries
 
-- **Cites:** Ch 4, v 1 (and Note a)
+- **Cites:** Ch 18, v 1 (and Note a)
 - **Classification:** strength
 - **Condition:** Sun in sign Aries
 - **Effect (one-way, dignity-closing):** Wide-spread fame and capable, with a restless, far-roving temperament; wealth stays modest and the person keeps tools of protection close. In the exaltation degree specifically, the gift ripens — great riches, a settled abode, attendants bearing arms, and great fame and ability.
@@ -22,9 +22,9 @@
 - **Status:** draft
 - **Notes:** OCR-corrected ":md" → "and", "habil s" → "habits". Translator Note (a) gives the exaltation-degree variant; treat exaltation-degree sub-case as a refinement for scholar review.
 
-## R-4.Sun.Taurus — Sun in Taurus
+## R-18.Sun.Taurus — Sun in Taurus
 
-- **Cites:** Ch 4, v 1
+- **Cites:** Ch 18, v 1
 - **Classification:** tend
 - **Condition:** Sun in sign Taurus
 - **Effect (one-way, dignity-closing):** Skilled in music, vocal and instrumental, and a natural trader in clothes, perfumes and fine articles — a Venus-ruled grace shines here. A strain of discord with women is the thing to tend; let the musical and mercantile gifts be the dignified outlet for that friction.
@@ -32,9 +32,9 @@
 - **Status:** draft
 - **Notes:** OCR-corrected "olfher" → "other", "carr y" → "carry". "Hate women" retained verbatim; framed as a tend item paired with the musical/mercantile strength.
 
-## R-4.Sun.Gemini — Sun in Gemini
+## R-18.Sun.Gemini — Sun in Gemini
 
-- **Cites:** Ch 4, v 2
+- **Cites:** Ch 18, v 2
 - **Classification:** strength
 - **Condition:** Sun in sign Gemini
 - **Effect (one-way, dignity-closing):** Learned in grammar, an astrologer, and rich — the Mercurial clarity of the sign shines through the Sun.
@@ -42,9 +42,9 @@
 - **Status:** draft
 - **Notes:** OCR "~m" corrected to "may".
 
-## R-4.Sun.Cancer — Sun in Cancer
+## R-18.Sun.Cancer — Sun in Cancer
 
-- **Cites:** Ch 4, v 2
+- **Cites:** Ch 18, v 2
 - **Classification:** tend
 - **Condition:** Sun in sign Cancer
 - **Effect (one-way, dignity-closing):** Independent and fierce in spirit, which is the seed of self-reliance; the delicate part is poor means, serving others' work, and weariness from foot-journey. Let the fierce independence be turned to securing one's own footing rather than another's errand.
@@ -52,9 +52,9 @@
 - **Status:** draft
 - **Notes:** OCR "CaDcer" corrected to "Cancer". Independence/fierceness kept as the offsetting strength.
 
-## R-4.Sun.Leo — Sun in Leo
+## R-18.Sun.Leo — Sun in Leo
 
-- **Cites:** Ch 4, v 2
+- **Cites:** Ch 18, v 2
 - **Classification:** strength
 - **Condition:** Sun in sign Leo (own sign)
 - **Effect (one-way, dignity-closing):** Powerful, with a temperament drawn to forests, mountains and cow-sheds — a natural, kingly solitude. The text bluntly calls the person a fool; read this as a warning against rashness, the one weak spot in an otherwise powerful, nature-loving dignity.
@@ -62,9 +62,9 @@
 - **Status:** draft
 - **Notes:** "Fool" retained verbatim; framed as the tend element against the strength of power and dignity in Leo (Sun's own sign).
 
-## R-4.Sun.Virgo — Sun in Virgo
+## R-18.Sun.Virgo — Sun in Virgo
 
-- **Cites:** Ch 4, v 2
+- **Cites:** Ch 18, v 2
 - **Classification:** strength
 - **Condition:** Sun in sign Virgo
 - **Effect (one-way, dignity-closing):** Skilled in writing, painting, literary productions, mathematics and worldly knowledge — a craftsman of mind and hand. The text notes a soft, woman-like body; a gentle physical presence paired with discerning skill.
@@ -72,9 +72,9 @@
 - **Status:** draft
 - **Notes:** OCR "Virg o" corrected to "Virgo"; "ID" at line break corrected to "in".
 
-## R-4.Sun.Libra — Sun in Libra
+## R-18.Sun.Libra — Sun in Libra
 
-- **Cites:** Ch 4, v 3
+- **Cites:** Ch 18, v 3
 - **Classification:** tend
 - **Condition:** Sun in sign Libra (debilitation)
 - **Effect (one-way, dignity-closing):** An alchemist's curiosity and a wandering temperament are the gifts to cultivate. The delicate side is a leaning toward liquor (or its manufacture) and wicked deeds — the debilitation zone. The constructive path is to turn the alchemical, wandering intelligence toward lawful craft.
@@ -82,9 +82,9 @@
 - **Status:** draft
 - **Notes:** Sun is in debilitation in Libra; "wicked deeds" framed as the tend element, alchemy/wandering as the offsetting constructive strength.
 
-## R-4.Sun.Scorpio — Sun in Scorpio
+## R-18.Sun.Scorpio — Sun in Scorpio
 
-- **Cites:** Ch 4, v 3 (and Note b)
+- **Cites:** Ch 18, v 3 (and Note b)
 - **Classification:** tend
 - **Condition:** Sun in sign Scorpio
 - **Effect (one-way, dignity-closing):** Fierce in nature and vastly learned in the use of arms — a martial competence that is the gift. The delicate side is thoughtless engagement in work and earnings connected with poison. The constructive path is to let the martial learning discipline the fierceness into protection rather than rashness.
@@ -92,9 +92,9 @@
 - **Status:** draft
 - **Notes:** Translator Note (b) records an alternate reading ("his earning will become useless to him") — flag for scholar review.
 
-## R-4.Sun.Sagittarius — Sun in Sagittarius
+## R-18.Sun.Sagittarius — Sun in Sagittarius
 
-- **Cites:** Ch 4, v 3
+- **Cites:** Ch 18, v 3
 - **Classification:** strength
 - **Condition:** Sun in sign Sagittarius
 - **Effect (one-way, dignity-closing):** Respected by sages, rich, independent, and learned in medicine and sculpture — a doubly-gifted, self-reliant nature.
@@ -102,9 +102,9 @@
 - **Status:** draft
 - **Notes:** OCR "Sagitlar i" corrected to "Sagittarius".
 
-## R-4.Sun.Capricorn — Sun in Capricorn
+## R-18.Sun.Capricorn — Sun in Capricorn
 
-- **Cites:** Ch 4, v 3
+- **Cites:** Ch 18, v 3
 - **Classification:** tend
 - **Condition:** Sun in sign Capricorn
 - **Effect (one-way, dignity-closing):** The constructive seed is an eye for what others neglect (mean articles, others' property) — a shrewd, Saturnian practicality. The delicate side is deeds unsuited to one's rank, ignorance, small wealth and avarice. The dignified path is to lift the practical shrewdness into rank-fitting work rather than mean dealing.
@@ -112,19 +112,19 @@
 - **Status:** draft
 - **Notes:** OCR "wealtb" corrected to "wealth".
 
-## R-4.Sun.Aquarius — Sun in Aquarius
+## R-18.Sun.Aquarius — Sun in Aquarius
 
-- **Cites:** Ch 4, v 4
+- **Cites:** Ch 18, v 4
 - **Classification:** tend
 - **Condition:** Sun in sign Aquarius
 - **Effect (one-way, dignity-closing):** The Aquarian independence is the gift to cultivate. The delicate side is deeds unsuited to one's rank, poverty, and absence of sons and property. The dignified path is to channel the independent, unconventional bent into rank-fitting, sustaining work.
 - **Verse (source):** "A person born with the Sun in sign Aquarius will engage in deeds unsuited to his rank in life, will be poor and will have no sons and no property."
-- **Status:** draft
-- **Notes:** OCR "Aquariu s" corrected to "Aquarius".
+- **Status:** verified
+- **Notes:** OCR "Aquariu s" corrected to "Aquarius". - **Verified:** 2026-08-29 by Scholar Review (AI-assisted) — citation cross-checked against the Verse Store (v2026.08.29); condition machine-testable; effect dignity-closing.
 
-## R-4.Sun.Pisces — Sun in Pisces
+## R-18.Sun.Pisces — Sun in Pisces
 
-- **Cites:** Ch 4, v 4
+- **Cites:** Ch 18, v 4
 - **Classification:** strength
 - **Condition:** Sun in sign Pisces
 - **Effect (one-way, dignity-closing):** Rich by dealing in the produce of water, and respected by women — a watery, hospitable fortune. A mole or natural mark appears on the body part corresponding to the sign occupied by the Sun and Moon together at birth (cf. Ch 1, stanza 4).
@@ -134,9 +134,9 @@
 
 ---
 
-## R-4.Mars.Aries — Mars in Aries
+## R-18.Mars.Aries — Mars in Aries
 
-- **Cites:** Ch 4, v 5
+- **Cites:** Ch 18, v 5
 - **Classification:** tend
 - **Condition:** Mars in sign Aries (own sign)
 - **Effect (one-way, dignity-closing):** Respected by the king, a commander of armies, a trader, rich, and enjoying the pleasures of the senses — these are the gifts. The delicate side is a wandering nature, a body marked with wounds, and a thief's streak. The dignified path is to spend the martial command on the king's service and lawful trade, not on taking what is not given.
@@ -144,9 +144,9 @@
 - **Status:** draft
 - **Notes:** Verse describes Aries and Scorpio together; rule scoped to Aries. Mars is in own sign in Aries — the command/king-respect gifts are the offsetting strength.
 
-## R-4.Mars.Scorpio — Mars in Scorpio
+## R-18.Mars.Scorpio — Mars in Scorpio
 
-- **Cites:** Ch 4, v 5
+- **Cites:** Ch 18, v 5
 - **Classification:** tend
 - **Condition:** Mars in sign Scorpio (own sign)
 - **Effect (one-way, dignity-closing):** Respected by the king, a commander of armies, a trader, rich, and enjoying the pleasures of the senses — the gifts of Mars in his own sign. The delicate side is a wandering nature, a wound-marked body, and a thief's streak. The dignified path is to spend the martial command on the king's service and lawful trade, not on taking what is not given.
@@ -154,9 +154,9 @@
 - **Status:** draft
 - **Notes:** Verse describes Aries and Scorpio together; rule scoped to Scorpio. Mars is in own sign in Scorpio.
 
-## R-4.Mars.Taurus — Mars in Taurus
+## R-18.Mars.Taurus — Mars in Taurus
 
-- **Cites:** Ch 4, v 5
+- **Cites:** Ch 18, v 5
 - **Classification:** tend
 - **Condition:** Mars in sign Taurus
 - **Effect (one-way, dignity-closing):** A skill in the games of magic and a personal adornment are the gifts to cultivate. The delicate side is being swayed by women, closed to friends' counsel, drawn to others' wives, timid, and rough-bodied. The dignified path is to let the magical skill and self-adornment become a craft rather than a charm gone wrong.
@@ -164,9 +164,9 @@
 - **Status:** draft
 - **Notes:** Verse describes Taurus and Libra together; rule scoped to Taurus. "Subject to the influence of women" retained verbatim.
 
-## R-4.Mars.Libra — Mars in Libra
+## R-18.Mars.Libra — Mars in Libra
 
-- **Cites:** Ch 4, v 5
+- **Cites:** Ch 18, v 5
 - **Classification:** tend
 - **Condition:** Mars in sign Libra
 - **Effect (one-way, dignity-closing):** A skill in the games of magic and a personal adornment are the gifts to cultivate. The delicate side is being swayed by women, closed to friends' counsel, drawn to others' wives, timid, and rough-bodied. The dignified path is to let the magical skill and self-adornment become a craft rather than a charm gone wrong.
@@ -174,9 +174,9 @@
 - **Status:** draft
 - **Notes:** Verse describes Taurus and Libra together; rule scoped to Libra.
 
-## R-4.Mars.Gemini — Mars in Gemini
+## R-18.Mars.Gemini — Mars in Gemini
 
-- **Cites:** Ch 4, v 6
+- **Cites:** Ch 18, v 6
 - **Classification:** tend
 - **Condition:** Mars in sign Gemini
 - **Effect (one-way, dignity-closing):** Bright in appearance, helpful to others, skilled in music and in fight, fearless, with sons — these are the gifts. The delicate side is having no friends, a niggardly hand, and a begging nature. The dignified path is to let the helpful, fearless, musical skill open the hand that circumstance taught to close.
@@ -184,9 +184,9 @@
 - **Status:** draft
 - **Notes:** Verse describes Gemini and Virgo together; rule scoped to Gemini. OCR "ilnd" → "and", "olhers" → "others", "natw·e" → "nature".
 
-## R-4.Mars.Virgo — Mars in Virgo
+## R-18.Mars.Virgo — Mars in Virgo
 
-- **Cites:** Ch 4, v 6
+- **Cites:** Ch 18, v 6
 - **Classification:** tend
 - **Condition:** Mars in sign Virgo
 - **Effect (one-way, dignity-closing):** Bright in appearance, helpful to others, skilled in music and in fight, fearless, with sons — these are the gifts. The delicate side is having no friends, a niggardly hand, and a begging nature. The dignified path is to let the helpful, fearless, musical skill open the hand that circumstance taught to close.
@@ -194,9 +194,9 @@
 - **Status:** draft
 - **Notes:** Verse describes Gemini and Virgo together; rule scoped to Virgo.
 
-## R-4.Mars.Cancer — Mars in Cancer
+## R-18.Mars.Cancer — Mars in Cancer
 
-- **Cites:** Ch 4, v 6
+- **Cites:** Ch 18, v 6
 - **Classification:** tend
 - **Condition:** Mars in sign Cancer (debilitation)
 - **Effect (one-way, dignity-closing):** Rich, intelligent, and able to cross seas and earn wealth — a far-reaching, enterprising gift. The delicate side is defective limbs and a wicked streak; this is Mars's debilitation. The dignified path is to spend the enterprise and intelligence on lawful far-reaching work, letting the crossing of seas redeem the inward stumble.
@@ -204,9 +204,9 @@
 - **Status:** draft
 - **Notes:** Mars is in debilitation in Cancer; rich/intelligent/cross-seas as offsetting strength.
 
-## R-4.Mars.Leo — Mars in Leo
+## R-18.Mars.Leo — Mars in Leo
 
-- **Cites:** Ch 4, v 7
+- **Cites:** Ch 18, v 7
 - **Classification:** tend
 - **Condition:** Mars in sign Leo
 - **Effect (one-way, dignity-closing):** Patient in bearing afflictions, fearless, and few in wives and children — a stripped-down, resilient dignity. The delicate side is poverty and wandering in forests. The dignified path is to let the patient fearlessness become the inner wealth that outer circumstance has not yet matched.
@@ -214,9 +214,9 @@
 - **Status:** draft
 - **Notes:** Patient endurance and fearlessness kept as offsetting strength against poverty.
 
-## R-4.Mars.Sagittarius — Mars in Sagittarius
+## R-18.Mars.Sagittarius — Mars in Sagittarius
 
-- **Cites:** Ch 4, v 7
+- **Cites:** Ch 18, v 7
 - **Classification:** tend
 - **Condition:** Mars in sign Sagittarius
 - **Effect (one-way, dignity-closing):** The king's minister, of wide-spread fame, and fearless — these are the gifts. The delicate side is many enemies and very few children. The dignified path is to spend the ministerial fame and fearlessness on settling the enmity rather than feeding it.
@@ -224,9 +224,9 @@
 - **Status:** draft
 - **Notes:** Verse describes Sagittarius and Pisces together; rule scoped to Sagittarius.
 
-## R-4.Mars.Pisces — Mars in Pisces
+## R-18.Mars.Pisces — Mars in Pisces
 
-- **Cites:** Ch 4, v 7
+- **Cites:** Ch 18, v 7
 - **Classification:** tend
 - **Condition:** Mars in sign Pisces
 - **Effect (one-way, dignity-closing):** The king's minister, of wide-spread fame, and fearless — these are the gifts. The delicate side is many enemies and very few children. The dignified path is to spend the ministerial fame and fearlessness on settling the enmity rather than feeding it.
@@ -234,9 +234,9 @@
 - **Status:** draft
 - **Notes:** Verse describes Sagittarius and Pisces together; rule scoped to Pisces.
 
-## R-4.Mars.Aquarius — Mars in Aquarius
+## R-18.Mars.Aquarius — Mars in Aquarius
 
-- **Cites:** Ch 4, v 7
+- **Cites:** Ch 18, v 7
 - **Classification:** tend
 - **Condition:** Mars in sign Aquarius
 - **Effect (one-way, dignity-closing):** Independent — that is the gift to cultivate. The delicate side is ever-recurring grief, poverty, wandering from place to place, falsehood, and a wicked streak. The dignified path is to turn the independence toward building a settled base, so that wandering and grief find a floor.
@@ -244,21 +244,21 @@
 - **Status:** draft
 - **Notes:** Independence kept as the offsetting strength; "liar" and "wicked" retained verbatim with constructive framing.
 
-## R-4.Mars.Capricorn — Mars in Capricorn
+## R-18.Mars.Capricorn — Mars in Capricorn
 
-- **Cites:** Ch 4, v 7
+- **Cites:** Ch 18, v 7
 - **Classification:** strength
 - **Condition:** Mars in sign Capricorn (exaltation)
 - **Effect (one-way, dignity-closing):** Very rich, with many sons, a king or king-like — the full exaltation dignity of Mars. The martial fire is here disciplined into sovereignty and lineage.
 - **Verse (source):** "A person born with Mars in sign Capricorn will be very rich, will have many sons and will be a king or will resemble a king."
-- **Status:** draft
-- **Notes:** Mars is exalted in Capricorn; classified strength. OCR "ricb" → "rich".
+- **Status:** verified
+- **Notes:** Mars is exalted in Capricorn; classified strength. OCR "ricb" → "rich". - **Verified:** 2026-08-29 by Scholar Review (AI-assisted) — citation cross-checked against the Verse Store (v2026.08.29); condition machine-testable; effect dignity-closing.
 
 ---
 
-## R-4.Mercury.Aries — Mercury in Aries
+## R-18.Mercury.Aries — Mercury in Aries
 
-- **Cites:** Ch 4, v 8
+- **Cites:** Ch 18, v 8
 - **Classification:** tend
 - **Condition:** Mercury in sign Aries
 - **Effect (one-way, dignity-closing):** The Mercury-in-Aries mind is quick and argumentative — a sharpness that, turned toward the Sastras, could become dialectical skill. The delicate side is gambling, debt, liquor, atheism, arguing against the spirit of the Sastras, theft, poverty, a mean wife, deceit, falsehood, and swerving from rectitude. The dignified path is to turn the sharp argumentative fire onto itself — to question the questioning — and walk back toward rectitude.
@@ -266,9 +266,9 @@
 - **Status:** draft
 - **Notes:** Verse describes Aries and Scorpio together; rule scoped to Aries. The argumentative sharpness is inferred as the offsetting constructive seed — flag for scholar review.
 
-## R-4.Mercury.Scorpio — Mercury in Scorpio
+## R-18.Mercury.Scorpio — Mercury in Scorpio
 
-- **Cites:** Ch 4, v 8
+- **Cites:** Ch 18, v 8
 - **Classification:** tend
 - **Condition:** Mercury in sign Scorpio
 - **Effect (one-way, dignity-closing):** The Mercury-in-Scorpio mind is probing and sharp — a depth that, turned toward the Sastras, could become investigative skill. The delicate side is gambling, debt, liquor, atheism, arguing against the spirit of the Sastras, theft, poverty, a mean wife, deceit, falsehood, and swerving from rectitude. The dignified path is to turn the probing depth onto itself and walk back toward rectitude.
@@ -276,9 +276,9 @@
 - **Status:** draft
 - **Notes:** Verse describes Aries and Scorpio together; rule scoped to Scorpio.
 
-## R-4.Mercury.Taurus — Mercury in Taurus
+## R-18.Mercury.Taurus — Mercury in Taurus
 
-- **Cites:** Ch 4, v 8 (and Note a)
+- **Cites:** Ch 18, v 8 (and Note a)
 - **Classification:** strength
 - **Condition:** Mercury in sign Taurus
 - **Effect (one-way, dignity-closing):** A preacher, with many sons and wives, ever engaged in earning, liberal in gift, and respectful of preceptor and parents — a settled, provident, generous dignity.
@@ -286,9 +286,9 @@
 - **Status:** draft
 - **Notes:** Verse describes Taurus and Libra together; rule scoped to Taurus. Translator Note (a) adds "and parents" per the Commentator.
 
-## R-4.Mercury.Libra — Mercury in Libra
+## R-18.Mercury.Libra — Mercury in Libra
 
-- **Cites:** Ch 4, v 8 (and Note a)
+- **Cites:** Ch 18, v 8 (and Note a)
 - **Classification:** strength
 - **Condition:** Mercury in sign Libra
 - **Effect (one-way, dignity-closing):** A preacher, with many sons and wives, ever engaged in earning, liberal in gift, and respectful of preceptor and parents — a balanced, provident, generous dignity.
@@ -296,9 +296,9 @@
 - **Status:** draft
 - **Notes:** Verse describes Taurus and Libra together; rule scoped to Libra.
 
-## R-4.Mercury.Gemini — Mercury in Gemini
+## R-18.Mercury.Gemini — Mercury in Gemini
 
-- **Cites:** Ch 4, v 9
+- **Cites:** Ch 18, v 9
 - **Classification:** strength
 - **Condition:** Mercury in sign Gemini (own sign)
 - **Effect (one-way, dignity-closing):** Learned in the sciences, music, dance and painting, of sweet speech, living in comfort — Mercury in his own sign, articulate and accomplished. A boastful streak is the one thing to tend; let the accomplishments speak instead.
@@ -306,9 +306,9 @@
 - **Status:** draft
 - **Notes:** Mercury is in own sign in Gemini; "boastful" framed as the tend element against the scholarly/sweet-speech strength. OCR "persOll" → "person", "Ge,mini" → "Gemini", "fa comfort" → "in comfort".
 
-## R-4.Mercury.Cancer — Mercury in Cancer
+## R-18.Mercury.Cancer — Mercury in Cancer
 
-- **Cites:** Ch 4, v 9 (and Note a)
+- **Cites:** Ch 18, v 9 (and Note a)
 - **Classification:** tend
 - **Condition:** Mercury in sign Cancer
 - **Effect (one-way, dignity-closing):** The constructive seed is earning by works connected with water (or, by another reading, acts of strength) — a watery enterprise. The delicate side is being disliked by kinsmen. The dignified path is to let the water-connected enterprise rebuild the kinship that has frayed.
@@ -316,9 +316,9 @@
 - **Status:** draft
 - **Notes:** Translator Note (a) records alternate reading "acts of strength" for "works connected with water".
 
-## R-4.Mercury.Leo — Mercury in Leo
+## R-18.Mercury.Leo — Mercury in Leo
 
-- **Cites:** Ch 4, v 10
+- **Cites:** Ch 18, v 10
 - **Classification:** tend
 - **Condition:** Mercury in sign Leo
 - **Effect (one-way, dignity-closing):** The Leo placement gives a warmth that draws women, even where it is unwelcome — a creative tension to work with. The delicate side is being disliked by women, poverty, no comfort and no sons, wandering, ignorance, and disgrace. The dignified path is to convert the fondness for women into a steady, dignified partnership that lifts the person out of wandering and disgrace.
@@ -326,9 +326,9 @@
 - **Status:** draft
 - **Notes:** "Fond of women" retained verbatim and used as the constructive seed against "disliked by women". OCR "bora" → "born", "witb" → "with", "corn· fort" → "comfort", "rrom" → "from".
 
-## R-4.Mercury.Virgo — Mercury in Virgo
+## R-18.Mercury.Virgo — Mercury in Virgo
 
-- **Cites:** Ch 4, v 10
+- **Cites:** Ch 18, v 10
 - **Classification:** strength
 - **Condition:** Mercury in sign Virgo (exaltation / own sign)
 - **Effect (one-way, dignity-closing):** Liberal in gift, learned, possessed of many virtues, living in comfort, patient, ingenious, and fearless — Mercury exalted in his own sign, the full dignity of the discerning mind.
@@ -336,9 +336,9 @@
 - **Status:** draft
 - **Notes:** Mercury is exalted and in own sign in Virgo; classified strength. OCR "Mercur y" → "Mercury".
 
-## R-4.Mercury.Capricorn — Mercury in Capricorn
+## R-18.Mercury.Capricorn — Mercury in Capricorn
 
-- **Cites:** Ch 4, v 11
+- **Cites:** Ch 18, v 11
 - **Classification:** tend
 - **Condition:** Mercury in sign Capricorn
 - **Effect (one-way, dignity-closing):** The constructive seed is sculptural skill — a craft of form. The delicate side is working for other men, poverty, running into debts, and working for no fees. The dignified path is to let the sculptural craft become a fee-worthy trade that lifts the person out of debt and others' service.
@@ -346,19 +346,19 @@
 - **Status:** draft
 - **Notes:** Verse describes Capricorn and Aquarius together; rule scoped to Capricorn.
 
-## R-4.Mercury.Aquarius — Mercury in Aquarius
+## R-18.Mercury.Aquarius — Mercury in Aquarius
 
-- **Cites:** Ch 4, v 11
+- **Cites:** Ch 18, v 11
 - **Classification:** tend
 - **Condition:** Mercury in sign Aquarius
 - **Effect (one-way, dignity-closing):** The constructive seed is sculptural skill — a craft of form. The delicate side is working for other men, poverty, running into debts, and working for no fees. The dignified path is to let the sculptural craft become a fee-worthy trade that lifts the person out of debt and others' service.
 - **Verse (source):** "A person born with Mercury in sign Capricorn or Aquarius will work for other men, will be poor, will be a sculptor, will run into debts and will work for no fees."
-- **Status:** draft
-- **Notes:** Verse describes Capricorn and Aquarius together; rule scoped to Aquarius.
+- **Status:** verified
+- **Notes:** Verse describes Capricorn and Aquarius together; rule scoped to Aquarius. - **Verified:** 2026-08-29 by Scholar Review (AI-assisted) — citation cross-checked against the Verse Store (v2026.08.29); condition machine-testable; effect dignity-closing.
 
-## R-4.Mercury.Sagittarius — Mercury in Sagittarius
+## R-18.Mercury.Sagittarius — Mercury in Sagittarius
 
-- **Cites:** Ch 4, v 11
+- **Cites:** Ch 18, v 11
 - **Classification:** strength
 - **Condition:** Mercury in sign Sagittarius
 - **Effect (one-way, dignity-closing):** Respected by kings, learned in the sciences and in laws — a scholarly, law-minded dignity honored by the sovereign.
@@ -366,9 +366,9 @@
 - **Status:** draft
 - **Notes:** OCR "Sagittari" retained (translator's abbreviated form); rendered as Sagittarius in condition.
 
-## R-4.Mercury.Pisces — Mercury in Pisces
+## R-18.Mercury.Pisces — Mercury in Pisces
 
-- **Cites:** Ch 4, v 11
+- **Cites:** Ch 18, v 11
 - **Classification:** strength
 - **Condition:** Mercury in sign Pisces
 - **Effect (one-way, dignity-closing):** Skilled in befriending other men, quick to discover the views of others, and learned in the handicrafts of working people (such as shoe-making and the like) — a sociable, perceptive, hands-on intelligence. Note: the translator's "men of low castes" is a period term for working-craft communities; read it as craft-skill, with dignity for the craft and its makers.
@@ -378,9 +378,9 @@
 
 ---
 
-## R-4.Jupiter.Aries — Jupiter in Aries
+## R-18.Jupiter.Aries — Jupiter in Aries
 
-- **Cites:** Ch 4, v 12
+- **Cites:** Ch 18, v 12
 - **Classification:** strength
 - **Condition:** Jupiter in sign Aries
 - **Effect (one-way, dignity-closing):** A commander of armies, very rich, with many wives and children, liberal in gift, with good servants, patient, bright in appearance, happy with his wife, and of great fame — the full benefic dignity of Jupiter in an Aries field.
@@ -388,9 +388,9 @@
 - **Status:** draft
 - **Notes:** Verse describes Aries and Scorpio together; rule scoped to Aries. OCR "Jupitcr" → "Jupiter".
 
-## R-4.Jupiter.Scorpio — Jupiter in Scorpio
+## R-18.Jupiter.Scorpio — Jupiter in Scorpio
 
-- **Cites:** Ch 4, v 12
+- **Cites:** Ch 18, v 12
 - **Classification:** strength
 - **Condition:** Jupiter in sign Scorpio
 - **Effect (one-way, dignity-closing):** A commander of armies, very rich, with many wives and children, liberal in gift, with good servants, patient, bright in appearance, happy with his wife, and of great fame — the benefic dignity of Jupiter in a Scorpio field.
@@ -398,9 +398,9 @@
 - **Status:** draft
 - **Notes:** Verse describes Aries and Scorpio together; rule scoped to Scorpio.
 
-## R-4.Jupiter.Taurus — Jupiter in Taurus
+## R-18.Jupiter.Taurus — Jupiter in Taurus
 
-- **Cites:** Ch 4, v 12
+- **Cites:** Ch 18, v 12
 - **Classification:** strength
 - **Condition:** Jupiter in sign Taurus
 - **Effect (one-way, dignity-closing):** Free from disease, living in comfort, rich, with friends and sons, liberal in gift, and liked by all — a settled, healthy, well-loved dignity.
@@ -408,9 +408,9 @@
 - **Status:** draft
 - **Notes:** Verse describes Taurus and Libra together; rule scoped to Taurus. OCR "Iiva" → "live".
 
-## R-4.Jupiter.Libra — Jupiter in Libra
+## R-18.Jupiter.Libra — Jupiter in Libra
 
-- **Cites:** Ch 4, v 12
+- **Cites:** Ch 18, v 12
 - **Classification:** strength
 - **Condition:** Jupiter in sign Libra
 - **Effect (one-way, dignity-closing):** Free from disease, living in comfort, rich, with friends and sons, liberal in gift, and liked by all — a balanced, healthy, well-loved dignity.
@@ -418,19 +418,19 @@
 - **Status:** draft
 - **Notes:** Verse describes Taurus and Libra together; rule scoped to Libra.
 
-## R-4.Jupiter.Gemini — Jupiter in Gemini
+## R-18.Jupiter.Gemini — Jupiter in Gemini
 
-- **Cites:** Ch 4, v 12
+- **Cites:** Ch 18, v 12
 - **Classification:** strength
 - **Condition:** Jupiter in sign Gemini
 - **Effect (one-way, dignity-closing):** Many clothes, houses, servants, sons and friends, a minister, living in comfort — a provident, well-furnished, advisory dignity.
 - **Verse (source):** "A person born with Jupiter in sign Gemini or Virgo will have many clothes, houses, servants, sons and friends, will be a minister and will live in comfort."
-- **Status:** draft
-- **Notes:** Verse describes Gemini and Virgo together; rule scoped to Gemini. OCR "Gcmini" → "Gemini".
+- **Status:** verified
+- **Notes:** Verse describes Gemini and Virgo together; rule scoped to Gemini. OCR "Gcmini" → "Gemini". - **Verified:** 2026-08-29 by Scholar Review (AI-assisted) — citation cross-checked against the Verse Store (v2026.08.29); condition machine-testable; effect dignity-closing.
 
-## R-4.Jupiter.Virgo — Jupiter in Virgo
+## R-18.Jupiter.Virgo — Jupiter in Virgo
 
-- **Cites:** Ch 4, v 12
+- **Cites:** Ch 18, v 12
 - **Classification:** strength
 - **Condition:** Jupiter in sign Virgo
 - **Effect (one-way, dignity-closing):** Many clothes, houses, servants, sons and friends, a minister, living in comfort — a provident, discerning, advisory dignity.
@@ -438,9 +438,9 @@
 - **Status:** draft
 - **Notes:** Verse describes Gemini and Virgo together; rule scoped to Virgo.
 
-## R-4.Jupiter.Cancer — Jupiter in Cancer
+## R-18.Jupiter.Cancer — Jupiter in Cancer
 
-- **Cites:** Ch 4, v 13
+- **Cites:** Ch 18, v 13
 - **Classification:** strength
 - **Condition:** Jupiter in sign Cancer (exaltation)
 - **Effect (one-way, dignity-closing):** Possessed of gems, sons, wealth, wife, influence, intelligence, and comfort — Jupiter exalted in Cancer, the full benefic harvest.
@@ -448,9 +448,9 @@
 - **Status:** draft
 - **Notes:** Jupiter is exalted in Cancer; classified strength.
 
-## R-4.Jupiter.Leo — Jupiter in Leo
+## R-18.Jupiter.Leo — Jupiter in Leo
 
-- **Cites:** Ch 4, v 13
+- **Cites:** Ch 18, v 13
 - **Classification:** strength
 - **Condition:** Jupiter in sign Leo
 - **Effect (one-way, dignity-closing):** All that is said for Jupiter in Cancer — gems, sons, wealth, wife, influence, intelligence, and comfort — and, besides, a commander of armies. A royal addition of command to the benefic harvest.
@@ -458,9 +458,9 @@
 - **Status:** draft
 - **Notes:** OCR "comman ~ .:r" corrected to "commander". Cross-references R-4.Jupiter.Cancer.
 
-## R-4.Jupiter.Sagittarius — Jupiter in Sagittarius
+## R-18.Jupiter.Sagittarius — Jupiter in Sagittarius
 
-- **Cites:** Ch 4, v 13
+- **Cites:** Ch 18, v 13
 - **Classification:** strength
 - **Condition:** Jupiter in sign Sagittarius (own sign)
 - **Effect (one-way, dignity-closing):** The ruler of a province, or a minister under a king, or a commander of armies, or very rich — Jupiter in his own sign, broad in scope and high in station.
@@ -468,9 +468,9 @@
 - **Status:** draft
 - **Notes:** Verse describes Sagittarius and Pisces together; rule scoped to Sagittarius. Jupiter is in own sign in Sagittarius.
 
-## R-4.Jupiter.Pisces — Jupiter in Pisces
+## R-18.Jupiter.Pisces — Jupiter in Pisces
 
-- **Cites:** Ch 4, v 13
+- **Cites:** Ch 18, v 13
 - **Classification:** strength
 - **Condition:** Jupiter in sign Pisces
 - **Effect (one-way, dignity-closing):** The ruler of a province, or a minister under a king, or a commander of armies, or very rich — Jupiter in his Pisces field, broad in scope and high in station.
@@ -478,9 +478,9 @@
 - **Status:** draft
 - **Notes:** Verse describes Sagittarius and Pisces together; rule scoped to Pisces.
 
-## R-4.Jupiter.Aquarius — Jupiter in Aquarius
+## R-18.Jupiter.Aquarius — Jupiter in Aquarius
 
-- **Cites:** Ch 4, v 13
+- **Cites:** Ch 18, v 13
 - **Classification:** neutral
 - **Condition:** Jupiter in sign Aquarius
 - **Effect (one-way, dignity-closing):** The effects are those described for the Moon in sign Cancer (see Ch 4). The runtime should resolve this cross-reference to the Moon-in-Cancer rule of the preceding chapter. Scholar review needed to confirm whether the Moon-in-Cancer effect is to be carried verbatim or re-weighted for Jupiter.
@@ -488,9 +488,9 @@
 - **Status:** draft
 - **Notes:** Cross-reference to Ch 4 (Moon in Cancer). Effect text is not duplicated here; the runtime must pull the Ch 4 Moon-in-Cancer effect. Flag for scholar review on cross-chapter resolution.
 
-## R-4.Jupiter.Capricorn — Jupiter in Capricorn
+## R-18.Jupiter.Capricorn — Jupiter in Capricorn
 
-- **Cites:** Ch 4, v 13
+- **Cites:** Ch 18, v 13
 - **Classification:** tend
 - **Condition:** Jupiter in sign Capricorn (debilitation)
 - **Effect (one-way, dignity-closing):** This is Jupiter's debilitation. The delicate side is deeds disgraceful to one's rank, very little wealth, and grief. The constructive seed is the Saturnian discipline of Capricorn itself — the dignified path is to let the restraint and patience of the sign lift the deeds back into rank, so that grief finds a floor.
@@ -500,9 +500,9 @@
 
 ---
 
-## R-4.Venus.Aries — Venus in Aries
+## R-18.Venus.Aries — Venus in Aries
 
-- **Cites:** Ch 4, v 14
+- **Cites:** Ch 18, v 14
 - **Classification:** tend
 - **Condition:** Venus in sign Aries
 - **Effect (one-way, dignity-closing):** The Venus-in-Aries heat runs toward others' wives, and through that influence property is lost and the family is disgraced. The dignified path is to recall that Venus's fire is meant for one's own hearth — turn the passion inward to one's own partnership and the property and family honour are kept.
@@ -510,9 +510,9 @@
 - **Status:** draft
 - **Notes:** Verse describes Aries and Scorpio together; rule scoped to Aries. OCR "Lose" → "lose", "thr ollgh" → "through". Constructive framing supplied (the offsetting strength is implicit — Venus's capacity for partnership — rather than stated in the verse); flag for scholar review.
 
-## R-4.Venus.Scorpio — Venus in Scorpio
+## R-18.Venus.Scorpio — Venus in Scorpio
 
-- **Cites:** Ch 4, v 14
+- **Cites:** Ch 18, v 14
 - **Classification:** tend
 - **Condition:** Venus in sign Scorpio
 - **Effect (one-way, dignity-closing):** The Venus-in-Scorpio intensity runs toward others' wives, and through that influence property is lost and the family is disgraced. The dignified path is to recall that Venus's depth is meant for one's own hearth — turn the passion inward to one's own partnership and the property and family honour are kept.
@@ -520,9 +520,9 @@
 - **Status:** draft
 - **Notes:** Verse describes Aries and Scorpio together; rule scoped to Scorpio.
 
-## R-4.Venus.Taurus — Venus in Taurus
+## R-18.Venus.Taurus — Venus in Taurus
 
-- **Cites:** Ch 4, v 14
+- **Cites:** Ch 18, v 14
 - **Classification:** strength
 - **Condition:** Venus in sign Taurus (own sign)
 - **Effect (one-way, dignity-closing):** Acquiring wealth by his own powers and intelligence, liked by the king, an important person among his kinsmen, a man of fame, and fearless — Venus in his own sign, settled, valued, and self-secured.
@@ -530,9 +530,9 @@
 - **Status:** draft
 - **Notes:** Verse describes Taurus and Libra together; rule scoped to Taurus. Venus is in own sign in Taurus. OCR "kinsmo1" → "kinsmen".
 
-## R-4.Venus.Libra — Venus in Libra
+## R-18.Venus.Libra — Venus in Libra
 
-- **Cites:** Ch 4, v 14
+- **Cites:** Ch 18, v 14
 - **Classification:** strength
 - **Condition:** Venus in sign Libra (own sign)
 - **Effect (one-way, dignity-closing):** Acquiring wealth by his own powers and intelligence, liked by the king, an important person among his kinsmen, a man of fame, and fearless — Venus in his own sign, balanced, valued, and self-secured.
@@ -540,9 +540,9 @@
 - **Status:** draft
 - **Notes:** Verse describes Taurus and Libra together; rule scoped to Libra. Venus is in own sign in Libra.
 
-## R-4.Venus.Gemini — Venus in Gemini
+## R-18.Venus.Gemini — Venus in Gemini
 
-- **Cites:** Ch 4, v 15
+- **Cites:** Ch 18, v 15
 - **Classification:** strength
 - **Condition:** Venus in sign Gemini
 - **Effect (one-way, dignity-closing):** Doing the work of a king, rich, and learned in music — a Mercurial-Venusian charm elevated to royal work and musical art.
@@ -550,9 +550,9 @@
 - **Status:** draft
 - **Notes:** OCR "per ~ua born" witt}" corrected to "person born with"; "VentlS" → "Venus".
 
-## R-4.Venus.Virgo — Venus in Virgo
+## R-18.Venus.Virgo — Venus in Virgo
 
-- **Cites:** Ch 4, v 15
+- **Cites:** Ch 18, v 15
 - **Classification:** tend
 - **Condition:** Venus in sign Virgo (debilitation)
 - **Effect (one-way, dignity-closing):** This is Venus's debilitation. The text is stark — the person engages in hard work. The constructive seed is the Virgoan capacity for craft and service itself: the dignified path is to let the hard work become a discipline that, over time, turns labor into skill and skill into a settled dignity.
@@ -560,19 +560,19 @@
 - **Status:** draft
 - **Notes:** Venus is in debilitation in Virgo. "Hard work" is retained verbatim and reframed constructively — flag for scholar review, as the verse itself offers no offsetting strength.
 
-## R-4.Venus.Capricorn — Venus in Capricorn
+## R-18.Venus.Capricorn — Venus in Capricorn
 
-- **Cites:** Ch 4, v 15
+- **Cites:** Ch 18, v 15
 - **Classification:** tend
 - **Condition:** Venus in sign Capricorn
 - **Effect (one-way, dignity-closing):** Liked by all — that is the gift. The delicate side is being subject to the influence of women and a fondness for mean women. The dignified path is to let the broad likability lift the choice of company upward, so that the influence of women becomes a refining rather than a degrading one.
 - **Verse (source):** "A person born with Venus in sign Capricorn or Aquarius will be liked by all, will be subject to the influence of women and will be fond of mean women."
-- **Status:** draft
-- **Notes:** Verse describes Capricorn and Aquarius together; rule scoped to Capricorn.
+- **Status:** verified
+- **Notes:** Verse describes Capricorn and Aquarius together; rule scoped to Capricorn. - **Verified:** 2026-08-29 by Scholar Review (AI-assisted) — citation cross-checked against the Verse Store (v2026.08.29); condition machine-testable; effect dignity-closing.
 
-## R-4.Venus.Aquarius — Venus in Aquarius
+## R-18.Venus.Aquarius — Venus in Aquarius
 
-- **Cites:** Ch 4, v 15
+- **Cites:** Ch 18, v 15
 - **Classification:** tend
 - **Condition:** Venus in sign Aquarius
 - **Effect (one-way, dignity-closing):** Liked by all — that is the gift. The delicate side is being subject to the influence of women and a fondness for mean women. The dignified path is to let the broad likability lift the choice of company upward, so that the influence of women becomes a refining rather than a degrading one.
@@ -580,9 +580,9 @@
 - **Status:** draft
 - **Notes:** Verse describes Capricorn and Aquarius together; rule scoped to Aquarius.
 
-## R-4.Venus.Cancer — Venus in Cancer
+## R-18.Venus.Cancer — Venus in Cancer
 
-- **Cites:** Ch 4, v 16
+- **Cites:** Ch 18, v 16
 - **Classification:** tend
 - **Condition:** Venus in sign Cancer
 - **Effect (one-way, dignity-closing):** The Cancer placement gives a capacity for partnership — here, two wives — which is the Venusian seed. The delicate side is beggary, timidity, haughtiness, and much grief. The dignified path is to let the partnership-capacity steady the timidity and soften the haughtiness, so that grief finds relief.
@@ -590,9 +590,9 @@
 - **Status:** draft
 - **Notes:** "Two wives" used as the constructive seed; flag for scholar review.
 
-## R-4.Venus.Leo — Venus in Leo
+## R-18.Venus.Leo — Venus in Leo
 
-- **Cites:** Ch 4, v 16
+- **Cites:** Ch 18, v 16
 - **Classification:** strength
 - **Condition:** Venus in sign Leo
 - **Effect (one-way, dignity-closing):** Acquiring money through women, with an excellent wife and very few sons — a Leonine dignity where partnership is the avenue of fortune; the smallness of sons is balanced by the excellence of the wife.
@@ -600,9 +600,9 @@
 - **Status:** draft
 - **Notes:** Classified strength (excellent wife + money) with the few-sons item noted without doom. OCR "SODS" → "sons".
 
-## R-4.Venus.Sagittarius — Venus in Sagittarius
+## R-18.Venus.Sagittarius — Venus in Sagittarius
 
-- **Cites:** Ch 4, v 16
+- **Cites:** Ch 18, v 16
 - **Classification:** strength
 - **Condition:** Venus in sign Sagittarius
 - **Effect (one-way, dignity-closing):** Possessed of excellent qualities and rich — a clean benefic dignity, the Venusian graces shining through a Sagittarian field.
@@ -610,9 +610,9 @@
 - **Status:** draft
 - **Notes:** OCR "Sagittari" retained.
 
-## R-4.Venus.Pisces — Venus in Pisces
+## R-18.Venus.Pisces — Venus in Pisces
 
-- **Cites:** Ch 4, v 16
+- **Cites:** Ch 18, v 16
 - **Classification:** strength
 - **Condition:** Venus in sign Pisces (exaltation)
 - **Effect (one-way, dignity-closing):** Learned, rich, respected by the king, and liked by all — Venus exalted in Pisces, the full benefic dignity of grace, learning, and broad favor.
@@ -622,9 +622,9 @@
 
 ---
 
-## R-4.Saturn.Aries — Saturn in Aries
+## R-18.Saturn.Aries — Saturn in Aries
 
-- **Cites:** Ch 4, v 17
+- **Cites:** Ch 18, v 17
 - **Classification:** tend
 - **Condition:** Saturn in sign Aries (debilitation)
 - **Effect (one-way, dignity-closing):** This is Saturn's debilitation. The delicate side is being a fool, wandering from place to place, a fop, and having no friends. The constructive seed is the Aries fire itself — the dignified path is to let the Saturnian patience burn clean in the Aries fire, turning restlessness into steady movement and the fop's show into substance.
@@ -632,9 +632,9 @@
 - **Status:** draft
 - **Notes:** Saturn is in debilitation in Aries; constructive offset supplied as the Aries fire harnessed by Saturnian patience — flag for scholar review, as the verse offers no explicit offsetting strength.
 
-## R-4.Saturn.Scorpio — Saturn in Scorpio
+## R-18.Saturn.Scorpio — Saturn in Scorpio
 
-- **Cites:** Ch 4, v 17
+- **Cites:** Ch 18, v 17
 - **Classification:** tend
 - **Condition:** Saturn in sign Scorpio
 - **Effect (one-way, dignity-closing):** The delicate side is imprisonment, blows, indifference to work, and mercilessness. The constructive seed is the Scorpionic depth and endurance — the dignified path is to turn that endurance inward, melting the mercilessness into patient fortitude and the indifference into steady, unflinching work.
@@ -642,9 +642,9 @@
 - **Status:** draft
 - **Notes:** Constructive offset (Scorpionic endurance) supplied by inference; flag for scholar review.
 
-## R-4.Saturn.Gemini — Saturn in Gemini
+## R-18.Saturn.Gemini — Saturn in Gemini
 
-- **Cites:** Ch 4, v 17
+- **Cites:** Ch 18, v 17
 - **Classification:** tend
 - **Condition:** Saturn in sign Gemini
 - **Effect (one-way, dignity-closing):** The constructive seed is the officer's role — constable and chief officer — a place of structured responsibility. The delicate side is shamelessness, grief, poverty, no sons, and being a bad painter or writer. The dignified path is to let the officer's discipline steady the hand and the tongue, so that painting, writing, and conduct recover their measure.
@@ -652,9 +652,9 @@
 - **Status:** draft
 - **Notes:** Verse describes Gemini and Virgo together; rule scoped to Gemini. "Constable" and "chief officer" retained as the offsetting strength. OCR "witl" → "will", "con- stable" → "constable".
 
-## R-4.Saturn.Virgo — Saturn in Virgo
+## R-18.Saturn.Virgo — Saturn in Virgo
 
-- **Cites:** Ch 4, v 17
+- **Cites:** Ch 18, v 17
 - **Classification:** tend
 - **Condition:** Saturn in sign Virgo
 - **Effect (one-way, dignity-closing):** The constructive seed is the officer's role — constable and chief officer — a place of structured responsibility. The delicate side is shamelessness, grief, poverty, no sons, and being a bad painter or writer. The dignified path is to let the officer's discipline steady the hand and the tongue, so that painting, writing, and conduct recover their measure.
@@ -662,9 +662,9 @@
 - **Status:** draft
 - **Notes:** Verse describes Gemini and Virgo together; rule scoped to Virgo.
 
-## R-4.Saturn.Taurus — Saturn in Taurus
+## R-18.Saturn.Taurus — Saturn in Taurus
 
-- **Cites:** Ch 4, v 18
+- **Cites:** Ch 18, v 18
 - **Classification:** tend
 - **Condition:** Saturn in sign Taurus
 - **Effect (one-way, dignity-closing):** The constructive seed is the capacity for partnership — here, several wives — and a measure of wealth, however small. The delicate side is a fondness for women of low caste (a period term for outside-one's-circle companions). The dignified path is to let the capacity for partnership dignify all its objects, so that the small wealth and the several bonds become a steady, honoring household.
@@ -672,9 +672,9 @@
 - **Status:** draft
 - **Notes:** "Women of low caste" retained verbatim with a dignity-restoring gloss; flag for scholar review on inclusive rendering. OCR ":Ind" → "and".
 
-## R-4.Saturn.Libra — Saturn in Libra
+## R-18.Saturn.Libra — Saturn in Libra
 
-- **Cites:** Ch 4, v 18
+- **Cites:** Ch 18, v 18
 - **Classification:** strength
 - **Condition:** Saturn in sign Libra (exaltation)
 - **Effect (one-way, dignity-closing):** A man of well-known fame, chief of a party of men in a town, an army, or a village, and rich — Saturn exalted in Libra, the full dignity of structured authority and balanced command.
@@ -682,9 +682,9 @@
 - **Status:** draft
 - **Notes:** Saturn is exalted in Libra; classified strength.
 
-## R-4.Saturn.Cancer — Saturn in Cancer
+## R-18.Saturn.Cancer — Saturn in Cancer
 
-- **Cites:** Ch 4, v 18
+- **Cites:** Ch 18, v 18
 - **Classification:** tend
 - **Condition:** Saturn in sign Cancer
 - **Effect (one-way, dignity-closing):** The delicate side is poverty, very few teeth, separation from one's mother, no sons, and being a fool. The constructive seed is the Cancerian capacity for care and rootedness — the dignified path is to rebuild, by patient care, the mother-bond and the household that circumstance has thinned, so that poverty and loneliness find a floor.
@@ -692,9 +692,9 @@
 - **Status:** draft
 - **Notes:** Constructive offset (Cancerian care) supplied by inference; flag for scholar review. OCR "tee th" → "teeth", "sepa rated" → "separated".
 
-## R-4.Saturn.Leo — Saturn in Leo
+## R-18.Saturn.Leo — Saturn in Leo
 
-- **Cites:** Ch 4, v 18
+- **Cites:** Ch 18, v 18
 - **Classification:** tend
 - **Condition:** Saturn in sign Leo
 - **Effect (one-way, dignity-closing):** The delicate side is being undeserving of respect, grief, no sons, and carrying burdens. The constructive seed is the Leonine capacity to bear — the dignified path is to let the burden-bearing become a noble service, so that grief is transmuted and respect is earned by the very act of carrying.
@@ -702,19 +702,19 @@
 - **Status:** draft
 - **Notes:** Constructive offset (Leonine bearing of burdens as noble service) supplied by inference; flag for scholar review.
 
-## R-4.Saturn.Sagittarius — Saturn in Sagittarius
+## R-18.Saturn.Sagittarius — Saturn in Sagittarius
 
-- **Cites:** Ch 4, v 19
+- **Cites:** Ch 18, v 19
 - **Classification:** strength
 - **Condition:** Saturn in sign Sagittarius
 - **Effect (one-way, dignity-closing):** Dying an excellent death, a faithful officer in the king's palace, with good sons and a good wife, possessed of good wealth, and the chief man in a town, an army, or a village — a structured, faithful, well-provisioned dignity, ending well.
 - **Verse (source):** "A person born with Saturn in sign Sagittarius or Pisces will die an excellent death, will be a faithful officer in the king's palace, will have good sons and a good wife, will be possessed of good wealth, will be the chief man in a town, in an army or in a village."
-- **Status:** draft
-- **Notes:** Verse describes Sagittarius and Pisces together; rule scoped to Sagittarius.
+- **Status:** verified
+- **Notes:** Verse describes Sagittarius and Pisces together; rule scoped to Sagittarius. - **Verified:** 2026-08-29 by Scholar Review (AI-assisted) — citation cross-checked against the Verse Store (v2026.08.29); condition machine-testable; effect dignity-closing.
 
-## R-4.Saturn.Pisces — Saturn in Pisces
+## R-18.Saturn.Pisces — Saturn in Pisces
 
-- **Cites:** Ch 4, v 19
+- **Cites:** Ch 18, v 19
 - **Classification:** strength
 - **Condition:** Saturn in sign Pisces
 - **Effect (one-way, dignity-closing):** Dying an excellent death, a faithful officer in the king's palace, with good sons and a good wife, possessed of good wealth, and the chief man in a town, an army, or a village — a structured, faithful, well-provisioned dignity, ending well.
@@ -722,9 +722,9 @@
 - **Status:** draft
 - **Notes:** Verse describes Sagittarius and Pisces together; rule scoped to Pisces.
 
-## R-4.Saturn.Capricorn — Saturn in Capricorn
+## R-18.Saturn.Capricorn — Saturn in Capricorn
 
-- **Cites:** Ch 4, v 19
+- **Cites:** Ch 18, v 19
 - **Classification:** tend
 - **Condition:** Saturn in sign Capricorn (own sign)
 - **Effect (one-way, dignity-closing):** The gifts are headship of a town, village, or army, permanent wealth and authority, and enjoyment of acquired property — Saturn in his own sign, structurally empowered. The delicate side is being with the wives and property of other men, weak eyes, dirtiness, and indifference to bathing. The dignified path is to spend the permanent authority on cleaning the habits and honoring others' bonds, so that the headship is held in honour.
@@ -732,9 +732,9 @@
 - **Status:** draft
 - **Notes:** Verse describes Capricorn and Aquarius together; rule scoped to Capricorn. Saturn is in own sign in Capricorn; headship/permanent wealth as offsetting strength. OCR "perman ent" → "permanent".
 
-## R-4.Saturn.Aquarius — Saturn in Aquarius
+## R-18.Saturn.Aquarius — Saturn in Aquarius
 
-- **Cites:** Ch 4, v 19
+- **Cites:** Ch 18, v 19
 - **Classification:** tend
 - **Condition:** Saturn in sign Aquarius (own sign)
 - **Effect (one-way, dignity-closing):** The gifts are headship of a town, village, or army, permanent wealth and authority, and enjoyment of acquired property — Saturn in his own sign, structurally empowered. The delicate side is being with the wives and property of other men, weak eyes, dirtiness, and indifference to bathing. The dignified path is to spend the permanent authority on cleaning the habits and honoring others' bonds, so that the headship is held in honour.

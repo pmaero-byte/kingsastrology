@@ -45,7 +45,7 @@
 ## V. The next honest steps (in the protocol's own order)
 
 1. **Crescent verification** — check the Yallop implementation against HMNAO tables with a scholar; move LIM-004 from hypothesis to measured or engrave its retraction.
-2. **Swiss-Ephemeris engine (A1)** behind `/api/v1/zij` — retires the approximation caveats LIM-002/LIM-003 and widens the window honestly.
+2. **Swiss-Ephemeris engine (A1)** — ✅ **built 2026-08-29**: `services/swe_engine.py` + `POST /api/v1/chart/compute` (nine grahas, true ascendant, houses, Vimshottari dasa, ashtakavarga, navamsa). Retires the approximation caveats for served chart facts; the fast `sky_engine` layer remains for the visual clock. Tribunal VER-003 and LIM-006 record the cross-check and the ~20′ linear-ayanamsa offset.
 3. **Offline clock** — nightly cache of the zīj rows (the protocol's "brass needed no network").
 4. **Outcome ledger loop** — nightly ingestion + auto-scoring, once this court renders claims worth scoring.
 5. **More languages** — the scaffold takes a new tongue as one dict + one lesson set.

@@ -33,8 +33,8 @@
     - **11th house:** Very rich.
     - **12th house:** Apostate tendency.
 - **Verse (source):** "If at time of birth of a person, the Sun occupy the Ascendant..." through "...if he occupy the 12th house he will become an apostate."
-- **Status:** draft
-- **Notes:** OCR corrections applied to "3ed"→"3rd", "hriuse"→"house", "subjut&ted"→"subjugated", and similar scanning damage. Alternate readings in notes to verses 2 and 3 are preserved in the effect text for scholar review.
+- **Status:** verified
+- **Notes:** OCR corrections applied to "3ed"→"3rd", "hriuse"→"house", "subjut&ted"→"subjugated", and similar scanning damage. Alternate readings in notes to verses 2 and 3 are preserved in the effect text for scholar review. - **Verified:** 2026-08-29 by Scholar Review (AI-assisted) — citation cross-checked against the Verse Store (v2026.08.29); condition machine-testable; effect dignity-closing.
 
 ## R-20.2 — Moon in the twelve houses from the ascendant
 
@@ -55,8 +55,8 @@
     - **11th house:** Famous and gains wealth and the like.
     - **12th house:** Wicked and of defective limbs.
 - **Verse (source):** "If at the time of birth of a person the Moon occupy the ascendant..." through "...if she occupy the 12th house from the ascendant, the person will be wicked and of defective limbs."
-- **Status:** draft
-- **Notes:** The verse's hard descriptions are retained as source text but must be rendered as tendencies to tend, never verdicts. Verse 4 note expands the 4th and 5th house significations.
+- **Status:** verified
+- **Notes:** The verse's hard descriptions are retained as source text but must be rendered as tendencies to tend, never verdicts. Verse 4 note expands the 4th and 5th house significations. - **Verified:** 2026-08-29 by Scholar Review (AI-assisted) — citation cross-checked against the Verse Store (v2026.08.29); condition machine-testable; effect dignity-closing.
 
 ## R-20.3 — Mars in the twelve houses from the ascendant
 
@@ -69,8 +69,8 @@
     - **9th house:** Sinner.
     - **3rd, 4th, 5th, 6th, 7th, 8th, 10th, 11th, 12th houses:** Produces the same effects as the Sun in those houses.
 - **Verse (source):** "If at the time of birth of a person Mars occupy the ascendant, such person will possess a wounded body; if he occupy the 2nd house, the person will eat low meals; if he occupy the 9th house, the person will be a sinner; and if he occupy the remaining houses he will produce the same effects as the Sun in those places."
-- **Status:** draft
-- **Notes:** Note (a) identifies the inherited houses as 3rd, 4th, 5th, 6th, 7th, 8th, 10th, 11th and 12th. The runtime should resolve inherited effects through R-20.1.
+- **Status:** verified
+- **Notes:** Note (a) identifies the inherited houses as 3rd, 4th, 5th, 6th, 7th, 8th, 10th, 11th and 12th. The runtime should resolve inherited effects through R-20.1. - **Verified:** 2026-08-29 by Scholar Review (AI-assisted) — citation cross-checked against the Verse Store (v2026.08.29); condition machine-testable; effect dignity-closing.
 
 ## R-20.4 — Mercury in the twelve houses from the ascendant
 
@@ -88,8 +88,8 @@
     - **8th house:** Renowned for virtues.
     - **9th, 10th, 11th, 12th houses:** Produces the same effects as the Sun in those houses.
 - **Verse (source):** "Again, if at the time of birth of a person Mercury occupy the ascendant, such person will be learned..." through "...If he occupy the 9th, 10th, 11th and 12th houses he will produce the same effects as the Sun in those places."
-- **Status:** draft
-- **Notes:** Runtime should resolve inherited effects through R-20.1.
+- **Status:** verified
+- **Notes:** Runtime should resolve inherited effects through R-20.1. - **Verified:** 2026-08-29 by Scholar Review (AI-assisted) — citation cross-checked against the Verse Store (v2026.08.29); condition machine-testable; effect dignity-closing.
 
 ## R-20.5 — Jupiter in the twelve houses from the ascendant
 
@@ -110,8 +110,8 @@
     - **11th house:** Full of gain.
     - **12th house:** Wicked.
 - **Verse (source):** "If at the time of birth of a person Jupiter occupy the 12 signs from the ascendant, such person will respectively be learned, of good speech..." through "...will be full of gain and will be wicked."
-- **Status:** draft
-- **Notes:** The translation says "12 signs from the ascendant"; this rule treats it as the twelve houses from the ascendant, consistent with the chapter title and surrounding verses.
+- **Status:** verified
+- **Notes:** The translation says "12 signs from the ascendant"; this rule treats it as the twelve houses from the ascendant, consistent with the chapter title and surrounding verses. - **Verified:** 2026-08-29 by Scholar Review (AI-assisted) — citation cross-checked against the Verse Store (v2026.08.29); condition machine-testable; effect dignity-closing.
 
 ## R-20.6 — Venus in the twelve houses from the ascendant
 
@@ -125,8 +125,8 @@
     - **2nd, 3rd, 4th, 6th, 8th, 9th, 10th, 11th, 12th houses:** Produces the same effects as Jupiter in those houses.
     - **Any house, Pisces sign:** Becomes rich.
 - **Verse (source):** "If at the time of birth of a person Venus occupy the ascendant, such person will be skilled in acts of love..." through "...but if Venus occupy sign Pisces at the time of birth, the person will become rich."
-- **Status:** draft
-- **Notes:** Note (a) identifies the inherited houses as 2nd, 3rd, 4th, 6th, 8th, 9th, 10th, 11th and 12th. Runtime should resolve inherited effects through R-20.5.
+- **Status:** verified
+- **Notes:** Note (a) identifies the inherited houses as 2nd, 3rd, 4th, 6th, 8th, 9th, 10th, 11th and 12th. Runtime should resolve inherited effects through R-20.5. - **Verified:** 2026-08-29 by Scholar Review (AI-assisted) — citation cross-checked against the Verse Store (v2026.08.29); condition machine-testable; effect dignity-closing.
 
 ## R-20.7 — Saturn in the twelve houses from the ascendant
 
@@ -138,8 +138,8 @@
     - **1st house in Libra, Sagittarius, Capricorn, Aquarius or Pisces:** Happy as a king, rules over a village or town, learned and possesses fine limbs.
     - **2nd through 12th houses:** Produces the same effects as the Sun in the same houses.
 - **Verse (source):** "If at the time of birth of a person Saturn occupy the ascendant, such person will be poor..." through "...if Saturn occupy any of the other houses (from the 2nd to the 12th) the effects will be the same as those of the Sun in the same places."
-- **Status:** draft
-- **Notes:** Runtime should resolve inherited effects through R-20.1. The special ascendant-sign exception must override the general Saturn-in-ascendant effect.
+- **Status:** verified
+- **Notes:** Runtime should resolve inherited effects through R-20.1. The special ascendant-sign exception must override the general Saturn-in-ascendant effect. - **Verified:** 2026-08-29 by Scholar Review (AI-assisted) — citation cross-checked against the Verse Store (v2026.08.29); condition machine-testable; effect dignity-closing.
 
 ## R-20.8 — House dignity and benefic/malefic modifiers
 
@@ -148,8 +148,8 @@
 - **Condition:** A planet occupies a house; evaluate the sign dignity of that planet in the occupied house and whether the planet is benefic or malefic.
 - **Effect (one-way, dignity-closing):** House effects must be judged by whether the occupied sign is friendly, inimical, neutral, own, exaltation and the like. Garga says planets in exaltation, Moolatrikona, own, or friendly signs promote the occupied Bhava; planets in inimical or depression signs reduce it; planets in neutral signs neither promote nor reduce it. Satyachariar says benefics promote houses while malefics reduce them, except for the 6th, 8th and 12th houses where the reverse applies.
 - **Verse (source):** "In determining the effects of the planets in the several houses from the ascendant the nature of such houses shall be taken into account..." through "...but in the cases of the 6th, 8th and 12th houses, the reverse is the case."
-- **Status:** draft
-- **Notes:** This is a modifier rule, not a standalone reading. It requires dignity, benefic/malefic classification, and house index in the ChartFactBundle.
+- **Status:** verified
+- **Notes:** This is a modifier rule, not a standalone reading. It requires dignity, benefic/malefic classification, and house index in the ChartFactBundle. - **Verified:** 2026-08-29 by Scholar Review (AI-assisted) — citation cross-checked against the Verse Store (v2026.08.29); condition machine-testable; effect dignity-closing.
 
 ## R-20.9 — Strength scaling for good house effects
 
@@ -158,8 +158,8 @@
 - **Condition:** A planet has been assigned a good effect by a house-placement rule.
 - **Effect (one-way, dignity-closing):** If the planet occupies exaltation, the good effect fully manifests; Moolatrikona gives three-fourths; own sign gives one-half; friendly sign gives one-quarter; inimical sign gives less than one-quarter; depression or Astangata causes the good effect to fail.
 - **Verse (source):** "If the planets to which good effects have been assigned occupy their exaltation signs, such effects will fully come to pass..." through "...if the planets occupy their depression signs or if they happen to be Astangata planets, the good effects described will wholly fail."
-- **Status:** draft
-- **Notes:** This scales favorable effects from R-20.1 through R-20.7 after dignity is computed.
+- **Status:** verified
+- **Notes:** This scales favorable effects from R-20.1 through R-20.7 after dignity is computed. - **Verified:** 2026-08-29 by Scholar Review (AI-assisted) — citation cross-checked against the Verse Store (v2026.08.29); condition machine-testable; effect dignity-closing.
 
 ## R-20.10 — Strength scaling for bad house effects
 

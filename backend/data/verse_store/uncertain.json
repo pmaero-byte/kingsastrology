@@ -1,0 +1,2340 @@
+[
+  {
+    "chapter": 1,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "Phalguni",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "Piscium",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "\\OTES",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "issue": "ambiguous",
+    "excerpt": "The 1st. 4th. 7th and 10th houses are known as",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "issue": "ocr",
+    "excerpt": "Though various well written works on Astrology (0) the productions of able m ~ n exist for the enlightenment of in tclligcnt students (of horoscopy), I begin to",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "issue": "ocr",
+    "excerpt": "The (twelve) signs of the Zodiac. commencmg with the first point of Aries and of (the asterism of) Aswini. and consisting. each. of nine stellar quarters and fo",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "issue": "ocr",
+    "excerpt": "Siin Pisces is of the shape of (a) two fish; sign Aquarius is of the shape of a man with a er) pot; sign Gemini is of the shape of a man and woman, (the former)",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "issue": "ocr",
+    "excerpt": "\\OTES Six modes of division of the ecliptic (360°) fOf boro·scopic purposes known as the Shadvarga are mentioned e st. These arc Rasi in which the ecliptic is d",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "issue": "truncated",
+    "excerpt": "y Kumbba Kalab Saturn Moon RASI CHAKRA Makara Simba Saturn Sun Dhanus Vrischika Tula Kanya Jupiter Mars Venus Mercury -•",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "issue": "truncated",
+    "excerpt": "f the tbree Drekkanas of a sign are respectively the lords of the sign, tbe 12th sign and the 11th sign (e) from it. 13'",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "issue": "truncated",
+    "excerpt": "aurus, Aries, Virgo, Sagiuari. Libra, and Aquarius are known as the Moola Trikona houses of the planets respectively.(b)",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 2,
+    "verse": 11,
+    "issue": "ambiguous",
+    "excerpt": "Ch. XX .",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 2,
+    "verse": 5,
+    "issue": "ocr",
+    "excerpt": "The Sun presides over copper color; the Moon over white color; Mars over red color; Mercury over green color; Jupiter over yellow color; Venus over a mixture of",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 2,
+    "verse": 6,
+    "issue": "truncated",
+    "excerpt": "e rest (b) are male planets. Mars is fire; Mercury is earth; Jupiter is akas her); Venus is water and Saturn is air. (e)",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 2,
+    "verse": 7,
+    "issue": "ocr",
+    "excerpt": "Venus and Jupiter are Brahmins; Mars and the Sun are Kshatriyas; the Moon is a Vaisya; Mercury is a Sudra and Saturn is a Chandala. The Moon, the Sun and Jupite",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 2,
+    "verse": 13,
+    "issue": "ocr",
+    "excerpt": "All the planets aspect the 3rd and 10th houses with a quarter sight; the 5th and 9th houses with half a sight, the 4th and 8th houses with three·quarters of a s",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 2,
+    "verse": 13,
+    "issue": "truncated",
+    "excerpt": "OTES Suppose A to be a point in the ecliptic occupied by an aspecting planet; divide the ecliptic into 12 equal parts of",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 2,
+    "verse": 15,
+    "issue": "ocr",
+    "excerpt": "According to some Jupiter is the friend of the Sun; Jupiter and Mercury are the friends of the Moon; Vcnus and Mercury are the friends of Mars. The Moon, Mars, ",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 2,
+    "verse": 15,
+    "issue": "truncated",
+    "excerpt": "h~ lord of the exaltation sign of such planet, provided they do not conflict with the lords of the remaining houses. (b)",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 2,
+    "verse": 16,
+    "issue": "ocr",
+    "excerpt": "Saturn and Venu~ are the enemies of the Sun, Mercury is his neutral, and the rest are his friends. The Sun and Mercury are the friends of the Moon and the rest ",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 2,
+    "verse": 17,
+    "issue": "truncated",
+    "excerpt": "ral or permanent rriendship, enmity, and neutrality among plan.ets. IS. Planets the occupy the 2nd. 12tb, 11th. 3rd 10th",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 2,
+    "verse": 19,
+    "issue": "truncated",
+    "excerpt": "st or setting sign, and the Moon and Venus are powerful when in the North or tne 4th sign aJa). (a) vide (d) (e) For the",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 2,
+    "verse": 11,
+    "issue": "fragment",
+    "excerpt": "Ch. XX . I, 13. II, 16 to 18 . I, 14 • I, 6 I. 6.",
+    "suggested_review": "Verse is short for a Jataka stanza; verify it was not truncated or merged with its neighbour."
+  },
+  {
+    "chapter": 2,
+    "verse": 21,
+    "issue": "ocr",
+    "excerpt": "The Moon, Mars and Saturn possess Kalabala poral strength) at nigbt; Mercury possesses it both day and night; and the other planets (a) possess it by day. The m",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 2,
+    "verse": 21,
+    "issue": "truncated",
+    "excerpt": " are eacb naturally stronger tban tile immediately preceding planct in Ihe order stated (b) CII. It! '(he Srihat liitaka",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 3,
+    "verse": 2,
+    "issue": "truncated",
+    "excerpt": "weak and if he same time) the Lagna g be otber than human (a), the . birth will be that of a lower animal as before (b),",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "issue": "ocr",
+    "excerpt": "If a Pakshidrekkana (0) or a Charanavamsa (b) or a Navarns3 of Mercury (e) should rise and be occupied by powerful planets, the creature born would be a land bi",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "issue": "ocr",
+    "excerpt": "If the rising sign, the Moon, Jupiter and the SUIl should be weak, the ~ indicate the birth of a tree; such tree will be either a land tree or a water tree acco",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 4,
+    "verse": 7,
+    "issue": "ambiguous",
+    "excerpt": "If (at the lime) either the rising sign or the Moon",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 4,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "OOTl:;S",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 4,
+    "verse": 7,
+    "issue": "fragment",
+    "excerpt": "he Brihat Jlilaka 3S",
+    "suggested_review": "Verse is short for a Jataka stanza; verify it was not truncated or merged with its neighbour."
+  },
+  {
+    "chapter": 4,
+    "verse": 7,
+    "issue": "truncated",
+    "excerpt": "he Brihat Jlilaka 3S",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 4,
+    "verse": 6,
+    "issue": "truncated",
+    "excerpt": " Saturn occupy the rising sign and be aspected by the waning Moon and Mars either case) the pro!gnant woman will die (b)",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 4,
+    "verse": 12,
+    "issue": "ocr",
+    "excerpt": "If he lime) (a). signs from the rising sign child. Saturn occupy any (b), the issue will of the odd be a male The sex of the issue in all the above ea s e ~ sha",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 4,
+    "verse": 12,
+    "issue": "truncated",
+    "excerpt": "s a particular planets either relatively to one the ecliptic or both. position another, of one or more or absolutely, in",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 4,
+    "verse": 14,
+    "issue": "ocr",
+    "excerpt": "If. when the Moon and Venus are in even signs, Mercury, Mars, Jupiter and Lagna be in odd signs, or if a male planet aspect Lagna and the Moon in the even signs",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 4,
+    "verse": 18,
+    "issue": "truncated",
+    "excerpt": "ll the above Yogas the effects described will occur only if the several planets are not aspectcd by benefic planets (e),",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 4,
+    "verse": 21,
+    "issue": "ocr",
+    "excerpt": "Find out the number of the . particular Dwada~ samsa occupied by the Moon at tbe time (a) in any Zodiacal sign . . Note the Zodiacal sign whose name the Owadasa",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 5,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "iOTES",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 5,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "riate to the several signs of the Zodiac.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 5,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "l.;l.;Ur in",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 5,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "iOTES",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 5,
+    "verse": 3,
+    "issue": "ambiguous",
+    "excerpt": "d",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 5,
+    "verse": 1,
+    "issue": "ocr",
+    "excerpt": "iOTES (a) Mar ... and Saturn. (b) Aries, Leo, SCNpio, Capricorn, Aquarills, Cancer when it i ... waning Moon, and Gemini· and Virgo when Mercury i~ in conjuncti",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 5,
+    "verse": 11,
+    "issue": "ocr",
+    "excerpt": "If a watery sign begin 10 rise and if Saturn occupy it and be a~pecled by Mercury, the Sun, or the Moon, the birth will occur respectively in a pleasure house, ",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 5,
+    "verse": 12,
+    "issue": "truncated",
+    "excerpt": "e King's palace or a temple or a cow shed; and if aspected by Mercury, the birth will occur in an artist's working room,",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 5,
+    "verse": 13,
+    "issue": "truncated",
+    "excerpt": "ouse. \",\"OTES (0) These places are those referred to in Stanza 5, Chapter l. We will give here the several places appro·",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 5,
+    "verse": 16,
+    "issue": "ocr",
+    "excerpt": "Tr:l paternal planet be powerful, the birth will occur in the father's house (a); if a maternal planet be powerful the birth will occur in the mother's house (b",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 5,
+    "verse": 17,
+    "issue": "ocr",
+    "excerpt": "If the Moon occupy the Navamsa of Saturn or the 4th house (0) from the Lagna. or if she be aspected by Saturn, or if she occupy a watery Navamsa (b) or the same",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 5,
+    "verse": 22,
+    "issue": "truncated",
+    "excerpt": "he invisible hemisphere will be the number of midwives inside the room. Accord. ing to some, this order is reversed. (0)",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 5,
+    "verse": 23,
+    "issue": "ocr",
+    "excerpt": "The structure and otber peculiarities (a) of the body sball be deterroiD~ from the lord of the rising Navamsa or from the most powerful planet; and the color (b",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 5,
+    "verse": 23,
+    "issue": "truncated",
+    "excerpt": "parts of the body will follow the signs representing them, beginning from the riring sign which represents the head. (c)",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 5,
+    "verse": 24,
+    "issue": "ocr",
+    "excerpt": "The threefold divisions of the body beginning from the bead, from the neck and he lower abdomen, according as the rising Drekkana is the first, the second, or t",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 5,
+    "verse": 24,
+    "issue": "truncated",
+    "excerpt": ". ~ The rising Head Neck Lower abdo·sIgn men 2nd house Right eye Right arm Genital organ ' 12th \" Left eye Left arm Anus",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 5,
+    "verse": 3,
+    "issue": "truncated",
+    "excerpt": "ft knee 6th Right cheek Right belly Right ankle 8th Left check Left belly Left ankle 7th Mouth The navel The feet CH. v]",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 5,
+    "verse": 25,
+    "issue": "truncated",
+    "excerpt": "als. There will be no wound in those parts of the body which are represented by signs occupied by the other planets. (c)",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 6,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "OTFS",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 6,
+    "verse": 5,
+    "issue": "ambiguous",
+    "excerpt": "while Mars occupies the 8th house.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 6,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "If powerful Jupiter occupy the rising sign, there",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 6,
+    "verse": 2,
+    "issue": "ambiguous",
+    "excerpt": "If the lord of the rising sign be powerful. and be",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 6,
+    "verse": 4,
+    "issue": "ambiguous",
+    "excerpt": "If the Moon be full. if she should occupy benefic",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 6,
+    "verse": 5,
+    "issue": "ambiguous",
+    "excerpt": "If either Mercury. Venus or Jupiter be powerful",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 6,
+    "verse": 6,
+    "issue": "ambiguous",
+    "excerpt": "Though the Moon occupy the 6th house",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 6,
+    "verse": 7,
+    "issue": "ambiguous",
+    "excerpt": "If the Moon be full and be between benefic",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 6,
+    "verse": 8,
+    "issue": "ambiguous",
+    "excerpt": "If the Moon be full or if the birth occur during",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 6,
+    "verse": 9,
+    "issue": "ambiguous",
+    "excerpt": "If the Moon be full and be aspe<:ted by Jupiter",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 6,
+    "verse": 10,
+    "issue": "ambiguous",
+    "excerpt": "If Jupiter. the Moon. Venus and Mercury occu-",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 6,
+    "verse": 2,
+    "issue": "ambiguous",
+    "excerpt": "If either the lord of the house occupied by the",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 6,
+    "verse": 12,
+    "issue": "ambiguous",
+    "excerpt": "If malefic planets occupy benefic Vargas (divi-",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 6,
+    "verse": 5,
+    "issue": "ocr",
+    "excerpt": "If the Moon allended by a malefic planet occupy the rising sign o'r the 7th, the 8th or the 12th house, and if benefic planets do not occupy the K~ ndras. and i",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 6,
+    "verse": 9,
+    "issue": "ocr",
+    "excerpt": "If at the time of birth, the eclipsed Moon occupy the rising sign with a malefic planet (a) while Mars occupies tlie 8th house, both the mother and the infant w",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 6,
+    "verse": 2,
+    "issue": "truncated",
+    "excerpt": "ither the lord of the house occupied by the Moon or if a benefic planet occupy a Kendra, there will be DO early death. -",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 6,
+    "verse": 16,
+    "issue": "truncated",
+    "excerpt": "If the full Moon be aspected by all the planets there will be no early death. --",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 7,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": ",degree is 19",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 7,
+    "verse": 9,
+    "issue": "ambiguous",
+    "excerpt": "According to Jeevasarama, the maximum number",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 7,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "I:OTES",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 7,
+    "verse": 12,
+    "issue": "ambiguous",
+    "excerpt": "According to Satyacharya, the years months,",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 7,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "The rising sign is Leo and Jupiter occupies it;",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 7,
+    "verse": 2,
+    "issue": "ambiguous",
+    "excerpt": "The Sun and Mars occupy the 4th house",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 7,
+    "verse": 3,
+    "issue": "ambiguous",
+    "excerpt": "The rising sign is Aries and the Sun occupies it.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 7,
+    "verse": 5,
+    "issue": "ambiguous",
+    "excerpt": "If all the planets occupy either a single sign or",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 7,
+    "verse": 6,
+    "issue": "ambiguous",
+    "excerpt": "If malefic planets do",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 7,
+    "verse": 7,
+    "issue": "ambiguous",
+    "excerpt": "The rising sign is Taurus and Venus occupies it;",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 7,
+    "verse": 8,
+    "issue": "ambiguous",
+    "excerpt": "The",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 7,
+    "verse": 9,
+    "issue": "ambiguous",
+    "excerpt": "The rising sign is Cancer and Cancer is also the",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 7,
+    "verse": 10,
+    "issue": "ambiguous",
+    "excerpt": "The rising Navamsa is the last Navamsa of",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 7,
+    "verse": 2,
+    "issue": "ambiguous",
+    "excerpt": "Venus is in Devalokamsa ; Mars is in onc of the",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 7,
+    "verse": 12,
+    "issue": "ambiguous",
+    "excerpt": "12.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 7,
+    "verse": 13,
+    "issue": "ambiguous",
+    "excerpt": "Jupiter occupies one or the Kendra houses. and",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 7,
+    "verse": 14,
+    "issue": "ambiguous",
+    "excerpt": "14.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 7,
+    "verse": 21,
+    "issue": "ambiguous",
+    "excerpt": "21.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 7,
+    "verse": 25,
+    "issue": "ambiguous",
+    "excerpt": "The Sun and Mercury occupy fixed signs ; the",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 7,
+    "verse": 1,
+    "issue": "truncated",
+    "excerpt": ", Manfttha and Parasara. the maximum number of the years (a) of the SUD, the Moon and other planets are respectively 19,",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 7,
+    "verse": 2,
+    "issue": "ocr",
+    "excerpt": "If the planets are in their depression degrees, their years will be one~hillr of those stated above; if in any other places. the years shall be obtained by prop",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 7,
+    "verse": 3,
+    "issue": "ocr",
+    "excerpt": "If malefic planets ~upy the 12th, J Ith. 10th, 9th, 8th, or the 7th bouse from the rising sign, a reduction in full, one of one-half, one third. one-fourth, one",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 7,
+    "verse": 6,
+    "issue": "ocr",
+    "excerpt": "The length of life of a person born when the last Navamsa of Pisces is rising, when Mercury has just passed 2S minutes in sign Taurus and when all the other pla",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 7,
+    "verse": 9,
+    "issue": "ocr",
+    "excerpt": "Now. the reduction known as Chakrapataharana is to be made from the years of Mars and Saturn, these two being malefic planets the fonner occupying the II th hou",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 7,
+    "verse": 9,
+    "issue": "truncated",
+    "excerpt": "herefore. areYEARS MONTHS DAYS The Sun The Moon I Mars Mercury Jupiter .. _ IS Venus Saturn Lagna Total length of life S",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 7,
+    "verse": 21,
+    "issue": "ocr",
+    "excerpt": "and as Mercury, Iupiter and Saturn occupy their depression degrees, their years are one·balf of their maximum years, that is onc·half of 12, IS and 20 or 6, 7! ",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 7,
+    "verse": 10,
+    "issue": "ocr",
+    "excerpt": "According to Satyacharya, convert the Sphuta or longitude of the planet into minutes; divide the number of minutes by 200; the quotient will represent the numbe",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 7,
+    "verse": 10,
+    "issue": "truncated",
+    "excerpt": "ow, as a Navamsa contains 200 minutes, the number of Navamsas passed over hy the Sun from the fi r A ' II II 1 !I 34\"118",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 7,
+    "verse": 0,
+    "issue": "fragment",
+    "excerpt": "\"d\" h\" b rst POlRt f1es = YOU = !\"iHJ. IVI IRg t IS Y",
+    "suggested_review": "Verse is short for a Jataka stanza; verify it was not truncated or merged with its neighbour."
+  },
+  {
+    "chapter": 7,
+    "verse": 0,
+    "issue": "truncated",
+    "excerpt": "\"d\" h\" b rst POlRt f1es = YOU = !\"iHJ. IVI IRg t IS Y",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 7,
+    "verse": 12,
+    "issue": "ocr",
+    "excerpt": "we get as remainder lOH ~ Navamsas from the next preceding Navamsa of Aries. This, then, represents the years of the Sun which will be found to be 10 years, 6 m",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 7,
+    "verse": 5,
+    "issue": "ocr",
+    "excerpt": "If all the planets occupy either a single sign or the Trikona or tbe Kendra houses, a person born in the above yoga will either die immediately after birth or I",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 7,
+    "verse": 8,
+    "issue": "ocr",
+    "excerpt": "The rising siau is Cancer; Saturn occupies ~ign Libra; Jupiter occupies Capricorn; and the MOOD occupies Taurus. A person born in the above yoga attains the pos",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 7,
+    "verse": 14,
+    "issue": "ocr",
+    "excerpt": "The rising sign is Cancer and Jupiter occupies it and is in tbe Navamsa or Sagittari and ~ or 3 planets occupy the Kendras. A person born in tbe above yoga will",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 7,
+    "verse": 19,
+    "issue": "truncated",
+    "excerpt": " is Taurus and Mars occupies it and the Moon is in Gopuramsa. A person born in the above yoga will live for 2,000 years,",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 7,
+    "verse": 27,
+    "issue": "ocr",
+    "excerpt": "The Sun, occupies sign Aries, Jupiter either the 9th bouse or sign Cancer and the malefic planets occupy the 3rd, 6th and the 11 th houses. A person born in the",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 7,
+    "verse": 27,
+    "issue": "truncated",
+    "excerpt": "a; if six. in Paravatamsa; if seven or eight, in Devalokamsa; if nine. in Airavatamsa; and if ten, in Vaisesbikamsa. . -",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 8,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "\\on:s",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 8,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "he nose; that of water is taste discernible by the tongu~ ;",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 8,
+    "verse": 7,
+    "issue": "ambiguous",
+    "excerpt": "7..",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 8,
+    "verse": 11,
+    "issue": "ambiguous",
+    "excerpt": "11 ..",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 8,
+    "verse": 2,
+    "issue": "ocr",
+    "excerpt": "The lengths of the several planetary periods known as Dasas are the same as those of the planets , as found in the last Chapter. Again, of the several planets Q",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 8,
+    "verse": 3,
+    "issue": "ocr",
+    "excerpt": "The period of the Antardasa (0) (sub-division of planetary p of the planet (b) occupying the same house as the lord of the Dasa period, is one-half of the Antar",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 8,
+    "verse": 3,
+    "issue": "truncated",
+    "excerpt": "rth of the Antardasa period. of tb~ lord. The Antardasa periods of the Lagna·dasa shall be determined in the same way. '",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 8,
+    "verse": 4,
+    "issue": "ocr",
+    "excerpt": "The fractions (a) should aU be made to have n common denominator with diff<!rent numerators. The Dasa period should be divided by the sum of tbe numerators and ",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 8,
+    "verse": 4,
+    "issue": "truncated",
+    "excerpt": "rators and the quotient when multiplied by the several numerators will give the period ~ of the several Antardasas. 6. 4",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 8,
+    "verse": 5,
+    "issue": "ocr",
+    "excerpt": "The Dasa period (a) of the most po.werful (b) planet occupying at the time of birth the exaltation degree of its exaltation sign, (e) is known as Sampurna (a). ",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 8,
+    "verse": 6,
+    "issue": "ocr",
+    "excerpt": "The dasa period (a) of a planet which quitting the exaltation degree moves towards the depression sign is known as A~'orohinj (b) ; while so 'moving, if the pla",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 8,
+    "verse": 9,
+    "issue": "ocr",
+    "excerpt": "The Naisargika (natural) dasas in the case of :\\11 creatures are those of the MOOD, Mars, Mercury, Venus, Jupiter, the Sun and Saturn in the order stated,and th",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 8,
+    "verse": 10,
+    "issue": "ocr",
+    "excerpt": ". Tf the lord of the Das.'l period or one of his friendly planets o~upy Ihe Lagna (a), or if the Lagna belong to the Varga ~i (b) of the· lord of Ih(\" D::I sa p",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 8,
+    "verse": 11,
+    "issue": "ocr",
+    "excerpt": "If, at the time of commencement of the Dasn period of a planet, the Moon occupy sign Cancer, the native will become rich, will live in comfort and will be re s~",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 8,
+    "verse": 15,
+    "issue": "ocr",
+    "excerpt": "In the Dasa period of Mercury, the person will acquire wealth by doing acts of message and through friends, preceptors and Brahmins. Ris praises .viII be sung b",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 8,
+    "verse": 17,
+    "issue": "ocr",
+    "excerpt": "In the Dasa period of Venus, the person will enjoy sweet music, various pleasures, perfumes. sumptuous meal ~ . alcohol, fine c1otbs, women, and precious stones",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 8,
+    "verse": 1,
+    "issue": "ocr",
+    "excerpt": "\\on:s (0) Yoga Sastra according to the Commentator. Itt In the Dasa period of Saturn, the persoll will gct ass.cs, camels, bi r~ s, buffaloes and old women, wil",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 8,
+    "verse": 20,
+    "issue": "truncated",
+    "excerpt": "cepting Nabhasa yogus, (J) will occur in the Dasa period of the planet which is most powerful among the yoga planets (g)",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 8,
+    "verse": 22,
+    "issue": "ocr",
+    "excerpt": "In the benefic Dasa period of a planet, the good effects are caused immediately by the Divine Soul living within the body and assuming for the time being a bene",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 8,
+    "verse": 23,
+    "issue": "truncated",
+    "excerpt": "ing order and their years are also given below : (I) The Sun, 6 years (5) Jupiter. (2) The Moon 10 (6) Saturn, (3) Mars,",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 8,
+    "verse": 7,
+    "issue": "truncated",
+    "excerpt": "(7) Mercury. (4) Rahu, (8) Ketu, (9) Venus. 20 years 16 years",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 8,
+    "verse": 11,
+    "issue": "ocr",
+    "excerpt": "The lord of the Dssa period, at the time of birth, is ascertained from tbe asterism which the Moon occupies at the time-the nine triangular asterisms represent ",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 8,
+    "verse": 11,
+    "issue": "truncated",
+    "excerpt": "he S3me proportion. known 0.5 Sukshmn periods. The Appendi,; will contain tables for the Dasa and Antardasa periods. ---",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 9,
+    "verse": 5,
+    "issue": "ambiguous",
+    "excerpt": "The benefic place of Venus are the lst, 2nd, 3rd,",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 2,
+    "issue": "ambiguous",
+    "excerpt": "2.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 3,
+    "issue": "ambiguous",
+    "excerpt": "If there be no figure in two of the three signs,",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 4,
+    "issue": "ambiguous",
+    "excerpt": "4.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "If there be planets in both the houses of a planet.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 2,
+    "issue": "ambiguous",
+    "excerpt": "Of the two houses of a planet, one of which is",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 3,
+    "issue": "ambiguous",
+    "excerpt": "or the two houses of a planet, both of which are",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 4,
+    "issue": "ambiguous",
+    "excerpt": "4.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 5,
+    "issue": "ambiguous",
+    "excerpt": "5.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 5,
+    "issue": "ambiguous",
+    "excerpt": "of Jupiter will give the number of sons of a person.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "If the figure in a particular sign ex.ceed",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 2,
+    "issue": "ambiguous",
+    "excerpt": "As the 10th house represents labour, the 11 th",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 3,
+    "issue": "ambiguous",
+    "excerpt": "Excepting the 6th, 8th and 12th houses, of the",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 4,
+    "issue": "ambiguous",
+    "excerpt": "4.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 5,
+    "issue": "ambiguous",
+    "excerpt": "Add together the figures in the houses occupied",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 7,
+    "issue": "ambiguous",
+    "excerpt": "Add together the figures of the signs occupied by",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 8,
+    "issue": "ambiguous",
+    "excerpt": "8.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "Pindayurdaya",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 5,
+    "issue": "ambiguous",
+    "excerpt": "V.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 6,
+    "issue": "ambiguous",
+    "excerpt": "VI.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 7,
+    "issue": "ambiguous",
+    "excerpt": "VII.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "1.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 9,
+    "issue": "ambiguous",
+    "excerpt": "Cit. 7). 0), that of Badarayana according to which the",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 2,
+    "issue": "ambiguous",
+    "excerpt": "II.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 3,
+    "issue": "ambiguous",
+    "excerpt": "III.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 6,
+    "issue": "ambiguous",
+    "excerpt": "Vishayoyurdaya",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 7,
+    "issue": "ambiguous",
+    "excerpt": "VII.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "If a planet is accompanied by another planet in",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 2,
+    "issue": "ambiguous",
+    "excerpt": "If a planet occupy his",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 3,
+    "issue": "ambiguous",
+    "excerpt": "If he be an Astangata planet, the amount of",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 4,
+    "issue": "ambiguous",
+    "excerpt": "If he occupy an iaimical sign, the amount is one-",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 5,
+    "issue": "ambiguous",
+    "excerpt": "If he occupy the visible hemisphere, the amount",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 6,
+    "issue": "ambiguous",
+    "excerpt": "If he suffer defeat in conjunction, the 'lmount is",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 7,
+    "issue": "ambiguous",
+    "excerpt": "7.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 9,
+    "verse": 8,
+    "issue": "ocr",
+    "excerpt": "Tblls have been described the benefic places of the planets; the other places .lre malefic (a). A place will produce benefic or malefic effects if it be more be",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 9,
+    "verse": 8,
+    "issue": "truncated",
+    "excerpt": " signs be more malefic for the planets than benefic. 0.2,0. 3. 0,2. ,So that, the A. V. of Mars aner the first reduction",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 9,
+    "verse": 1,
+    "issue": "truncated",
+    "excerpt": "Pindayurdaya n. Dhruvayurdaya or Naisargikayurdaya III. Rasmikayurdaya IV. Amsakayurdaya",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 9,
+    "verse": 5,
+    "issue": "fragment",
+    "excerpt": "Ashlnkavargayurdaya",
+    "suggested_review": "Verse is short for a Jataka stanza; verify it was not truncated or merged with its neighbour."
+  },
+  {
+    "chapter": 9,
+    "verse": 5,
+    "issue": "truncated",
+    "excerpt": "Ashlnkavargayurdaya",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 9,
+    "verse": 6,
+    "issue": "fragment",
+    "excerpt": "Vishayayurdaya",
+    "suggested_review": "Verse is short for a Jataka stanza; verify it was not truncated or merged with its neighbour."
+  },
+  {
+    "chapter": 9,
+    "verse": 6,
+    "issue": "truncated",
+    "excerpt": "Vishayayurdaya",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 9,
+    "verse": 7,
+    "issue": "ocr",
+    "excerpt": "Nakshatramsakayurdaya 2 Total.... 32 -",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 9,
+    "verse": 7,
+    "issue": "fragment",
+    "excerpt": "Nakshatramsakayurdaya 2 Total.... 32 -",
+    "suggested_review": "Verse is short for a Jataka stanza; verify it was not truncated or merged with its neighbour."
+  },
+  {
+    "chapter": 9,
+    "verse": 7,
+    "issue": "truncated",
+    "excerpt": "Nakshatramsakayurdaya 2 Total.... 32 -",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 9,
+    "verse": 1,
+    "issue": "truncated",
+    "excerpt": "Pindayurdaya This is divided into 3 schools: (I) that of Yavanacharya e Stanza I, , (2), that of Jeevasarma e Stanza",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 9,
+    "verse": 9,
+    "issue": "ocr",
+    "excerpt": "Cit. 7). 0), that of Badarayana according to which the maximum years of each planet when in his exaltation sign is one·seventh of 100 years. Each of these three",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 9,
+    "verse": 3,
+    "issue": "ocr",
+    "excerpt": "Ra.~mikal'llrdam According to this, lh~ years of the r1nnets fH'lm the Sun In Saturn an: respectively Hi, :!O. 9. S. 9, 25 :ll\\d 26. There are 4 kinds of this a",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 9,
+    "verse": 6,
+    "issue": "ocr",
+    "excerpt": "Vishayoyurdaya The consists of two kinds-the one according to Parasara and the other as mentioned in a work named Prakriyamala. These parta1c:e of the nature of",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 9,
+    "verse": 6,
+    "issue": "truncated",
+    "excerpt": " which each process is applicable. Of these 32 processes, Var8~a Mihirn bas mentioned the most important ones in Chapter",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 9,
+    "verse": 7,
+    "issue": "ocr",
+    "excerpt": "For further particulars in Ayurdaya, the reader i ~ referred to the works of Para sara and other writers. We sball here state the details of the Asbtakavarga rr",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 9,
+    "verse": 4,
+    "issue": "fragment",
+    "excerpt": "If he occupy an iaimical sign, the amount is onethird. CH.",
+    "suggested_review": "Verse is short for a Jataka stanza; verify it was not truncated or merged with its neighbour."
+  },
+  {
+    "chapter": 9,
+    "verse": 7,
+    "issue": "truncated",
+    "excerpt": "f events of life with the help of the figur.;:s of these tables. The reader is referred to the works of Parasara . - ---",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 10,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "\\OTES",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 11,
+    "verse": 2,
+    "issue": "ambiguous",
+    "excerpt": "2.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 11,
+    "verse": 6,
+    "issue": "ambiguous",
+    "excerpt": "Chaptcr XII.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 11,
+    "verse": 5,
+    "issue": "ocr",
+    "excerpt": "When Mars ocx:upies sign Capricorn, the Sun and tbe Moon sign Sagittari. Saturn sign Capricorn and wben tbe rising sign- is al~o Capricorn, a person born be<:om",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 11,
+    "verse": 12,
+    "issue": "ocr",
+    "excerpt": "Persons born under the various yogas described above (0). though they may be born in low families will become kings. If such persons are born in a king's family",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 12,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "ht B,jhat ldtaka",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 12,
+    "verse": 4,
+    "issue": "ambiguous",
+    "excerpt": "4 ,",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 12,
+    "verse": 8,
+    "issue": "ambiguous",
+    "excerpt": "8 ,",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 12,
+    "verse": 4,
+    "issue": "ambiguous",
+    "excerpt": "4 ,",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 12,
+    "verse": 8,
+    "issue": "ambiguous",
+    "excerpt": ", ,",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 12,
+    "verse": 2,
+    "issue": "truncated",
+    "excerpt": " an'd if malefic planets, (d) occupy the Kendras (e) the yoga is known as Sarpa. These two form the group of Dala yogas,",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 12,
+    "verse": 3,
+    "issue": "ocr",
+    "excerpt": "Other Astrologers say that the Asraya yogas are identic:1I with the Ynva (a), Abja (b), Vajra (e), Andaja «(/), Ga la (e). and the like yagas (f), nnd that when",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 12,
+    "verse": 5,
+    "issue": "ocr",
+    "excerpt": "If the benefic planets occupy lIlC ascendant and the 7th house while the malefic planets occupy tlte 4th and the 10th houses. the Yoga is known as Vajra; and if",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 12,
+    "verse": 6,
+    "issue": "ocr",
+    "excerpt": "I have described the Vajra and other (a) yogas adopting the view of former writers (b) How can Mercury and Venus occupy the 4th sign (e) from the Sun (d)? II ':",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 12,
+    "verse": 6,
+    "issue": "truncated",
+    "excerpt": ") How can Mercury and Venus occupy the 4th sign (e) from the Sun (d)? II ':its! ;:lflJqJj'~i'I'p a~ I'll fq ~t;.'f/~ff I",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 12,
+    "verse": 7,
+    "issue": "ocr",
+    "excerpt": "If all the planets occupy tile four sigilli (a) from the ascendant. the yoga is known as Yupa; if they occupy the four signs (b) from the fourth bouse, 'the yog",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 12,
+    "verse": 9,
+    "issue": "truncated",
+    "excerpt": " as Samudra. and if they occupy the six alternate signs (e) beginning from the asce8dant, the yoga is known as CH •. ISS",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 12,
+    "verse": 10,
+    "issue": "truncated",
+    "excerpt": "a yogas described in Stanza 7 shall not be can·founded· with , the Kedara yogas described in this stanza. And so on. 1S6",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 12,
+    "verse": 12,
+    "issue": "ocr",
+    "excerpt": "If the Asraya yogas partake at the same time of tbe character of otber yogas, they should be treated as the latter; otberwise. they produce the elfects describe",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 12,
+    "verse": 15,
+    "issue": "ocr",
+    "excerpt": "A person born under a Yupa yoga will be liberal in gift and will perform high sacrificittl l rights. A person born under a Bana (Ishu) yoga will indulge in tort",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 12,
+    "verse": 17,
+    "issue": "truncated",
+    "excerpt": "issioJl (0). A person born in a Vallaki yoga will be intelligent and will delight in music and dance. The Millat iiitaka",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 13,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "these (b).",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 13,
+    "verse": 1,
+    "issue": "ocr",
+    "excerpt": "The conduct, wealth. knowledge. intelligence and skill of a person . will be poor. moderate or excellent according as the Moon oc<:upics the Kendra. th~ Panapha",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 13,
+    "verse": 2,
+    "issue": "ocr",
+    "excerpt": "If the benefic planets (a) occupy the 6th, 7th and the 8th hou~ es · from the Moon , the yoga is known as Adhi yoga (b). A person born in this yoga will become ",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 13,
+    "verse": 45,
+    "issue": "ocr",
+    "excerpt": "6,7, will form the 1st series. Obtain the 2nd series as follows: 1+ 2=3 ; 3+ 3=6; 6+4=10; 10+ 5= 15; 15+ 6= 21. '-The 2nd series, therefore, is 1, 3,6,10. 15,21",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 13,
+    "verse": 45,
+    "issue": "truncated",
+    "excerpt": " the Dum·bers beginning from unity to tbe last number for denom.in~ aloes respectively, The number of combinations taken",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 13,
+    "verse": 12,
+    "issue": "ocr",
+    "excerpt": "3,4, etc., at a time will respectively be. the first fraction. the product of the first two fractions, of the first three fractions or of the first four fractio",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 13,
+    "verse": 12,
+    "issue": "truncated",
+    "excerpt": "ive at a time = i x ;'. x ; x ~ x J=21; taken siltatatime =i x ~ x ; x txfX: = 7; and taken seven at a time = jxtx; x tx",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 13,
+    "verse": 10,
+    "issue": "ocr",
+    "excerpt": "X '-I ~ w ..,- . Ne'N, in tbe Sunapha or Anapha yogas, the 2nd or the 12th house ' from the Moon may be ooc:upied by the five planets from the Mars eitber singl",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 13,
+    "verse": 7,
+    "issue": "ocr",
+    "excerpt": "Ir the Yoga planet be Mars, the person will be active, fond of fight, wealthy, and will engage in deeds without thought. If the yoga planet be Mercury, rile per",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 13,
+    "verse": 8,
+    "issue": "ocr",
+    "excerpt": "If the yoga planet be Saturn, the person will \": Iljoy wealth, property and servants of others, will engage ill various deeds and will be the c,bier of parties ",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 13,
+    "verse": 8,
+    "issue": "truncated",
+    "excerpt": "ing on prosperity if she occupy the invisible hemisphere; ·if the birtb occur by night, the results will be the rever:.e",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 13,
+    "verse": 1,
+    "issue": "fragment",
+    "excerpt": "these (b).",
+    "suggested_review": "Verse is short for a Jataka stanza; verify it was not truncated or merged with its neighbour."
+  },
+  {
+    "chapter": 13,
+    "verse": 9,
+    "issue": "ocr",
+    "excerpt": "If all the benenc planets (a) occupy the Upachaya places (b) from the Ascendant at the time. of birth, a person will be very rich and if they occupy the Upachay",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 13,
+    "verse": 9,
+    "issue": "truncated",
+    "excerpt": "s to occupy the Upachaya places from the Ascendant or the Moon or 110th, the person will become rich and not poor. - - -",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 14,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "-OF Two PLANETS",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 14,
+    "verse": 2,
+    "issue": "ambiguous",
+    "excerpt": "-",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 14,
+    "verse": 5,
+    "issue": "ambiguous",
+    "excerpt": "-OF SIX PLANl:1S",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 14,
+    "verse": 1,
+    "issue": "ocr",
+    "excerpt": "If, at the time of birth, the Sun and tbe Moon occupy together a sign of the Zodiac, the person born will be a maker of fire engines (a) and will work in stones",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 14,
+    "verse": 5,
+    "issue": "ocr",
+    "excerpt": "If the double planets occupying together a sign of the Zodiac at the time of birth be Venus and Saturn, the person will be short-sighted, will have an increase ",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 14,
+    "verse": 5,
+    "issue": "truncated",
+    "excerpt": ", the effects described shall he determined and applied. ~'fl'rcury and fll.-Of' FOUR PLANF.T'!I 1'0 tV.-OF FIVE PLANETS",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 15,
+    "verse": 1,
+    "issue": "ocr",
+    "excerpt": "A person born when four or more (a) powerful (b) planets occupy a single sign of the Zodiac becomes an ascetic of the Sakya. Ajivika, Bbikshuka, Vriddhasravaka,",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 16,
+    "verse": 6,
+    "issue": "ocr",
+    "excerpt": "A person born when the Moon passes through the asterism of Magha will bave\" numerous servants, will be very rich, will live in comfort, will worship tbe Devas a",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 16,
+    "verse": 9,
+    "issue": "ocr",
+    "excerpt": "A person born when the Moon passes through the asterism of Visakha wiII be jealous of another's prosperity, will be a niggard, of bright appearance, of . distin",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 16,
+    "verse": 10,
+    "issue": "ocr",
+    "excerpt": "A person born when the Moon passes through the asterism ~f Jyeshta will have few friends, will be very cheerful, virtuous, and of irascible temper. A person bor",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 16,
+    "verse": 11,
+    "issue": "ocr",
+    "excerpt": "A person born when the Moon pa .~ses through the asterism of P. Ashadha will have an agreeable wife, will be proud and attached to friends. A penon born when th",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 17,
+    "verse": 2,
+    "issue": "ocr",
+    "excerpt": "A person born with the Moon in sign Taurus will be of fine appearance and of beautiful gait ; will POsstSS large thighs and face ; will possess marks on his bac",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 17,
+    "verse": 8,
+    "issue": "ocr",
+    "excerpt": "A person born with the Moon in sign Scorpio will have broad eyes, a broad· breast and round shanks, thighs and knees; will be separated from his parents and pre",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 17,
+    "verse": 10,
+    "issue": "ocr",
+    "excerpt": "A person born with the Moon in sign Capricorn will be ever attached to bis wife and children; will ~o deeds of virtue for outward show; will havc weak lower lim",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 17,
+    "verse": 13,
+    "issue": "ocr",
+    "excerpt": "If, at the time of birth of a person, the Moon, the sign occupied by the Moon dnd the lord of such sign be all powerful , the effects described in Ihis chapler ",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 17,
+    "verse": 13,
+    "issue": "truncated",
+    "excerpt": "Author describes the effects of the various planets occupying the several signs of the Zodiac at tbe time of birth. --'-",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 18,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "\\\"OTES",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 18,
+    "verse": 11,
+    "issue": "ambiguous",
+    "excerpt": "A person born with Saturn in sign Aries will be",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 18,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "A person born when Aries is the rising sign will.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 18,
+    "verse": 2,
+    "issue": "ambiguous",
+    "excerpt": "2.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 18,
+    "verse": 3,
+    "issue": "ambiguous",
+    "excerpt": "3.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 18,
+    "verse": 4,
+    "issue": "ambiguous",
+    "excerpt": "4.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 18,
+    "verse": 5,
+    "issue": "ambiguous",
+    "excerpt": "5.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 18,
+    "verse": 6,
+    "issue": "ambiguous",
+    "excerpt": "A person born when the rising sign is Vigto, will",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 18,
+    "verse": 7,
+    "issue": "ambiguous",
+    "excerpt": "7.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 18,
+    "verse": 8,
+    "issue": "ambiguous",
+    "excerpt": "8.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 18,
+    "verse": 9,
+    "issue": "ambiguous",
+    "excerpt": "A person born when the rising sign is Sagittari",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 18,
+    "verse": 10,
+    "issue": "ambiguous",
+    "excerpt": "A person born when the rising sign is Capricorn",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 18,
+    "verse": 11,
+    "issue": "ambiguous",
+    "excerpt": "11.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 18,
+    "verse": 12,
+    "issue": "ambiguous",
+    "excerpt": "A person born when the rising sign is Pisces will",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 18,
+    "verse": 2,
+    "issue": "ocr",
+    "excerpt": "A person born with tbe Sun in sign Gemini will be learned in grammar, will be an Astrologer and ~m be rich. A person born with the Sun in CaDcer will be indepen",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 18,
+    "verse": 1,
+    "issue": "fragment",
+    "excerpt": "\\\"OTES another reading, his earning will",
+    "suggested_review": "Verse is short for a Jataka stanza; verify it was not truncated or merged with its neighbour."
+  },
+  {
+    "chapter": 18,
+    "verse": 1,
+    "issue": "truncated",
+    "excerpt": "\\\"OTES another reading, his earning will",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 18,
+    "verse": 13,
+    "issue": "ocr",
+    "excerpt": "A person born with Jupiter in sign Cancer will be possessed of gems, sons, wealth, wife, influence, intelligence and comfort. A person born with Jupiter in sign",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 18,
+    "verse": 14,
+    "issue": "ocr",
+    "excerpt": "A person born with Venus in Sign Aries or Scorpio will be fond of the wives of other men, will Jose ~ is property throllgh their influence and will bring disgra",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 18,
+    "verse": 15,
+    "issue": "ocr",
+    "excerpt": "A per ~ua born\" witt} Venus in \"sign Gemini will do the work of a king, will be rich and learned in music. A person born with VentlS in sign Virgo, will engage ",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 18,
+    "verse": 18,
+    "issue": "ocr",
+    "excerpt": "A person born with Saturn in sign Taurus will be fond of women of low caste. will possess small wealth :Ind will have several wives. A person born witb Saturn i",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 18,
+    "verse": 20,
+    "issue": "ocr",
+    "excerpt": "Effects similar to those described for the several signs of the Zodiac when the Moon OCC\\lpics them and when she is aspected by planets are mentioned also for t",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 19,
+    "verse": 1,
+    "issue": "ocr",
+    "excerpt": "If at the time of birth, the Moon occupy sign Aries and be aspected by Mars, the person will become a king ; if she be aspected by Mercury, the person wiII be l",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 19,
+    "verse": 4,
+    "issue": "ocr",
+    "excerpt": "If at the time of birth. the Moon occupy the Solar or Lunar flOra of a sign, she wil! produce benefic effects if she be aspected by planets occupying respective",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 19,
+    "verse": 9,
+    "issue": "truncated",
+    "excerpt": " pass and Dot those described for the Moon occupyina: the several signs and being aspected by the several planets (e). \\",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 20,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "on:s",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 20,
+    "verse": 1,
+    "issue": "ocr",
+    "excerpt": "If at time of . birth of a person, the Sun occupy the Ascendant, the person will be fond of fight, slow at work, without sight and without mercy; but if Aries b",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 20,
+    "verse": 2,
+    "issue": "truncated",
+    "excerpt": "o sons and will be poor and if'-he occupy the 6th house. the person will be powerful and be subjut&ted by his enemy (a),",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 20,
+    "verse": 5,
+    "issue": "ocr",
+    "excerpt": "If at the time of birth the Moon occupy the 7th house from the ascendant. the person will be jealous of the prosperity of other men and will be lustful. Jf she ",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 20,
+    "verse": 6,
+    "issue": "ocr",
+    "excerpt": "If at the time of birth of a person Mars occupy the ascendant, StIch person will possess a wounded body; if he occupy the 2nd house, the person will eat low mea",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 20,
+    "verse": 9,
+    "issue": "ocr",
+    "excerpt": "If at the time of birth of a person Saturn occupy the ascendant, such person will be poor, will be afflicted with diseases and sexual passion, will be dirty, wi",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 21,
+    "verse": 2,
+    "issue": "ocr",
+    "excerpt": "If at the time of birth of a person, a single planet occupy its exaltation sign and be aspecte<i by a friendly planet. such person will become a king; if at the",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 21,
+    "verse": 4,
+    "issue": "ocr",
+    "excerpt": "A person born when malefic planets occupy the Solar horas of odd signs will be of wide-spread fame. will do important deeds. will be powerful. wealthy Ilnd of A",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 21,
+    "verse": 6,
+    "issue": "truncated",
+    "excerpt": "will be wicked; if she occupy .an Ayudba (w Drekkana (d) the person wjll do deeds of torture; if she occupy a Cbatushpad",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 22,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": ")lanOl5, if they occupy Kendra signs from one another",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 22,
+    "verse": 1,
+    "issue": "ocr",
+    "excerpt": "Planets occupying their own signs or their exal~ lation or Moolatrikona signs are said to be Karaka planets to one another, if, at the same time they occupy the",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 22,
+    "verse": 5,
+    "issue": "ocr",
+    "excerpt": "If at tbe time of birth of a person, Jupiter, or tbe lord of the sign occupied by the MOOll, or the lord of the Ascendant occupy a Kendra bouse, such person wil",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 23,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "\\on:s",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 23,
+    "verse": 3,
+    "issue": "ocr",
+    "excerpt": "If, at the time of birth of a person one of the two hc:uses, the 12th and the 6th, fro~ the Ascendant be oc<:upied by the Sun aDd tbe otber by the Moon, the per",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 23,
+    "verse": 5,
+    "issue": "ocr",
+    "excerpt": "If, at the time of birth of a person, Venus occupy the 7th house from the Ascendant and be in the varga of Saturn or Mars and be aspected by Saturn or Mars, the",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 23,
+    "verse": 7,
+    "issue": "ocr",
+    "excerpt": "If. at the time o~ birth of a person, Venus and Mars occupy the 7th house from the Ascendant and be aspected by malefic planets, such person will be afflicted w",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 23,
+    "verse": 9,
+    "issue": "ocr",
+    "excerpt": "If, at the time of birth of a person, the Moon occupy the 5th Navamsa of Sagittari (0) or the Navamsa of Pisces, Cancer, Capricorn, or Aries (b), and be either ",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 23,
+    "verse": 9,
+    "issue": "truncated",
+    "excerpt": " or Capricorn and be either occupied or aspected by Saturn and Mars, the person wilt also be afflicted with leprosy (d),",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 23,
+    "verse": 10,
+    "issue": "broken",
+    "excerpt": "",
+    "suggested_review": "Verse extracted empty; check the PDF page by hand."
+  },
+  {
+    "chapter": 23,
+    "verse": 11,
+    "issue": "truncated",
+    "excerpt": "Clluse. p!rttlining to the most powerful of the four planets (a). t I. If. at the time of birth of a person, the malefic",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 23,
+    "verse": 12,
+    "issue": "ocr",
+    "excerpt": "If, at the time of birth of a person, the eclipsed Moon, occupy the rising sign, and if Saturn and Mars occupy the Sth and 9th houses from the Ascendant, such p",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 23,
+    "verse": 12,
+    "issue": "truncated",
+    "excerpt": "d if Saturn and Mars occupy the Sth and 9th houses from the Ascendant, the person wi1llose his e}'e~. The B,jhat l a/aka",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 23,
+    "verse": 13,
+    "issue": "ocr",
+    "excerpt": "Jf, at the t im~ or birth of a person, Saturn occupy the 7th house and Jupiter the Ascendant. such person e afflicted with windy complaints. If, at the time of ",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 23,
+    "verse": 16,
+    "issue": "ocr",
+    "excerpt": "If, at a time of birth of a person, theomaldic planets occupy the 12th, 5th, 2nd, and 9th houses in any way, SUell person will suffer imprisonment and restraint",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 24,
+    "verse": 1,
+    "issue": "ocr",
+    "excerpt": "The same remarks apply to the horoscopy of women as to the horoscopy of men ; but the effects which arc suitable will alone affect women and the rest will affec",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 24,
+    "verse": 3,
+    "issue": "truncated",
+    "excerpt": " 'be cbaste ; if it be that of Mercury, she will be deceitful; and if ·it be that of Venus, she will be of bad character",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 24,
+    "verse": 5,
+    "issue": "ocr",
+    "excerpt": "When the rising sign or the sign occupied by the Moon at the time of birth of a woman is Cancer, i1 the rising Trimsamsa Of the Trimsamsa occupied by the Moon b",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 24,
+    "verse": 9,
+    "issue": "truncated",
+    "excerpt": "ermission of her husband. NOTKS (0) Either the Sun or Mars or Saturn. (b) Either Mercury or Jupiter or Venus. eH. XXIV J",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 25,
+    "verse": 11,
+    "issue": "ambiguous",
+    "excerpt": "The cause of death of a person whose horoscope",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 25,
+    "verse": 1,
+    "issue": "truncated",
+    "excerpt": "a common sign. he will die on his way. (a) Planers The SUD The Moon Mars Mercury Jupiter Venus Saturn The Hrihar lifraka",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 25,
+    "verse": 2,
+    "issue": "ocr",
+    "excerpt": "Jr, at the time of birth of a person, the Sun and Mars occupy the 4th or the 10th house from the rising sign, the person will die being struck with stO'les. If ",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 25,
+    "verse": 3,
+    "issue": "ocr",
+    "excerpt": "If. at the time of birth of a persoll, Saturn occupy sign Cancer and the Moon sign Capricorn, the person will die from nn attack of dropsy. If the Moon occupy s",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 25,
+    "verse": 4,
+    "issue": "ocr",
+    "excerpt": "If. at the time of birth of a person, the Sth or the 9th house be occu~·id by two malefic planets and if such planets b~ not aspected by benefic planets. the pe",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 25,
+    "verse": 7,
+    "issue": "ocr",
+    "excerpt": "If, at the time of birth of a person. the 4th, 7th and 10th houses be respectively occupied by Mars, the Sun and Saturn. the person wilt die by weapons, by fire",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 25,
+    "verse": 8,
+    "issue": "truncated",
+    "excerpt": "ses be respectively occupied by the waning Moon, by the Sun and by Mars, the person will die in the middlc of excrement,",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 25,
+    "verse": 9,
+    "issue": "truncated",
+    "excerpt": "he privities (a}--the part affected will be either eaten through by worms or cut with the lancet or, burnt or blistered,",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 25,
+    "verse": 10,
+    "issue": "broken",
+    "excerpt": "",
+    "suggested_review": "Verse extracted empty; check the PDF page by hand."
+  },
+  {
+    "chapter": 25,
+    "verse": 12,
+    "issue": "ocr",
+    "excerpt": "The place of death of a person will be that of the sign occupied by the lord of the rising Navamsa (a); or it will be the place of the sign of the planet which ",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 25,
+    "verse": 12,
+    "issue": "truncated",
+    "excerpt": " by benefic planets, it will be three times the time of such oblique ascension (c). If. at the time of birth of a person",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 25,
+    "verse": 14,
+    "issue": "ocr",
+    "excerpt": "If the lord of the Drekkaoa occupied by the Sun or the Moon, whichever i'i powerful, be Jupiter, the person has come from Devaloka; if such lord be her the Moon",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 26,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "on:s",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 26,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "e .• sign Srorpio.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 26,
+    "verse": 5,
+    "issue": "ambiguous",
+    "excerpt": "Multiplying",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 26,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "iOTES",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 26,
+    "verse": 5,
+    "issue": "ambiguous",
+    "excerpt": "EaSt",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 26,
+    "verse": 5,
+    "issue": "ambiguous",
+    "excerpt": "West",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 26,
+    "verse": 42,
+    "issue": "ocr",
+    "excerpt": "and so on. If. however. the cycle of Jupiter cannot be easily ascertained from the appearance of tbe person, the Th~ BT/hot Utaka number of the cycle shall be d",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 26,
+    "verse": 3,
+    "issue": "ocr",
+    "excerpt": "If the Ritu does not agree witb tlte Ayalla, then, tbe Ritu of the alternative planet shall be determined as the Ritu of birth of a person (a). Tbe Moon and Ven",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 26,
+    "verse": 5,
+    "issue": "ocr",
+    "excerpt": "Accordi~g to some, the lunar mOlllh of birth shall be determined from the Navamsa occupied by the Moon at the time of query (a). Again, the sign occupied by the",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 26,
+    "verse": 8,
+    "issue": "ocr",
+    "excerpt": "Or, mUltiply the Sphuta ude) of the planet or of the most powerful planet occupying tbe rising sign by the number of inches in the length of the shadow of a twe",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 26,
+    "verse": 8,
+    "issue": "truncated",
+    "excerpt": "s as remainder, 7 signs, 16 degrees and 30 minutes. The Lagna at the time of birth is therefore the 8th sign from Aries,",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 26,
+    "verse": 11,
+    "issue": "ocr",
+    "excerpt": "Multiply the same sum (a) by 10, 8, 7, 5; add or subtract 9. if necessary, as stated above; divide the result by their appropriate numbers (b); you will obtain ",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 26,
+    "verse": 12,
+    "issue": "ocr",
+    "excerpt": "From Ihe product of the sum by 10 sball be determined the year (age), Ritu and month of birth (a); and from t~c I\"roduct of the sum by 8 shaJl be determined Ihe",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 26,
+    "verse": 16,
+    "issue": "fragment",
+    "excerpt": "The Dik numbers are: East",
+    "suggested_review": "Verse is short for a Jataka stanza; verify it was not truncated or merged with its neighbour."
+  },
+  {
+    "chapter": 26,
+    "verse": 16,
+    "issue": "truncated",
+    "excerpt": "The Dik numbers are: East",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 26,
+    "verse": 5,
+    "issue": "fragment",
+    "excerpt": "EaSt South",
+    "suggested_review": "Verse is short for a Jataka stanza; verify it was not truncated or merged with its neighbour."
+  },
+  {
+    "chapter": 26,
+    "verse": 5,
+    "issue": "truncated",
+    "excerpt": "EaSt South",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 27,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "\\OTES",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 27,
+    "verse": 1,
+    "issue": "ambiguous",
+    "excerpt": "\\OTES",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 27,
+    "verse": 2,
+    "issue": "ambiguous",
+    "excerpt": "The",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 27,
+    "verse": 7,
+    "issue": "ambiguous",
+    "excerpt": "These brief works have been written by me on a",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 27,
+    "verse": 8,
+    "issue": "ambiguous",
+    "excerpt": "If any portion of the Text be found omitted by",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 27,
+    "verse": 9,
+    "issue": "ambiguous",
+    "excerpt": "9.",
+    "suggested_review": "This number duplicates an earlier verse in the same chapter (the translation restarts numbering for new sections). Confirm the verse number or renumber."
+  },
+  {
+    "chapter": 27,
+    "verse": 1,
+    "issue": "ocr",
+    "excerpt": "The 1st Drekkana of sign Aries is a man with a white cloth tied round his loins, black. facing a person as if ab' ~ to protect him, of fea rful appearance and o",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 27,
+    "verse": 4,
+    "issue": "ocr",
+    "excerpt": "The lst Drekkana of sign Taurus is a woman with hairs cut and growing in curls, with a pot-like belly, dressed in a burnt garment, thirsty, and fond of food and",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 27,
+    "verse": 9,
+    "issue": "ocr",
+    "excerpt": "The 3ed Drekkana of sign wearing ornaments, possessing maoy mail coat and target, carrying a bow in all the arts an~ a literary writer.",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 27,
+    "verse": 14,
+    "issue": "ocr",
+    "excerpt": "The 2nd Drekkana of sign Leo is a man of the shape of a horse, wearing a slightly white g~l'Iand of flowers in the head and covered with deer skin and flannel, ",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 27,
+    "verse": 19,
+    "issue": "ocr",
+    "excerpt": "The 1st Drekkana of sign Libra is a man ltolding a balance in one hand, skilleu in weighing and measuring, with articlcs in his hand to be weighed or measured ~",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 27,
+    "verse": 20,
+    "issue": "ocr",
+    "excerpt": "The 2nd Drckkara of sign Libra is a man with the fac~ of a vulture, holding a pot in his hand wishing 10 fall down, suffering from huoger and tbirst nnd with hi",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 27,
+    "verse": 21,
+    "issue": "ocr",
+    "excerpt": "The 3ed Drekkana of sigo Libra is a man with the face of a horse adorned with gems, scaring animals in the woods, carrying a golden quiver and we~nng a mail coa",
+    "suggested_review": "OCR artifacts visible (garbled characters); compare against the PDF page and correct."
+  },
+  {
+    "chapter": 27,
+    "verse": 24,
+    "issue": "truncated",
+    "excerpt": "hat of a turtle. scaring dogs, deer, jackals and hogs in the woods and lording over a country abounding in sandie trees,",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 27,
+    "verse": 30,
+    "issue": "truncated",
+    "excerpt": "red with flannel, with a quiver, a bow and a mail coat and carrying on his shoulders a pot set witb precious stones. 2'4",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  },
+  {
+    "chapter": 27,
+    "verse": 36,
+    "issue": "truncated",
+    "excerpt": "forest, suffering from thieves, from fire and from hunger and weeping. 10. 1 have been enabled to write the present work",
+    "suggested_review": "Verse does not end with terminal punctuation; verify the tail was captured."
+  }
+]

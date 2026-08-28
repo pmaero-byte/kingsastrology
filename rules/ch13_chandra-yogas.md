@@ -10,9 +10,9 @@
 
 ---
 
-## R-4.1 — Sun-Moon angular relationship (conduct, wealth, intelligence)
+## R-13.1 — Sun-Moon angular relationship (conduct, wealth, intelligence)
 
-- **Cites:** Ch 4, v 1
+- **Cites:** Ch 13, v 1
 - **Classification:** strength
 - **Condition:** At birth, compute the sign-distance from the Sun's sign to the Moon's sign.
   - If Moon is in a Kendra from the Sun (1st, 4th, 7th, or 10th sign from the Sun) → poor degree of conduct, wealth, knowledge, intelligence and skill.
@@ -23,9 +23,9 @@
 - **Status:** draft
 - **Notes:** Translator's note (a) spells out the sign groups: Kendra = the Sun's sign or the 4th/7th/10th from it; Panaphara = 2nd/5th/8th/11th; Apoklima = 3rd/6th/9th/12th. OCR corrections: "oc<:upies" → "occupies", "th~" → "the", "accord­ing" → "according". The verse continues into R-4.1b.
 
-## R-4.1b — Moon in own or Atimitra Navamsa, aspected by Jupiter (day) / Venus (night)
+## R-13.1b — Moon in own or Atimitra Navamsa, aspected by Jupiter (day) / Venus (night)
 
-- **Cites:** Ch 4, v 1
+- **Cites:** Ch 13, v 1
 - **Classification:** strength
 - **Condition:** The Moon occupies her own Navamsa OR an Atimitra Navamsa (a Navamsa whose lord is an Atimitra — "very friendly" — planet to the Moon; see Ch 2 v 18), AND the Moon is aspected by Jupiter if birth is by day, OR aspected by Venus if birth is by night.
 - **Effect (one-way, dignity-closing):** When the Moon rests in her own Navamsa or in a Navamsa of a very friendly planet, and Jupiter (by day) or Venus (by night) casts his aspect upon her, she turns the chart toward richness and comfort. This is a strength of ease and easeful provision; it sits alongside the conduct/wealth/intelligence measure of R-4.1 and can lift the reading where that measure is modest.
@@ -33,9 +33,9 @@
 - **Status:** draft
 - **Notes:** Translator's note (b): "An Atimitra Navamsa is a Navamsa of an Atimitra or a very Friendly planet. (Vide. Stanza 18. Ch. II.)" OCR: "aspectcd" → "aspected". Condition depends on Navamsa lordship and the Moon's friendship table (Ch 2) — testable from the ChartFactBundle once Navamsa + friendship tables are computed.
 
-## R-4.2 — Adhi yoga (benefics in 6th, 7th, 8th from the Moon)
+## R-13.2 — Adhi yoga (benefics in 6th, 7th, 8th from the Moon)
 
-- **Cites:** Ch 4, v 2
+- **Cites:** Ch 13, v 2
 - **Classification:** strength
 - **Condition:** One or more of the benefic planets — Mercury, Jupiter, Venus — occupy the 6th, 7th, or 8th house counted from the Moon. (The yoga is of seven sorts per Srutakeerti: benefics in all three; in 6th+7th; in 6th+8th; in 7th+8th; in 6th alone; in 7th alone; in 8th alone.)
 - **Effect (one-way, dignity-closing):** When benefics stand in the 6th, 7th and 8th from the Moon, the verse names this Adhi yoga and grants a life of high station — general, minister, or king — with great pleasures and wealth, enemies subdued, long life, and freedom from disease and fear. The stature rises with the strength of Mercury, Jupiter and Venus (weak → lesser; moderate → mid; very great → fullest, per Badarayana). This is a strength of risen standing and protected vitality.
@@ -43,9 +43,9 @@
 - **Status:** draft
 - **Notes:** Translator's notes: (a) benefics = Mercury, Jupiter, Venus. (b) Srutakeerti's seven sorts listed above. (e) per Badarayana, the general/minister/king gradation follows the power of Mercury, Jupiter and Venus (weak / moderate / very great). Saravali and Mandavya class Adhi yoga with Raja yoga when Mercury, Jupiter and Venus are not astangata (not combust) and not aspected by malefics. Srutakeerti adds: malefics in 6/7/8 from the Moon give bad effects; both benefics and malefics there give mixed. OCR: "houses" rendered as "hou~es"; "enjoyment" clean. The gradation by planet power and the combustion/malefic-aspect refinement are testable but layered — flagged for scholar review on whether to split into sub-rules.
 
-## R-4.3 — Sunapha, Anapha, Durudhura, Kemadruma definitions
+## R-13.3 — Sunapha, Anapha, Durudhura, Kemadruma definitions
 
-- **Cites:** Ch 4, v 3
+- **Cites:** Ch 13, v 3
 - **Classification:** table
 - **Condition:** Excluding the Sun, examine the houses flanking the Moon:
   - A planet (other than Sun) in the 2nd from the Moon, and none in the 12th → **Sunapha**.
@@ -57,9 +57,9 @@
 - **Status:** draft
 - **Notes:** Translator's notes (a)–(f) preserved above in the body and Notes of R-4.3 and R-4.3alt. The "Kemadruma cancellation" clauses (Moon in Kendra from lagna, or Moon accompanied by a planet) are attributed by the translator to Garga and Parashara (note b); the verse itself says these views are not authoritative. Project canon: apply the 2nd/12th-from-Moon reading; record the cancellation clauses as non-authoritative variants in R-4.3alt. OCR fixes: "Kemad ruOla" → "Kemadruma", "anj" → "and", "olhers" → "others", "tbe.yogas" → "the yogas", "Duru ­dhuea" → "Durudhura", "b<:" → "be".
 
-## R-4.3alt — Non-authoritative variant readings (Kemadruma cancellation / Kendra / Navamsa flank)
+## R-13.3alt — Non-authoritative variant readings (Kemadruma cancellation / Kendra / Navamsa flank)
 
-- **Cites:** Ch 4, v 3 (translator's notes b–f)
+- **Cites:** Ch 13, v 3 (translator's notes b–f)
 - **Classification:** neutral
 - **Condition:** Variant readings the verse explicitly sets aside as not authoritative:
   - (b, Garga & Parashara) Kemadruma ceases if the Moon is in a Kendra from the ascendant, or if the Moon is accompanied by a planet.
@@ -70,9 +70,9 @@
 - **Status:** draft
 - **Notes:** Flag for scholar review: confirm that the project applies only the 2nd/12th-from-Moon reading and treats these as non-authoritative, per the verse's own statement.
 
-## R-4.4 — Counts of Sunapha, Anapha, Durudhura sorts
+## R-13.4 — Counts of Sunapha, Anapha, Durudhura sorts
 
-- **Cites:** Ch 4, v 4
+- **Cites:** Ch 13, v 4
 - **Classification:** table
 - **Condition:** Counting the five non-Sun non-Moon planets (Mars, Mercury, Jupiter, Venus, Saturn) occupying the 2nd and/or 12th from the Moon, singly or in combination:
   - Sunapha yogas: 31 sorts (any non-empty subset of the five planets in the 2nd from the Moon).
@@ -83,9 +83,9 @@
 - **Status:** draft
 - **Notes:** Translator's note derives the counts by the combination rule hinted at in Brihat Samhita Ch 79 v 22 and given plainly by Bhaskara's Lilavati: for five things, C(5,1)+C(5,2)+C(5,3)+C(5,4)+C(5,5) = 5+10+10+5+1 = 31 (Sunapha/Anapha); Durudhura = 75+70+30+5 = 180 by partitioning the 2nd-house subset against the 12th-house subset. The counts are testable arithmetically but are descriptive, not effect-bearing.
 
-## R-4.5 — Sunapha and Anapha effects
+## R-13.5 — Sunapha and Anapha effects
 
-- **Cites:** Ch 4, v 5
+- **Cites:** Ch 13, v 5
 - **Classification:** strength
 - **Condition:** The chart meets the Sunapha condition (R-4.3: a non-Sun planet in the 2nd from the Moon, none in 12th) OR the Anapha condition (R-4.3: a non-Sun planet in the 12th from the Moon, none in 2nd).
 - **Effect (one-way, dignity-closing):** **Sunapha:** self-acquired property, the bearing of a king or one who resembles a king, intelligence, wealth and renown — a strength of self-made standing. **Anapha:** influence and authority, freedom from disease, mastery over passions, great renown, enjoyment of all manner of pleasures, neat dress, and freedom from grief — a strength of composed authority. The particular flavor follows the yoga planet(s), per R-4.7 and R-4.8.
@@ -93,9 +93,9 @@
 - **Status:** draft
 - **Notes:** OCR fixes: "possess·ed" → "possessed", "self·acquir ed" → "self-acquired", "grtal" → "great". Where multiple planets form the yoga, combine the effects per R-4.8 note (a).
 
-## R-4.6 — Durudhura and Kemadruma effects
+## R-13.6 — Durudhura and Kemadruma effects
 
-- **Cites:** Ch 4, v 6
+- **Cites:** Ch 13, v 6
 - **Classification:** strength (Durudhura) / tend (Kemadruma)
 - **Condition:**
   - **Durudhura:** planets (other than Sun) in both the 2nd and 12th from the Moon (R-4.3).
@@ -105,9 +105,9 @@
 - **Status:** draft
 - **Notes:** Kemadruma is the chapter's clearest `tend` case; paired with R-4.9 (which the verse says takes effect even over Kemadruma) and with the offsetting strengths elsewhere in the chart. Per guardrail 4, no doom-leading — the Effect frames it as a tendency of self-forged effort with named offsets. OCR fixes: "ill the enjoyment" → "in the enjoyment", "possess·ed" → "possessed", "Kemadrurna" → "Kemadruma", "ma y" → "may", "dirt y" → "dirty".
 
-## R-4.7 — Yoga planet: Mars, Mercury, Jupiter, Venus
+## R-13.7 — Yoga planet: Mars, Mercury, Jupiter, Venus
 
-- **Cites:** Ch 4, v 7
+- **Cites:** Ch 13, v 7
 - **Classification:** strength
 - **Condition:** For a Sunapha, Anapha, or Durudhura yoga (R-4.3), the yoga planet (the planet in the 2nd/12th from the Moon) is:
   - Mars → active, fond of fight, wealthy, engaging in deeds without thought.
@@ -119,9 +119,9 @@
 - **Status:** draft
 - **Notes:** Translator's note (a): "In music, dance, painting, etc." The "deeds without thought" (Mars) and "afflicted with sexual passion" (Venus) are framed as tendencies paired with the strength of the same yoga (wealth, enterprise/pleasure). OCR fixes: "psan" → "person", "j ·t" → "in", "plCasurcs" → "pleasures".
 
-## R-4.8 — Yoga planet: Saturn; and day/night Moon hemisphere
+## R-13.8 — Yoga planet: Saturn; and day/night Moon hemisphere
 
-- **Cites:** Ch 4, v 8
+- **Cites:** Ch 13, v 8
 - **Classification:** strength (Saturn) / tend (Moon-hemisphere)
 - **Condition:**
   - **Saturn as yoga planet:** For a Sunapha/Anapha/Durudhura yoga (R-4.3), Saturn is the planet in the 2nd/12th from the Moon → the person enjoys wealth, property and servants of others, engages in various deeds, and is chief of parties of men.
@@ -131,9 +131,9 @@
 - **Status:** draft
 - **Notes:** Translator's note (a): if two or more planets are yoga planets, the effects described for them all come to pass (applies to R-4.7 and R-4.8 Saturn). Note (b): by night, Moon in the invisible hemisphere → misery; in the visible hemisphere → prosperity. The "visible/invisible hemisphere" distinction needs a precise operational definition (above/below the horizon at birth) — flagged for scholar review before freezing. OCR fixes: ": Iljoy" → "enjoy", "c,bier" → "chief", "M OOD" → "Moon", "rever:­e" → "reverse", "01'" → "of".
 
-## R-4.9 — Benefics in Upachaya places (from Ascendant or Moon)
+## R-13.9 — Benefics in Upachaya places (from Ascendant or Moon)
 
-- **Cites:** Ch 4, v 9
+- **Cites:** Ch 13, v 9
 - **Classification:** strength
 - **Condition:** The benefic planets — Mercury, Jupiter, Venus — occupy the Upachaya places (3rd, 6th, 10th, 11th) counted from the Ascendant and/or from the Moon:
   - All three benefics in Upachaya from the Ascendant → very rich.

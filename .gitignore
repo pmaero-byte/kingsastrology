@@ -9,3 +9,5 @@ build/
 *.egg-info/
 DerivedData/
 ios/build/
+backend/vendor/
+backend/data/rule_reviews.json

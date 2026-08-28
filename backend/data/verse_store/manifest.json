@@ -1,0 +1,10 @@
+{
+  "verse_store_version": "2026.08.29",
+  "source_pdf": "sourcetext/pdfcoffee.com_brihat-jataka-of-varahamihira-pdf-free.pdf",
+  "source_pdf_pages": 335,
+  "generated_at": "2026-08-28T21:44:29+00:00",
+  "chapter_count": 27,
+  "verse_count": 483,
+  "uncertain_count": 334,
+  "policy": "Extracted faithfully from the OCR layer of the source PDF. OCR-damaged verses are flagged uncertain and await Scholar Reviewer clearance; nothing here is silently corrected."
+}

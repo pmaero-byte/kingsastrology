@@ -10,9 +10,9 @@
 
 ---
 
-## R-4.1 — Sun: benefic houses (bindu places)
+## R-9.1 — Sun: benefic houses (bindu places)
 
-- **Cites:** Ch 4, v 1
+- **Cites:** Ch 9, v 1
 - **Classification:** table
 - **Condition:** For the Sun's Bhinnashtakavarga (BAV), a bindu (benefic point) is contributed in house H counted from each of the eight references as follows:
     - From Sun itself, Mars, Saturn: houses 1, 2, 4, 7, 8, 9, 10, 11
@@ -27,9 +27,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "Mnrs"→Mars (not present here but in next verse); "hou!tCs"→houses; "tbe 3ed"→"the 3rd"; "91h"→"9th"; "3cd"→"3rd"; ":lnd"→"and". Total Sun-bindus after reduction = 48 (translator's note in Sarvashtakavarga section).
 
-## R-4.2 — Moon: benefic houses (bindu places)
+## R-9.2 — Moon: benefic houses (bindu places)
 
-- **Cites:** Ch 4, v 2
+- **Cites:** Ch 9, v 2
 - **Classification:** table
 - **Condition:** For the Moon's BAV, a bindu is contributed in house H counted from each reference as follows:
     - From Lagna: houses 3, 6, 10, 11
@@ -45,9 +45,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "3cd/3ed"→"3rd"; "II th"→"11th"; "Stb"→"5th"; "lith"→"11th"; "lOlh"→"10th". Total Moon-bindus after reduction = 49 (translator's note).
 
-## R-4.3 — Mars: benefic houses (bindu places)
+## R-9.3 — Mars: benefic houses (bindu places)
 
-- **Cites:** Ch 4, v 3
+- **Cites:** Ch 9, v 3
 - **Classification:** table
 - **Condition:** For Mars's BAV, a bindu is contributed in house H counted from each reference as follows:
     - From Sun: houses 3, 5, 6, 10, 11
@@ -63,9 +63,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "lIth"→"11th"; "lst"→"1st"; "4tb/8tb"→"4th/8th"; "Sth"→"5th"; "aDd"→"and"; "lOth"→"10th". Translator's footnote (a) notes the malefic places for Mars are the remaining houses (e.g., from himself: 3rd, 5th, 6th, 12th are malefic for the Sun — the footnote example is for the Sun). Total Mars-bindus after reduction = 39 (translator's note).
 
-## R-4.4 — Mercury: benefic houses (bindu places)
+## R-9.4 — Mercury: benefic houses (bindu places)
 
-- **Cites:** Ch 4, v 4
+- **Cites:** Ch 9, v 4
 - **Classification:** table
 - **Condition:** For Mercury's BAV, a bindu is contributed in house H counted from each reference as follows:
     - From Venus: houses 1, 2, 3, 4, 5, 8, 9, 11
@@ -80,9 +80,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "lst"→"1st"; "tbe"→"the"; "5tb"→"5th"; "lOth"→"10th"; "lIth"→"11th". Total Mercury-bindus after reduction = 54 (translator's note).
 
-## R-4.5 — Jupiter: benefic houses (bindu places)
+## R-9.5 — Jupiter: benefic houses (bindu places)
 
-- **Cites:** Ch 4, v 5
+- **Cites:** Ch 9, v 5
 - **Classification:** table
 - **Condition:** For Jupiter's BAV, a bindu is contributed in house H counted from each reference as follows:
     - From Mars: houses 1, 2, 4, 7, 8, 10, 11
@@ -98,9 +98,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "lst"→"1st"; "lIth"→"11th"; "5tb"→"5th". The translator notes that the figure in the 5th house from Jupiter in Jupiter's AV gives the number of sons (see R-4.11). Total Jupiter-bindus after reduction = 59 (translator's note).
 
-## R-4.6 — Venus: benefic houses (bindu places)
+## R-9.6 — Venus: benefic houses (bindu places)
 
-- **Cites:** Ch 4, v 6
+- **Cites:** Ch 9, v 6
 - **Classification:** table
 - **Condition:** For Venus's BAV, a bindu is contributed in house H counted from each reference as follows:
     - From Lagna: houses 1, 2, 3, 4, 5, 8, 9, 11
@@ -116,9 +116,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "lst"→"1st"; "Slh"→"5th"; "froru"→"from"; "! lIh bOll SCl'"→"11th houses"; "3r(l"→"3rd"; "1 Jth"→"11th"; "Sth"→"5th". Translator notes: a person obtains wife, lands, and wealth when Venus passes through signs containing the largest figure in Venus's AV after reduction. Total Venus-bindus after reduction = 52 (translator's note).
 
-## R-4.7 — Saturn: benefic houses (bindu places)
+## R-9.7 — Saturn: benefic houses (bindu places)
 
-- **Cites:** Ch 4, v 7
+- **Cites:** Ch 9, v 7
 - **Classification:** table
 - **Condition:** For Saturn's BAV, a bindu is contributed in house H counted from each reference as follows:
     - From Saturn itself: houses 3, 5, 6, 11
@@ -134,9 +134,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "lith"→"11th"; "fr om"→"from". Total Saturn-bindus after reduction = 39 (translator's note).
 
-## R-4.8 — Remaining houses are malefic; net benefic/malefic by count
+## R-9.8 — Remaining houses are malefic; net benefic/malefic by count
 
-- **Cites:** Ch 4, v 8
+- **Cites:** Ch 9, v 8
 - **Classification:** table
 - **Condition:** For each planet P, any house from a given reference NOT listed in P's benefic set (R-4.1 through R-4.7) is a malefic place (zero bindu / a "line"). For a sign S under transit of P, compute the count of benefic references (bindus, max 7 planets + Lagna = 8) versus malefic references; if benefic count > malefic count, the place is net benefic; if malefic count > benefic count, the place is net malefic.
 - **Effect (one-way, dignity-closing):** A planet passing through a sign produces favorable effects to the extent its bindus exceed its malefic marks there, and requires patience to the extent the malefic marks exceed. The score is read as a balance, not a verdict.
@@ -144,9 +144,9 @@
 - **Status:** draft
 - **Notes:** Translator footnote (a): "the 3rd, 5th, 6th and 12th houses from himself are malefic places for the Sun. The 1st, 2nd, 4th, 5th, 7th, 8th, 9th and 12th houses from Lagna are malefic places for the Moon, and so forth." Footnote (b): in AV tables, benefic places are marked with dots and malefic places with lines; the malefic-line count is the difference between 8 and the dot count for that reference.
 
-## R-4.9 — Transit strength: Upachaya, own/friendly/exaltation signs produce full effects
+## R-9.9 — Transit strength: Upachaya, own/friendly/exaltation signs produce full effects
 
-- **Cites:** Ch 4, v 8 (cont.)
+- **Cites:** Ch 9, v 8 (cont.)
 - **Classification:** strength
 - **Condition:** A transiting planet P passing through a sign S produces its benefic effects fully when (a) S is an Upachaya house counted from the Lagna (houses 3, 6, 10, 11) [Sree Devakeerti: also from the Moon], or (b) S is P's own sign (Swakshetra), Mulatrikona, friendly sign, or exaltation sign — AND S is net benefic for P (bindus > malefic marks). Conversely, P produces malefic effects fully when S is an Apachaya house (the non-Upachaya houses: 1, 2, 4, 5, 7, 8, 9, 12) or P's inimical/depression sign, and S is net malefic for P.
 - **Effect (one-way, dignity-closing):** When a planet moves through a sign that is both naturally supportive (Upachaya, own, friendly, or exalted) and scored benefic in its Ashtakavarga, its favorable influence is given fully — a season to act. When it moves through a sign that is both naturally heavy (Apachaya, inimical, or depressed) and scored malefic, its difficulty is given fully — a season to wait, conserve, and prepare.
@@ -154,9 +154,9 @@
 - **Status:** draft
 - **Notes:** Footnote (c): Upachaya houses are the 3rd, 6th, 10th and 11th from Lagna; also from the Moon per Sree Devakeerti. Footnote (d): includes Swakshetra and Mulatrikona per Sree Devakeerti. Footnote (e): Apachaya reckoned from the rising sign and from the Moon per Sree Devakeerti. Footnote (f): Mars passing through Capricorn (his Upachaya) produces benefic effects fully; through Gemini (his Anupachaya) produces malefic effects fully.
 
-## R-4.10 — Sarvashtakavarga totals (table)
+## R-9.10 — Sarvashtakavarga totals (table)
 
-- **Cites:** Ch 4, translator's commentary (Sarvashtakavarga section)
+- **Cites:** Ch 9, translator's commentary (Sarvashtakavarga section)
 - **Classification:** table
 - **Condition:** The Sarvashtakavarga (SAV) is the sum of the seven Bhinnashtakavargas (BAV). The total of all sign-figures in the SAV table is always 337. The per-planet BAV totals (after Trikona and Ekadhipatya reductions), from the Sun to Saturn, are respectively: 48, 49, 39, 54, 59, 52, 39. The figure in any sign of the SAV = the sum of that sign's figures across the seven BAVs.
 - **Effect (one-way, dignity-closing):** The SAV gives the total benefic density of each sign across all seven planets. A sign's SAV figure is a single, testable measure of how universally favorable that sign is for transits and undertakings.
@@ -164,9 +164,9 @@
 - **Status:** draft
 - **Notes:** This is translator commentary, not a numbered verse. The per-planet totals are testable invariants and a useful cross-check on R-4.1 through R-4.7. Scholar review: confirm the reduction procedure (Trikona + Ekadhipatya) is correctly applied before these totals are used.
 
-## R-4.11 — SAV sign-density thresholds for transit favorability
+## R-9.11 — SAV sign-density thresholds for transit favorability
 
-- **Cites:** Ch 4, translator's commentary (Sarvashtakavarga, rule 1)
+- **Cites:** Ch 9, translator's commentary (Sarvashtakavarga, rule 1)
 - **Classification:** strength
 - **Condition:** For a sign S in the SAV table, let F = the SAV figure (sum of bindus) in S. If F > 30, planets transiting S produce benefic effects. If 25 ≤ F ≤ 30, effects are mixed (neither good nor bad). If F < 25, effects are unfavorable. Good works should be commenced when the rising sign is one whose SAV figure is among the largest; marriages and alliances should be formed with persons whose natal star falls in such a sign.
 - **Effect (one-way, dignity-closing):** A sign with an SAV figure above 30 is a place of broad support — undertakings begun there gather the favor of many planets. A sign between 25 and 30 is balanced — proceed with steady attention. A sign below 25 asks for patience; choose a stronger rising sign for new beginnings.
@@ -174,9 +174,9 @@
 - **Status:** draft
 - **Notes:** Translator commentary (numbered "1." within the SAV uses section), not a primary verse. The "bad" framing is retained verbatim but presented constructively in the Effect per project guardrails (Pillar 3).
 
-## R-4.12 — SAV gain-loss balance (10th/11th/12th/1st)
+## R-9.12 — SAV gain-loss balance (10th/11th/12th/1st)
 
-- **Cites:** Ch 4, translator's commentary (Sarvashtakavarga, rule 2)
+- **Cites:** Ch 9, translator's commentary (Sarvashtakavarga, rule 2)
 - **Classification:** tend
 - **Condition:** In the SAV table, let F10, F11, F12, F1 be the figures in the 10th, 11th, 12th and 1st houses (from the Lagna). The person is happy and prosperous when F11 > F10 AND F12 < F11 AND F1 > F12 (labor slight, gain much, loss small). Otherwise (the inequalities reversed), the person meets strain in that season.
 - **Effect (one-way, dignity-closing):** When gain (11th) outweighs labor (10th) and loss (12th) is smaller than gain, life flows in abundance — effort meets reward. When the balance reverses, the same houses show where labor outweighs return; this is a season to refine effort and reduce loss, not a verdict on the person.
@@ -184,9 +184,9 @@
 - **Status:** draft
 - **Notes:** Translator commentary (numbered "2." within SAV uses). The "unhappy" outcome is paired with constructive framing per guardrails.
 
-## R-4.13 — SAV prosperous houses (excluding 6, 8, 12)
+## R-9.13 — SAV prosperous houses (excluding 6, 8, 12)
 
-- **Cites:** Ch 4, translator's commentary (Sarvashtakavarga, rule 3)
+- **Cites:** Ch 9, translator's commentary (Sarvashtakavarga, rule 3)
 - **Classification:** strength
 - **Condition:** Excluding the 6th, 8th and 12th houses, of the remaining nine houses (1, 2, 3, 4, 5, 7, 9, 10, 11), the significations of those houses whose SAV figures are large are in a condition of prosperity.
 - **Effect (one-way, dignity-closing):** Among the supportive houses of life — self, wealth, effort, home, children, partnership, dharma, career, and gain — those with high SAV figures are the areas where life flourishes most readily. These are the strengths to lean into.
@@ -194,9 +194,9 @@
 - **Status:** draft
 - **Notes:** Translator commentary (numbered "3." within SAV uses). Cross-ref to Chapter I, stanza 15, note (a) for house significations.
 
-## R-4.14 — SAV three life-sections (Pisces/Cancer/Scorpio groups)
+## R-9.14 — SAV three life-sections (Pisces/Cancer/Scorpio groups)
 
-- **Cites:** Ch 4, translator's commentary (Sarvashtakavarga, rule 4)
+- **Cites:** Ch 9, translator's commentary (Sarvashtakavarga, rule 4)
 - **Classification:** strength
 - **Condition:** Compute three totals from the SAV table: (T1) = figures in Pisces + Aries + Taurus + Gemini; (T2) = figures in the four signs from Cancer (Cancer, Leo, Virgo, Libra); (T3) = figures in the four signs from Scorpio (Scorpio, Sagittari, Capricorn, Aquarius). These three totals represent the three sections of life. Whichever total is largest, the corresponding life-section is happy and prosperous. If three or more malefic planets occupy the four signs of a section, that section holds strain; if benefic planets occupy them, happiness; if mixed, both good and difficult.
 - **Effect (one-way, dignity-closing):** Life divides into three seasons. The season with the largest SAV total is where life's ease and growth concentrate — a gift to anticipate and build upon. Where malefics cluster in a section, that season asks for steadiness; where benefics gather, it favors the person; where mixed, both tones weave through.
@@ -204,9 +204,9 @@
 - **Status:** draft
 - **Notes:** Translator commentary (numbered "4." within SAV uses). The "suffer miseries" framing is retained verbatim but constructively contextualized.
 
-## R-4.15 — SAV disease/wound/wealth years (rules 5–7)
+## R-9.15 — SAV disease/wound/wealth years (rules 5–7)
 
-- **Cites:** Ch 4, translator's commentary (Sarvashtakavarga, rules 5–7)
+- **Cites:** Ch 9, translator's commentary (Sarvashtakavarga, rules 5–7)
 - **Classification:** tend
 - **Condition:**
     - (Rule 5) Year of disease/misery = sum of SAV figures in the signs occupied by Saturn, Lagna, and Mars.
@@ -217,9 +217,9 @@
 - **Status:** draft
 - **Notes:** Translator commentary (numbered "5., 6., 7." within SAV uses). "Rahu" appears though outside the seven grahas of Chapters 1–20; retained as the source states. Year-to-event mapping needs scholar review on how the sum maps to a chronological year.
 
-## R-4.16 — BAV-specific directional & event rules (per planet)
+## R-9.16 — BAV-specific directional & event rules (per planet)
 
-- **Cites:** Ch 4, translator's commentary (A.V. of the Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn sections)
+- **Cites:** Ch 9, translator's commentary (A.V. of the Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn sections)
 - **Classification:** tend
 - **Condition:** Per-planet BAV applications:
     - **Sun:** No work commenced when Sun transits signs with zero figure in Sun's AV (disease, misery, quarrel result). Dik (quarter) from the largest triangular-sign total gives the place of worship in the house.

@@ -84,6 +84,24 @@
       "evidence": {"rule_id": "R-2.13"}
     },
     {
+      "id": "VER-003",
+      "type": "verification",
+      "date": "2026-08-29",
+      "title": "Swiss-Ephemeris engine (A1) live behind /api/v1/chart/compute",
+      "detail": "pyswisseph (imports as swisseph, v2.10.03, project-local vendor install) computes the nine grahas, the true ascendant and houses for served chart facts. Cross-checked against the approximation engine at 2026-08-26 10:57 UT: Moon agrees to 0.03 deg, the five planets to ~0.35 deg, and the difference is dominated by the ayanamsa models (see LIM-006), not by tropical positions.",
+      "tier": "measured",
+      "evidence": {"swe_version": "2.10.03", "worst_delta_deg_vs_approx": 0.59, "moon_delta_deg": 0.026}
+    },
+    {
+      "id": "LIM-006",
+      "type": "limitation",
+      "date": "2026-08-29",
+      "title": "Linear Lahiri ayanamsa approximation is ~20 arcmin off true Lahiri at 2026",
+      "detail": "sky_engine's linear ayanamsa (23.85306 + 0.013966/yr) differs from the Swiss-Ephemeris Lahiri value by about 0.35 deg (~21 arcmin) at 2026, larger than the 2-arcmin error disclosed in LIM-002. The approximation remains fine for the visual clock; the Swiss-Ephemeris engine is the source of truth for served chart facts, and this entry retires the optimistic part of LIM-002's error claim.",
+      "tier": "measured",
+      "evidence": {"approx_deg": 24.216, "swe_lahiri_deg_2026": 24.57, "delta_deg": 0.35}
+    },
+    {
       "id": "RET",
       "type": "retraction",
       "date": null,

@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Mirror — Kingsastrology</title>
+  <link rel="stylesheet" href="/assets/app.css">
+  <style>
+    body { max-width: 860px; margin: 0 auto; padding: 1.5rem; font-family: Georgia, serif; color: #e8e2d0; background: #04070e; }
+    h1 { font-size: 1.6rem; letter-spacing: 0.06em; }
+    .muted { color: #9a927e; font-size: 0.9rem; }
+    .gate { border: 1px solid #3a3f2e; background: #0b101c; padding: 1rem 1.2rem; border-radius: 6px; margin-bottom: 1.5rem; }
+    .gate p { margin: 0.4rem 0; }
+    form { display: grid; gap: 0.8rem; grid-template-columns: 1fr 1fr; }
+    label { display: flex; flex-direction: column; font-size: 0.85rem; color: #b8b09a; }
+    input, select { background: #0b101c; color: #e8e2d0; border: 1px solid #3a3f2e; padding: 0.5rem; border-radius: 4px; font-size: 0.95rem; }
+    button { grid-column: 1 / -1; background: #c9a227; color: #04070e; border: none; padding: 0.7rem; font-weight: bold; border-radius: 4px; cursor: pointer; font-size: 1rem; }
+    .chart-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 0.6rem; margin: 1rem 0; }
+    .graha { background: #0b101c; border: 1px solid #2a2f3e; border-radius: 6px; padding: 0.6rem 0.8rem; }
+    .graha .nm { font-weight: bold; color: #c9a227; }
+    .graha .pos { font-size: 0.85rem; color: #b8b09a; }
+    .withheld { background: #1c1508; border: 1px solid #6b5410; padding: 0.9rem 1.1rem; border-radius: 6px; }
+    .rule { cursor: pointer; border-bottom: 1px dotted #4a4f3e; padding: 0.5rem 0; }
+    .rule:hover { background: #10162a; }
+    .rule .rid { color: #c9a227; font-size: 0.8rem; }
+    .verse-panel { background: #0b101c; border: 1px solid #2a2f3e; border-radius: 6px; padding: 1rem; margin-top: 1rem; white-space: pre-wrap; }
+    .note { color: #9a927e; font-size: 0.85rem; margin-top: 2rem; border-top: 1px solid #2a2f3e; padding-top: 1rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <a href="/today" class="muted">← Today at the Court</a>
+    <h1>The Mirror</h1>
+    <p class="muted">Your chart, computed deterministically, read from the Brihat Jataka — every claim one tap from its verse.</p>
+  </header>
+
+  <div class="gate">
+    <p><strong>The king's promise:</strong> we read the Brihat Jataka to help you know your strengths and tend your
+    weaknesses — never to frighten you. Every claim cites its verse, which you can read yourself. Your birth data is
+    computed and shown, never stored. This is self-knowledge, not a substitute for doctors, lawyers, or financial
+    advisors.</p>
+  </div>
+
+  <form id="mirror-form">
+    <label>Date &amp; time <input id="datetime" type="datetime-local" value="1990-03-12T06:30" required></label>
+    <label>Place <input id="place" type="text" value="Chennai"></label>
+    <label>Latitude <input id="lat" type="number" step="any" value="13.08"></label>
+    <label>Longitude <input id="lon" type="number" step="any" value="80.27"></label>
+    <button type="submit">Read my chart</button>
+  </form>
+
+  <div id="result"></div>
+
+  <script src="/assets/mirror.js"></script>
+</body>
+</html>

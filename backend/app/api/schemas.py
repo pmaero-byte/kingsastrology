@@ -40,3 +40,16 @@ class SaveRuleReviewRequest(BaseModel):
     comments: str = ""
     improvements: str = ""
     reviewer: str = ""
+
+
+class BirthDataRequest(BaseModel):
+    datetime_iso: str = Field(
+        ...,
+        description="Birth moment, ISO 8601 with offset, e.g. "
+                    "1990-01-01T06:30:00+05:30 (assumed UTC if no offset)",
+    )
+    lat: float = Field(..., ge=-90, le=90)
+    lon: float = Field(..., ge=-180, le=180)
+    elev_m: float = Field(default=0.0, ge=-430, le=9000)
+    place: str = Field(default="")
+    ayanamsa: str = Field(default="Lahiri")

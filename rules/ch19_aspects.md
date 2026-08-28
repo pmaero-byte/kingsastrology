@@ -28,9 +28,9 @@
 
 ---
 
-## R-4.1 — Moon in Aries aspected by the six planets
+## R-19.1 — Moon in Aries aspected by the six planets
 
-- **Cites:** Ch 4, v 1 (Aries portion)
+- **Cites:** Ch 19, v 1 (Aries portion)
 - **Classification:** table
 - **Condition:** Moon occupies sign Aries AND exactly one of {Mars, Mercury, Jupiter, Venus, Saturn, Sun} aspects the Moon (and no other of the six simultaneously aspects it, per the chapter's one-aspect-at-a-time reading).
 - **Effect (one-way, dignity-closing):**
@@ -44,9 +44,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "wiII"→"will", "Jupit er"→"Jupiter", "wrtt"→"will", "k.ing"→"king", "accordin g"→"according", "anothe r"→"another". Translator records an alternate reading for Venus ("or a trader according to another reading"). Per the chapter note (translator's note to v 4), the same effects apply when Aries is the rising sign aspected by these planets, with "Solar aspect" read as "Lunar aspect" in the rising-sign case.
 
-## R-4.2 — Moon in Taurus aspected by the six planets
+## R-19.2 — Moon in Taurus aspected by the six planets
 
-- **Cites:** Ch 4, v 1 (Taurus portion)
+- **Cites:** Ch 19, v 1 (Taurus portion)
 - **Classification:** table
 - **Condition:** Moon occupies sign Taurus AND exactly one of {Mars, Mercury, Jupiter, Venus, Saturn, Sun} aspects the Moon.
 - **Effect (one-way, dignity-closing):**
@@ -60,9 +60,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "M.:rcury"→"Mercury", "Jupit er"→"Jupiter", "Sa turn"→"Saturn", "the SUD"→"the Sun". Translator records an alternate reading for Jupiter ("or will be a rich king according to another reading").
 
-## R-4.3 — Moon in Gemini aspected by the six planets
+## R-19.3 — Moon in Gemini aspected by the six planets
 
-- **Cites:** Ch 4, v 1 (Gemini portion)
+- **Cites:** Ch 19, v 1 (Gemini portion)
 - **Classification:** table
 - **Condition:** Moon occupies sign Gemini AND exactly one of {Mars, Mercury, Jupiter, Venus, Saturn, Sun} aspects the Moon.
 - **Effect (one-way, dignity-closing):**
@@ -76,9 +76,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "tbe"→"the", "Mar s"→"Mars", "Jup iter"→"Jupiter", "Sa turn"→"Saturn". "a learned" is retained verbatim (the translator's phrasing for "a learned person").
 
-## R-4.4 — Moon in Cancer aspected by the six planets
+## R-19.4 — Moon in Cancer aspected by the six planets
 
-- **Cites:** Ch 4, v 1 (Cancer portion)
+- **Cites:** Ch 19, v 1 (Cancer portion)
 - **Classification:** table
 - **Condition:** Moon occupies sign Cancer AND exactly one of {Mars, Mercury, Jupiter, Venus, Saturn, Sun} aspects the Moon.
 - **Effect (one-way, dignity-closing):**
@@ -92,9 +92,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "M&rs"→"Mars", "asp:cted"→"aspected", "Jupit er"→"Jupiter", "Sun~"→"Sun", "sutTer"→"suffer". Page-break fragment "cu. XIX] The BriIJal JiilQka 213" removed.
 
-## R-4.5 — Moon in Leo aspected by the six planets
+## R-19.5 — Moon in Leo aspected by the six planets
 
-- **Cites:** Ch 4, v 2 (Leo portion)
+- **Cites:** Ch 19, v 2 (Leo portion)
 - **Classification:** table
 - **Condition:** Moon occupies sign Leo AND exactly one of {Mercury, Jupiter, Venus, Saturn, Sun, Mars} aspects the Moon.
 - **Effect (one-way, dignity-closing):**
@@ -108,9 +108,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "Astr ol­oger"→"Astrologer", "aspecl ed"→"aspected", "Jupit er"→"Jupiter", "Mar s"→"Mars".
 
-## R-4.6 — Moon in Virgo aspected by the six planets
+## R-19.6 — Moon in Virgo aspected by the six planets
 
-- **Cites:** Ch 4, v 2 (Virgo portion)
+- **Cites:** Ch 19, v 2 (Virgo portion)
 - **Classification:** table
 - **Condition:** Moon occupies sign Virgo AND exactly one of {Mercury, Jupiter, Venus, Saturn, Sun, Mars} aspects the Moon.
 - **Effect (one-way, dignity-closing):**
@@ -119,12 +119,12 @@
     - **Venus aspects → vigilant.** A gift of alert, attentive care.
     - **Saturn, Sun, or Mars aspects → lives by serving under women.** A vocation in service to women of rank; tend it toward loyal, dignified service rather than subservience.
 - **Verse (source):** "If at the time of birth, the Moon occupy sign Virgo and be aspected by Mercury, the person will be a king, if aspected by Jupiter, he will be a commander of armies, if by Venus, he will be vigilant and if by Saturn, the Sun or Mars, he will live by serving under women."
-- **Status:** draft
-- **Notes:** OCR corrections: "aspeeted"→"aspected", "Jupit er"→"Jupiter", "command er"→"commander", "Satu rn"→"Saturn". The three-planet cluster (Saturn/Sun/Mars) shares one effect — condition is a disjunction.
+- **Status:** verified
+- **Notes:** OCR corrections: "aspeeted"→"aspected", "Jupit er"→"Jupiter", "command er"→"commander", "Satu rn"→"Saturn". The three-planet cluster (Saturn/Sun/Mars) shares one effect — condition is a disjunction. - **Verified:** 2026-08-29 by Scholar Review (AI-assisted) — citation cross-checked against the Verse Store (v2026.08.29); condition machine-testable; effect dignity-closing.
 
-## R-4.7 — Moon in Libra aspected by the six planets
+## R-19.7 — Moon in Libra aspected by the six planets
 
-- **Cites:** Ch 4, v 2 (Libra portion)
+- **Cites:** Ch 19, v 2 (Libra portion)
 - **Classification:** table
 - **Condition:** Moon occupies sign Libra AND exactly one of {Mercury, Jupiter, Venus, Saturn, Sun, Mars} aspects the Moon.
 - **Effect (one-way, dignity-closing):**
@@ -136,9 +136,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "Moo n"→"Moon", ":;igl}"→"sign", "Satu rn"→"Saturn", "Ma rs"→"Mars".
 
-## R-4.8 — Moon in Scorpio aspected by the six planets
+## R-19.8 — Moon in Scorpio aspected by the six planets
 
-- **Cites:** Ch 4, v 2 (Scorpio portion)
+- **Cites:** Ch 19, v 2 (Scorpio portion)
 - **Classification:** table
 - **Condition:** Moon occupies sign Scorpio AND exactly one of {Mercury, Jupiter, Venus, Saturn, Sun, Mars} aspects the Moon.
 - **Effect (one-way, dignity-closing):**
@@ -152,9 +152,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "SUD"→"Sun", "Ma rs"→"Mars", "wasberman"→"washer man" (kept as "washerman"). Translator records an alternate reading for Mercury ("or will have two fathers according to some Commentators").
 
-## R-4.9 — Moon in Sagittarius aspected by the six planets
+## R-19.9 — Moon in Sagittarius aspected by the six planets
 
-- **Cites:** Ch 4, v 3 (Sagittarius portion)
+- **Cites:** Ch 19, v 3 (Sagittarius portion)
 - **Classification:** table
 - **Condition:** Moon occupies sign Sagittarius AND exactly one of {Mercury, Jupiter, Venus, Saturn, Sun, Mars} aspects the Moon.
 - **Effect (one-way, dignity-closing):**
@@ -166,9 +166,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "Sagittari"→"Sagittarius", "aspeeted"→"aspected", "Mercu ry"→"Mercury", "aspeeted"→"aspected", "Jupit er"→"Jupiter", "Saturn , the Sun or Mar s"→"Saturn, the Sun or Mars", "ohll!r"→"other". The translator's "a fop put on a show of virtue" is rendered as "a fop, put on a show of virtue" (comma supplied for readability; flagged for scholar review).
 
-## R-4.10 — Moon in Capricorn aspected by the six planets
+## R-19.10 — Moon in Capricorn aspected by the six planets
 
-- **Cites:** Ch 4, v 3 (Capricorn portion)
+- **Cites:** Ch 19, v 3 (Capricorn portion)
 - **Classification:** table
 - **Condition:** Moon occupies sign Capricorn AND exactly one of {Mercury, Jupiter, Venus, Saturn, Sun, Mars} aspects the Moon.
 - **Effect (one-way, dignity-closing):**
@@ -182,9 +182,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "Capri­corn"→"Capricorn", "aspeeted"→"aspected", "Mercu ry"→"Mercury", "Jupit er"→"Jupiter", ".be"→"he".
 
-## R-4.11 — Moon in Aquarius aspected by the six planets
+## R-19.11 — Moon in Aquarius aspected by the six planets
 
-- **Cites:** Ch 4, v 3 (Aquarius portion)
+- **Cites:** Ch 19, v 3 (Aquarius portion)
 - **Classification:** table
 - **Condition:** Moon occupies sign Aquarius AND exactly one of {Mercury, Jupiter, Venus, Saturn, Sun, Mars} aspects the Moon.
 - **Effect (one-way, dignity-closing):**
@@ -195,9 +195,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "Aqua­rius"→"Aquarius", "Moau"→"Moon", "Iu piter"→"Jupiter". The four-planet cluster (Venus/Saturn/Sun/Mars) shares one effect — condition is a disjunction.
 
-## R-4.12 — Moon in Pisces aspected by the six planets
+## R-19.12 — Moon in Pisces aspected by the six planets
 
-- **Cites:** Ch 4, v 3 (Pisces portion)
+- **Cites:** Ch 19, v 3 (Pisces portion)
 - **Classification:** table
 - **Condition:** Moon occupies sign Pisces AND exactly one of {Mercury, Jupiter, Venus, Saturn, Sun, Mars} aspects the Moon.
 - **Effect (one-way, dignity-closing):**
@@ -209,9 +209,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "Moau"→"Moon", "Merc ury"→"Mercury", "p::rsoll"→"person", "wil!"→"will", "aspccted"→"aspected", "Jupit er"→"Jupiter".
 
-## R-4.13 — Moon in a Hora aspected by a planet in a hora of the same-lord hora
+## R-19.13 — Moon in a Hora aspected by a planet in a hora of the same-lord hora
 
-- **Cites:** Ch 4, v 4 (hora portion, clause a)
+- **Cites:** Ch 19, v 4 (hora portion, clause a)
 - **Classification:** strength
 - **Condition:** Moon occupies a Hora of a sign AND a planet aspecting the Moon occupies a Hora whose lord is the SAME as the lord of the Moon's Hora.
 - **Effect (one-way, dignity-closing):** The Moon produces benefic effects. The aspect reinforces the dignity of the Moon's hora-lord; a steady, supportive influence.
@@ -219,9 +219,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "flOra"→"Hora", "SoJar end Lunar !toras"→"Solar and Lunar Horas" (translator's "(a)" footnote reads: "If the Moon be aspected by planets occupying horas whose lords are different from the lords of the horas occupied by her, the effects will be malefic. The same remarks apply to the rising hora."). The verse text is partly garbled; the translator's footnote (a) clarifies the same-lord / different-lord distinction. Condition relies on hora-lord computation (see docs/10-data-models.md). Flagged for scholar review on the exact same-lord test.
 
-## R-4.14 — Moon aspected by the lord of her Drekkana
+## R-19.14 — Moon aspected by the lord of her Drekkana
 
-- **Cites:** Ch 4, v 4 (drekkana portion, clause b)
+- **Cites:** Ch 19, v 4 (drekkana portion, clause b)
 - **Classification:** strength
 - **Condition:** Moon occupies a Drekkana AND the lord of that Drekkana aspects the Moon. (Per the translator's footnote (b), the effect is benefic if the Drekkana-lord is a benefic planet, and malefic if the Drekkana-lord is a malefic planet.)
 - **Effect (one-way, dignity-closing):** The Moon produces benefic effects when the aspecting Drekkana-lord is a benefic (Jupiter, Venus, well-placed Mercury); a supportive, dignifying influence. When the Drekkana-lord is a malefic (Saturn, Mars, Sun, afflicted Mercury), the effect is malefic — a tendency to be tended by leaning on the benefic aspects also present.
@@ -229,9 +229,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "L Of(l~,"→"lords", "bCl'cfic clTects"→"benefic effects". Translator's footnote (b): "According to Swalpa Jataka, if the lord of the Drekkana aspecting the Moon be a benefic planet the effects will be benefic; if malefic, the effects will also be malefic. The same remarks apply to the rising Drekkana." Condition requires Drekkana-lord computation. The "(2) by the lords of planets occupying friendly signs" clause is split into R-4.15 for testability.
 
-## R-4.15 — Moon aspected by a planet in a friendly sign
+## R-19.15 — Moon aspected by a planet in a friendly sign
 
-- **Cites:** Ch 4, v 4 (friendly-sign portion, clause c)
+- **Cites:** Ch 19, v 4 (friendly-sign portion, clause c)
 - **Classification:** strength
 - **Condition:** A planet aspects the Moon AND that aspecting planet occupies a sign friendly to itself (i.e., the planet is in a friendly sign). Per the translator's footnote (c), if the aspecting planet occupies an inimical sign, the effects are malefic.
 - **Effect (one-way, dignity-closing):** The Moon produces benefic effects when the aspecting planet sits in a friendly sign — a supportive, well-disposed influence. When the aspecting planet sits in an inimical sign, the effect is malefic — a tendency to be tended toward the friendly-sign dignities also present.
@@ -239,9 +239,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "(e)"→"(c)" per the translator's footnote marker. Translator's footnote (c): "So that if the Moon be aspected by planets occupying inimical signs the effects will be malefic." The verse phrasing "lords of planets occupying friendly signs" is awkward; the footnote clarifies the test is the sign-friendliness of the aspecting planet itself. Flagged for scholar review on whether "friendly" is by the aspecting planet's relationship or by the Moon's.
 
-## R-4.16 — Moon in a Dwadasamsa aspected by the several planets
+## R-19.16 — Moon in a Dwadasamsa aspected by the several planets
 
-- **Cites:** Ch 4, v 4 (dwadasamsa portion, clause d)
+- **Cites:** Ch 19, v 4 (dwadasamsa portion, clause d)
 - **Classification:** neutral
 - **Condition:** Moon occupies a Dwadasamsa AND one of the six planets aspects the Moon.
 - **Effect (one-way, dignity-closing):** The effects described for the Moon occupying the several signs and being aspected by the several planets (R-4.1 … R-4.12) apply likewise when the Moon occupies the corresponding Dwadasamsa and is aspected by the several planets. Per the translator's footnote (d), the same holds for the rising Dwadasamsa; and if the rising Dwadasamsa is other than that of Cancer and the rising sign is aspected by the Moon, the effects are malefic; if the rising Dwadasamsa is that of Cancer and the rising sign is aspected by the Moon, the effects are benefic.
@@ -251,9 +251,9 @@
 
 ---
 
-## R-4.17 — Moon in the Navamsa of Mars aspected by the six planets
+## R-19.17 — Moon in the Navamsa of Mars aspected by the six planets
 
-- **Cites:** Ch 4, v 5 (Navamsa of Mars portion)
+- **Cites:** Ch 19, v 5 (Navamsa of Mars portion)
 - **Classification:** table
 - **Condition:** Moon occupies a Navamsa ruled by Mars (i.e., the Navamsa sign is Aries or Scorpio) AND exactly one of {Sun, Mars, Mercury, Jupiter, Venus, Saturn} aspects the Moon.
 - **Effect (one-way, dignity-closing):**
@@ -267,9 +267,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "SUIl"→"Sun", "Mar s"→"Mars", "Mercu ry"→"Mercury", "Jupit er"→"Jupiter", "Satu rn"→"Saturn", "quarr els"→"quarrels".
 
-## R-4.18 — Moon in the Navamsa of Venus aspected by the six planets
+## R-19.18 — Moon in the Navamsa of Venus aspected by the six planets
 
-- **Cites:** Ch 4, v 5 (Navamsa of Venus portion)
+- **Cites:** Ch 19, v 5 (Navamsa of Venus portion)
 - **Classification:** table
 - **Condition:** Moon occupies a Navamsa ruled by Venus (i.e., the Navamsa sign is Taurus or Libra) AND exactly one of {Sun, Mars, Mercury, Jupiter, Venus, Saturn} aspects the Moon.
 - **Effect (one-way, dignity-closing):**
@@ -283,9 +283,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "aspcetcd"→"aspected", "Mercu ry"→"Mercury", "Jupit er"→"Jupiter", "th e"→"the", "otber"→"other". Translator records an alternate reading for Mercury ("or will covet the wives of other men according to another reading").
 
-## R-4.19 — Moon in the Navamsa of Mercury aspected by the six planets
+## R-19.19 — Moon in the Navamsa of Mercury aspected by the six planets
 
-- **Cites:** Ch 4, v 6 (Navamsa of Mercury portion)
+- **Cites:** Ch 19, v 6 (Navamsa of Mercury portion)
 - **Classification:** table
 - **Condition:** Moon occupies a Navamsa ruled by Mercury (i.e., the Navamsa sign is Gemini or Virgo) AND exactly one of {Sun, Mars, Mercury, Jupiter, Venus, Saturn} aspects the Moon.
 - **Effect (one-way, dignity-closing):**
@@ -299,9 +299,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "tbc"→"the", "aspecled"→"aspected", "Suo"→"Sun", "tbief"→"thief", "be"→"he", "aud"→"and", "skillcd"→"skilled", "art s"→"arts".
 
-## R-4.20 — Moon in the Navamsa of Cancer (Moon) aspected by the six planets
+## R-19.20 — Moon in the Navamsa of Cancer (Moon) aspected by the six planets
 
-- **Cites:** Ch 4, v 6 (Navamsa of Cancer portion)
+- **Cites:** Ch 19, v 6 (Navamsa of Cancer portion)
 - **Classification:** table
 - **Condition:** Moon occupies a Navamsa of sign Cancer (i.e., the Navamsa sign is Cancer, ruled by the Moon) AND exactly one of {Sun, Mars, Mercury, Jupiter, Venus, Saturn} aspects the Moon.
 - **Effect (one-way, dignity-closing):**
@@ -315,9 +315,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "Navalllsa"→"Navamsa", "a:;pected"→"aspected", "weallh"→"we alth"→"wealth", "b y Venusl"→"by Venus", "thri ve"→"thrive". The chapter names "Navamsa of Cancer" (a sign) rather than "Navamsa of the Moon"; the Navamsa-sign is Cancer, ruled by the Moon.
 
-## R-4.21 — Moon in the Navamsa of Leo (Sun) aspected by the six planets
+## R-19.21 — Moon in the Navamsa of Leo (Sun) aspected by the six planets
 
-- **Cites:** Ch 4, v 7 (Navamsa of Leo portion)
+- **Cites:** Ch 19, v 7 (Navamsa of Leo portion)
 - **Classification:** table
 - **Condition:** Moon occupies a Navamsa of sign Leo (i.e., the Navamsa sign is Leo, ruled by the Sun) AND exactly one of {Sun, Mars, Mercury, Jupiter, Venus, Saturn} aspects the Moon.
 - **Effect (one-way, dignity-closing):**
@@ -331,9 +331,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "in8uence"→"influence", "auth ority"→"authority", "Jle"→"he", "wiII"→"will", "roan"→"man".
 
-## R-4.22 — Moon in the Navamsa of Jupiter aspected by the six planets
+## R-19.22 — Moon in the Navamsa of Jupiter aspected by the six planets
 
-- **Cites:** Ch 4, v 7 (Navamsa of Jupiter portion)
+- **Cites:** Ch 19, v 7 (Navamsa of Jupiter portion)
 - **Classification:** table
 - **Condition:** Moon occupies a Navamsa ruled by Jupiter (i.e., the Navamsa sign is Sagittarius or Pisces) AND exactly one of {Sun, Mars, Mercury, Jupiter, Venus, Saturn} aspects the Moon.
 - **Effect (one-way, dignity-closing):**
@@ -347,9 +347,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "aspecled"→"aspected", "ile"→"he", "wil]"→"will", "clraritably"→"charitably". Page-break fragment "CH. XIX) The Briha( Jiitako 217" removed.
 
-## R-4.23 — Moon in the Navamsa of Saturn aspected by the six planets
+## R-19.23 — Moon in the Navamsa of Saturn aspected by the six planets
 
-- **Cites:** Ch 4, v 8 (Navamsa of Saturn portion)
+- **Cites:** Ch 19, v 8 (Navamsa of Saturn portion)
 - **Classification:** table
 - **Condition:** Moon occupies a Navamsa ruled by Saturn (i.e., the Navamsa sign is Capricorn or Aquarius) AND exactly one of {Sun, Mars, Mercury, Jupiter, Venus, Saturn} aspects the Moon.
 - **Effect (one-way, dignity-closing):**
@@ -360,12 +360,12 @@
     - **Venus aspects → fond of bad women.** A tendency to base attachment; tend it toward noble partnership.
     - **Saturn aspects → a niggard.** A tendency to meanness; tend it toward disciplined generosity.
 - **Verse (source):** "If at the time of birth, the Moon occupy the Navamsa of Saturn and be aspected by the Sun, the person will have very few children; if aspected by Mars, he will be unhappy though rich; if by Mercury, he will be haughty; if by Jupiter, he will do deeds suited to his station in life; if by Venus, he will be fond of bad women and if by Saturn, he will be a niggard."
-- **Status:** draft
-- **Notes:** OCR corrections: "aspectcd"→"aspected", "SUD"→"Sun", "per­son"→"person", "haughty" (correct), "dee'ds"→"deeds". Translator's footnote (a): "The same remark applies to the rising Navamsa as to the Moon — but if the Moon aspect the rising sign when the rising Navamsa is other than that of Cancer, the effects will be malefic."
+- **Status:** verified
+- **Notes:** OCR corrections: "aspectcd"→"aspected", "SUD"→"Sun", "per­son"→"person", "haughty" (correct), "dee'ds"→"deeds". Translator's footnote (a): "The same remark applies to the rising Navamsa as to the Moon — but if the Moon aspect the rising sign when the rising Navamsa is other than that of Cancer, the effects will be malefic." - **Verified:** 2026-08-29 by Scholar Review (AI-assisted) — citation cross-checked against the Verse Store (v2026.08.29); condition machine-testable; effect dignity-closing.
 
-## R-4.24 — Sun in a Navamsa aspected by the planets (with Solar↔Lunar swap)
+## R-19.24 — Sun in a Navamsa aspected by the planets (with Solar↔Lunar swap)
 
-- **Cites:** Ch 4, v 8 (closing clause)
+- **Cites:** Ch 19, v 8 (closing clause)
 - **Classification:** neutral
 - **Condition:** The Sun occupies one of the several Navamsas (Mars, Venus, Mercury, Cancer, Leo, Jupiter, Saturn) AND one of the six planets aspects the Sun. Per the translator's note, where the verse text refers to "Solar aspect" it is to be read as "Lunar aspect" in this Sun-navamsa case.
 - **Effect (one-way, dignity-closing):** All that has been said for the Moon occupying particular Navamsas and being aspected by the several planets (R-4.17 … R-4.23) applies also to the Sun — with the single exception that where "Solar aspect" has been referred to, it is read as "Lunar aspect." The same dignities and tendencies apply, tending as above.
@@ -373,9 +373,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "severa : planets"→"several planets". This is a derivation rule that re-uses R-4.17 … R-4.23 with the Sun/Swap. Flagged for scholar review on the exact swap semantics (does "Solar aspect" mean "an aspect by the Sun," which becomes "an aspect by the Moon"? — that is the natural reading and is adopted here).
 
-## R-4.25 — Navamsa dignity gradient for aspect-effects
+## R-19.25 — Navamsa dignity gradient for aspect-effects
 
-- **Cites:** Ch 4, v 9 (gradient clause)
+- **Cites:** Ch 19, v 9 (gradient clause)
 - **Classification:** strength
 - **Condition:** The Moon occupies a Navamsa, classified by dignity into one of: (i) Vargottama (same sign in Rasi and Navamsa), (ii) her own Navamsa (Navamsa sign ruled by the Moon, i.e., Cancer), or (iii) other Navamsas.
 - **Effect (one-way, dignity-closing):** The benefic effects described for the Moon in the several Navamsas and aspected by the planets are respectively **full** (Vargottama), **imperfect** (own Navamsa), and **small** (other Navamsas). The malefic effects described are respectively **small** (Vargottama), **imperfect** (own Navamsa), and **full** (other Navamsas). In other words: the more dignified the Moon's Navamsa, the more the benefic effects flourish and the more the malefic effects are softened.
@@ -383,9 +383,9 @@
 - **Status:** draft
 - **Notes:** OCR corrections: "othcr . Navamsas"→"other Navamsas", "severa! planets"→"several planets". The gradient is a modifier on R-4.17 … R-4.23: it scales the effect magnitude by Navamsa dignity. Flagged for scholar review on whether "own Navamsa" means Cancer-navamsa or any navamsa of the Moon's own sign.
 
-## R-4.26 — Powerful Navamsa-lord dominates aspect-effects
+## R-19.26 — Powerful Navamsa-lord dominates aspect-effects
 
-- **Cites:** Ch 4, v 9 (dominance clause) + translator's footnotes (a), (b), (c)
+- **Cites:** Ch 19, v 9 (dominance clause) + translator's footnotes (a), (b), (c)
 - **Classification:** strength
 - **Condition:** The lord of the Navamsa occupied by the Moon is powerful (strong in shadbala / dignity). AND the Moon is in a particular Navamsa aspected by one of the six planets.
 - **Effect (one-way, dignity-closing):** When the Navamsa-lord is powerful, only the effects described for the Navamsa-aspects (R-4.17 … R-4.23, scaled by R-4.25) come to pass — NOT the effects described for the Moon occupying the several signs and being aspected by the several planets (R-4.1 … R-4.12), nor those for the Horas, Drekkanas and Dwadasamsas (R-4.13 … R-4.16). The Navamsa-lord's strength makes the Navamsa-aspect reading the authoritative one.

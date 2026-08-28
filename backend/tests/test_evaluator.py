@@ -29,7 +29,10 @@ class EvaluatorTests(unittest.TestCase):
         self.assertIn("R-20.5", result.matched_rule_ids)
         self.assertIn("R-20.8", result.matched_rule_ids)
         self.assertIn("R-20.9", result.matched_rule_ids)
-        self.assertIn("R-20.10", result.matched_rule_ids)
+        # R-20.10's condition ("a planet has been assigned a bad effect") is
+        # post-evaluation state the engine does not track -> unsupported.
+        self.assertNotIn("R-20.10", result.matched_rule_ids)
+        self.assertIn("R-20.10", result.unsupported_rules)
 
     def test_matches_existing_planet_in_sign_rule(self) -> None:
         result = evaluate_chart(

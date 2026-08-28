@@ -14,6 +14,7 @@ from app.services.evaluator import evaluate_chart
 from app.services.review_pages import render_rules_review_page
 from app.services.review_store import ReviewStore
 from app.services.rule_loader import RuleRepository
+from app.services import verse_store as verse_store_svc
 
 
 router = APIRouter()
@@ -30,6 +31,7 @@ def health(request: Request) -> dict:
         "loaded_chapters": scope.loaded_chapters,
         "missing_chapters": scope.missing_chapters,
         "total_rules": scope.total_rules,
+        "verse_store": verse_store_svc.stats(),
     }
 
 

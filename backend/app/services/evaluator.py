@@ -175,7 +175,7 @@ def _rule_matches(rule: Rule, facts: dict[str, Any], *, include_static_rules: bo
     return None
 
 
-def _chapter_20_matches(rule: Rule, facts: dict[str, Any]) -> bool:
+def _chapter_20_matches(rule: Rule, facts: dict[str, Any]) -> bool | None:
     planet_by_rule = {
         "R-20.1": "sun",
         "R-20.2": "moon",
@@ -188,8 +188,12 @@ def _chapter_20_matches(rule: Rule, facts: dict[str, Any]) -> bool:
     if rule.id in planet_by_rule:
         planet = facts["planets"].get(planet_by_rule[rule.id])
         return bool(planet and planet.get("house"))
-    if rule.id in {"R-20.8", "R-20.9", "R-20.10"}:
+    if rule.id in {"R-20.8", "R-20.9"}:
         return any(planet.get("house") for planet in facts["planets"].values())
+    if rule.id == "R-20.10":
+        # Condition "a planet has been assigned a bad effect" depends on
+        # post-evaluation state the engine does not track; not testable here.
+        return None
     return False
 
 

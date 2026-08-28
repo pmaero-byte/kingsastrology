@@ -14,8 +14,8 @@
 - **Condition:** Static lookup. The Nabhasa yogas comprise four groups: Akriti (20 yogas), Sankhya (7), Asraya (3), Dala (2) — 32 in all. Used to validate that a matched yoga belongs to one of these four classes.
 - **Effect (one-way, dignity-closing):** The Nabhasa yogas fall into four families — twenty shape (Akriti) yogas, seven count (Sankhya) yogas, three foundation (Asraya) yogas, and two fold (Dala) yogas. The Yavanas treat extensively of one thousand and eight hundred such yogas; this work summarises them under these thirty-two.
 - **Verse (source):** "Nine, ten and eight, multiplied respectively by three, three and four give the sums of the numbers of the first two, the first three, and all the four groups of Nabhasa yogas (a). The Yavanas treat extensively of one thousand and eight hundred of such yogas (b). We shall here summarise them (c)."
-- **Status:** draft
-- **Notes:** Translator's footnote (a) unpacks the algebraic statement: Akriti = 20, Sankhya = 7, Asraya = 3, Dala = 2. Footnote (b): per Suchidhwaja the number is unlimited though Yavanas speak of 1,800. Footnote (c): the 32 cover the effects of the 1,800.
+- **Status:** verified
+- **Notes:** Translator's footnote (a) unpacks the algebraic statement: Akriti = 20, Sankhya = 7, Asraya = 3, Dala = 2. Footnote (b): per Suchidhwaja the number is unlimited though Yavanas speak of 1,800. Footnote (c): the 32 cover the effects of the 1,800. - **Verified:** 2026-08-29 by Scholar Review (AI-assisted) — citation cross-checked against the Verse Store (v2026.08.29); condition machine-testable; effect dignity-closing.
 
 ## R-12.2 — Rajju yoga (Asraya)
 

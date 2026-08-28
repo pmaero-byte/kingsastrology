@@ -8,9 +8,9 @@
 
 ---
 
-## R-4.1 — Source of wealth by planet in the 10th house
+## R-10.1 — Source of wealth by planet in the 10th house
 
-- **Cites:** Ch 4, v 1
+- **Cites:** Ch 10, v 1
 - **Classification:** table
 - **Condition:** For each of the 10th house from Lagna and the 10th house from the Moon, identify any planet occupying that house. Map the occupying planet(s) to the source of wealth: Sun → father; Moon → mother; Mars → enemy; Mercury → friend; Jupiter → brother; Venus → wife; Saturn → servant. If the 10th from Lagna and the 10th from the Moon are both occupied, both sources apply; if several planets occupy a 10th house, there are several sources.
 - **Effect (one-way, dignity-closing):** The planet sitting in your 10th house of work names the relationship through which your livelihood flows — father, mother, enemy, friend, brother, wife, or servant, per the fixed mapping. Where more than one planet occupies the 10th, or both the Lagna-10th and Moon-10th are tenanted, your wealth comes from several of these channels together. (Per Garga, noted by the translator, this manifests in the Dasa period of that planet.)
@@ -20,9 +20,9 @@
 
 ---
 
-## R-4.2 — Avocation by Navamsa lord of the 10th lord — Sun, Moon, Mars, Mercury
+## R-10.2 — Avocation by Navamsa lord of the 10th lord — Sun, Moon, Mars, Mercury
 
-- **Cites:** Ch 4, v 2
+- **Cites:** Ch 10, v 2
 - **Classification:** strength
 - **Condition:** Let L10 = lord of the 10th house from Lagna, from the Moon, and from the Sun (three lords). For each, find the Navamsa sign it occupies, and take the lord of that Navamsa. When that Navamsa lord is:
   - Sun → livelihood in perfumes, gold, woollen fabric, medicine, and medical treatment of patients;
@@ -36,9 +36,9 @@
 
 ---
 
-## R-4.3 — Avocation by Navamsa lord of the 10th lord — Jupiter, Venus, Saturn
+## R-10.3 — Avocation by Navamsa lord of the 10th lord — Jupiter, Venus, Saturn
 
-- **Cites:** Ch 4, v 3
+- **Cites:** Ch 10, v 3
 - **Classification:** strength
 - **Condition:** Continuing from R-4.2, when the Navamsa lord of a 10th lord is:
   - Jupiter → livelihood through Brahmins, the Devas or temple men, through mines (akuḍa — gold/silver mines, salt-producing places, elephant-forests) and the like (contract work), and through acts of virtue (sacrificial rites, gifts, charity, fasting, pilgrimage, service under Guru);
@@ -51,9 +51,9 @@
 
 ---
 
-## R-4.4 — Source of wealth by sign-dignity of the yoga planet, and benefics in 11th/Lagna/2nd
+## R-10.4 — Source of wealth by sign-dignity of the yoga planet, and benefics in 11th/Lagna/2nd
 
-- **Cites:** Ch 4, v 4
+- **Cites:** Ch 10, v 4
 - **Classification:** strength
 - **Condition:** Let a "yoga planet" be either (a) a planet occupying the 10th house from the Lagna or from the Moon, or (b) the lord of the Navamsa occupied by the lord of the 10th house from the Lagna, the Moon, or the Sun. At birth, test the sign dignity of each yoga planet:
   - yoga planet in a friendly sign → wealth (in its Antardasa) through a friend;
