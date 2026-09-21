@@ -1,0 +1,493 @@
+{
+ "matrix": "signs",
+ "version": "matrices-1.0.0",
+ "axes": {
+  "rows": [
+   "sign"
+  ],
+  "columns": [
+   "Aries",
+   "Taurus",
+   "Gemini",
+   "Cancer",
+   "Leo",
+   "Virgo",
+   "Libra",
+   "Scorpio",
+   "Sagittarius",
+   "Capricorn",
+   "Aquarius",
+   "Pisces"
+  ]
+ },
+ "cells": [
+  {
+   "row": "sign",
+   "col": "Aries",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 6
+    },
+    {
+     "chapter": 1,
+     "verse": 4
+    },
+    {
+     "chapter": 1,
+     "verse": 10
+    },
+    {
+     "chapter": 1,
+     "verse": 11
+    }
+   ],
+   "excerpt": "Mars. Venus. Mercury, the Moon, the Sun, Mercury, Venus, Mars, Jupiter, Saturn, Saturn and Jupiter are respectively the lords of the Signs, and of the Navamsas and Dwadasamsas; and the several signs (of the Zodiac beainning from Aries) commence respectively with the Navamsas of Mesha, Makara, Tula and Kataka.",
+   "qualities": {
+    "lord": "Mars",
+    "kalapurusha_part": "head",
+    "day_night": "night",
+    "direction": "East",
+    "moolatrikona_of": "Mars",
+    "alt_name": "Kriya",
+    "color_raw": "es) red. (Taurus) white. of the color of the parrot"
+   },
+   "flags": [
+    "ocr_suspect:kalapurusha"
+   ]
+  },
+  {
+   "row": "sign",
+   "col": "Taurus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 6
+    },
+    {
+     "chapter": 1,
+     "verse": 4
+    },
+    {
+     "chapter": 1,
+     "verse": 10
+    },
+    {
+     "chapter": 1,
+     "verse": 11
+    }
+   ],
+   "excerpt": "Mars. Venus. Mercury, the Moon, the Sun, Mercury, Venus, Mars, Jupiter, Saturn, Saturn and Jupiter are respectively the lords of the Signs, and of the Navamsas and Dwadasamsas; and the several signs (of the Zodiac beainning from Aries) commence respectively with the Navamsas of Mesha, Makara, Tula and Kataka.",
+   "qualities": {
+    "lord": "Venus",
+    "kalapurusha_part": "face",
+    "day_night": "night",
+    "direction": "South",
+    "moolatrikona_of": "Moon",
+    "alt_name": "Tavuri",
+    "color_raw": "er) of the color of PAtali pet flower). (Leo) black white"
+   },
+   "flags": [
+    "ocr_suspect:kalapurusha"
+   ]
+  },
+  {
+   "row": "sign",
+   "col": "Gemini",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 6
+    },
+    {
+     "chapter": 1,
+     "verse": 4
+    },
+    {
+     "chapter": 1,
+     "verse": 10
+    },
+    {
+     "chapter": 1,
+     "verse": 11
+    }
+   ],
+   "excerpt": "Mars. Venus. Mercury, the Moon, the Sun, Mercury, Venus, Mars, Jupiter, Saturn, Saturn and Jupiter are respectively the lords of the Signs, and of the Navamsas and Dwadasamsas; and the several signs (of the Zodiac beainning from Aries) commence respectively with the Navamsas of Mesha, Makara, Tula and Kataka.",
+   "qualities": {
+    "lord": "Mercury",
+    "kalapurusha_part": "breast",
+    "day_night": "night",
+    "direction": "West",
+    "moolatrikona_of": null,
+    "alt_name": "Jituma",
+    "color_raw": "rgo) variegated in color"
+   },
+   "flags": [
+    "ocr_suspect:kalapurusha"
+   ]
+  },
+  {
+   "row": "sign",
+   "col": "Cancer",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 6
+    },
+    {
+     "chapter": 1,
+     "verse": 4
+    },
+    {
+     "chapter": 1,
+     "verse": 10
+    },
+    {
+     "chapter": 1,
+     "verse": 11
+    }
+   ],
+   "excerpt": "Mars. Venus. Mercury, the Moon, the Sun, Mercury, Venus, Mars, Jupiter, Saturn, Saturn and Jupiter are respectively the lords of the Signs, and of the Navamsas and Dwadasamsas; and the several signs (of the Zodiac beainning from Aries) commence respectively with the Navamsas of Mesha, Makara, Tula and Kataka.",
+   "qualities": {
+    "lord": "Moon",
+    "kalapurusha_part": "heart",
+    "day_night": "night",
+    "direction": "North",
+    "moolatrikona_of": null,
+    "alt_name": "Kulira",
+    "color_raw": "bra) black"
+   },
+   "flags": [
+    "ocr_suspect:kalapurusha"
+   ]
+  },
+  {
+   "row": "sign",
+   "col": "Leo",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 6
+    },
+    {
+     "chapter": 1,
+     "verse": 4
+    },
+    {
+     "chapter": 1,
+     "verse": 10
+    },
+    {
+     "chapter": 1,
+     "verse": 11
+    }
+   ],
+   "excerpt": "Mars. Venus. Mercury, the Moon, the Sun, Mercury, Venus, Mars, Jupiter, Saturn, Saturn and Jupiter are respectively the lords of the Signs, and of the Navamsas and Dwadasamsas; and the several signs (of the Zodiac beainning from Aries) commence respectively with the Navamsas of Mesha, Makara, Tula and Kataka.",
+   "qualities": {
+    "lord": "Sun",
+    "kalapurusha_part": "belly",
+    "day_night": "day",
+    "direction": "East",
+    "moolatrikona_of": "Sun",
+    "alt_name": "Leya",
+    "color_raw": "orpio) of gold color"
+   },
+   "flags": [
+    "ocr_suspect:kalapurusha"
+   ]
+  },
+  {
+   "row": "sign",
+   "col": "Virgo",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 6
+    },
+    {
+     "chapter": 1,
+     "verse": 4
+    },
+    {
+     "chapter": 1,
+     "verse": 10
+    },
+    {
+     "chapter": 1,
+     "verse": 11
+    }
+   ],
+   "excerpt": "Mars. Venus. Mercury, the Moon, the Sun, Mercury, Venus, Mars, Jupiter, Saturn, Saturn and Jupiter are respectively the lords of the Signs, and of the Navamsas and Dwadasamsas; and the several signs (of the Zodiac beainning from Aries) commence respectively with the Navamsas of Mesha, Makara, Tula and Kataka.",
+   "qualities": {
+    "lord": "Mercury",
+    "kalapurusha_part": "navel",
+    "day_night": "day",
+    "direction": "South",
+    "moolatrikona_of": "Mercury",
+    "alt_name": "Pathona",
+    "color_raw": "of the color of the husk of paddy"
+   },
+   "flags": [
+    "ocr_suspect:kalapurusha"
+   ]
+  },
+  {
+   "row": "sign",
+   "col": "Libra",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 6
+    },
+    {
+     "chapter": 1,
+     "verse": 4
+    },
+    {
+     "chapter": 1,
+     "verse": 10
+    },
+    {
+     "chapter": 1,
+     "verse": 11
+    }
+   ],
+   "excerpt": "Mars. Venus. Mercury, the Moon, the Sun, Mercury, Venus, Mars, Jupiter, Saturn, Saturn and Jupiter are respectively the lords of the Signs, and of the Navamsas and Dwadasamsas; and the several signs (of the Zodiac beainning from Aries) commence respectively with the Navamsas of Mesha, Makara, Tula and Kataka.",
+   "qualities": {
+    "lord": "Venus",
+    "kalapurusha_part": "abdomen",
+    "day_night": "day",
+    "direction": "West",
+    "moolatrikona_of": "Venus",
+    "alt_name": "Juka",
+    "color_raw": "white red"
+   },
+   "flags": [
+    "ocr_suspect:kalapurusha"
+   ]
+  },
+  {
+   "row": "sign",
+   "col": "Scorpio",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 6
+    },
+    {
+     "chapter": 1,
+     "verse": 4
+    },
+    {
+     "chapter": 1,
+     "verse": 10
+    },
+    {
+     "chapter": 1,
+     "verse": 11
+    }
+   ],
+   "excerpt": "Mars. Venus. Mercury, the Moon, the Sun, Mercury, Venus, Mars, Jupiter, Saturn, Saturn and Jupiter are respectively the lords of the Signs, and of the Navamsas and Dwadasamsas; and the several signs (of the Zodiac beainning from Aries) commence respectively with the Navamsas of Mesha, Makara, Tula and Kataka.",
+   "qualities": {
+    "lord": "Mars",
+    "kalapurusha_part": "genital organ",
+    "day_night": "day",
+    "direction": "North",
+    "moolatrikona_of": null,
+    "alt_name": "Kourpi",
+    "color_raw": "Aquarius) of the color of Mongoose"
+   },
+   "flags": [
+    "ocr_suspect:kalapurusha"
+   ]
+  },
+  {
+   "row": "sign",
+   "col": "Sagittarius",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 6
+    },
+    {
+     "chapter": 1,
+     "verse": 4
+    },
+    {
+     "chapter": 1,
+     "verse": 10
+    },
+    {
+     "chapter": 1,
+     "verse": 11
+    }
+   ],
+   "excerpt": "Mars. Venus. Mercury, the Moon, the Sun, Mercury, Venus, Mars, Jupiter, Saturn, Saturn and Jupiter are respectively the lords of the Signs, and of the Navamsas and Dwadasamsas; and the several signs (of the Zodiac beainning from Aries) commence respectively with the Navamsas of Mesha, Makara, Tula and Kataka.",
+   "qualities": {
+    "lord": "Jupiter",
+    "kalapurusha_part": "two thighs",
+    "day_night": "night",
+    "direction": "East",
+    "moolatrikona_of": "Jupiter",
+    "alt_name": "Toukshika",
+    "color_raw": "and es) of the color of fish"
+   },
+   "flags": [
+    "ocr_suspect:kalapurusha"
+   ]
+  },
+  {
+   "row": "sign",
+   "col": "Capricorn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 6
+    },
+    {
+     "chapter": 1,
+     "verse": 4
+    },
+    {
+     "chapter": 1,
+     "verse": 10
+    },
+    {
+     "chapter": 1,
+     "verse": 11
+    }
+   ],
+   "excerpt": "Mars. Venus. Mercury, the Moon, the Sun, Mercury, Venus, Mars, Jupiter, Saturn, Saturn and Jupiter are respectively the lords of the Signs, and of the Navamsas and Dwadasamsas; and the several signs (of the Zodiac beainning from Aries) commence respectively with the Navamsas of Mesha, Makara, Tula and Kataka.",
+   "qualities": {
+    "lord": "Saturn",
+    "kalapurusha_part": "two knees",
+    "day_night": "night",
+    "direction": "South",
+    "moolatrikona_of": null,
+    "alt_name": "Akokera",
+    "color_raw": null
+   },
+   "flags": [
+    "ocr_suspect:kalapurusha",
+    "ocr_suspect:color"
+   ]
+  },
+  {
+   "row": "sign",
+   "col": "Aquarius",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 6
+    },
+    {
+     "chapter": 1,
+     "verse": 4
+    },
+    {
+     "chapter": 1,
+     "verse": 10
+    },
+    {
+     "chapter": 1,
+     "verse": 11
+    }
+   ],
+   "excerpt": "Mars. Venus. Mercury, the Moon, the Sun, Mercury, Venus, Mars, Jupiter, Saturn, Saturn and Jupiter are respectively the lords of the Signs, and of the Navamsas and Dwadasamsas; and the several signs (of the Zodiac beainning from Aries) commence respectively with the Navamsas of Mesha, Makara, Tula and Kataka.",
+   "qualities": {
+    "lord": "Saturn",
+    "kalapurusha_part": "two ankles",
+    "day_night": "day",
+    "direction": "West",
+    "moolatrikona_of": "Saturn",
+    "alt_name": "Hridroga",
+    "color_raw": null
+   },
+   "flags": [
+    "ocr_suspect:kalapurusha",
+    "ocr_suspect:color"
+   ]
+  },
+  {
+   "row": "sign",
+   "col": "Pisces",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 6
+    },
+    {
+     "chapter": 1,
+     "verse": 4
+    },
+    {
+     "chapter": 1,
+     "verse": 10
+    },
+    {
+     "chapter": 1,
+     "verse": 11
+    }
+   ],
+   "excerpt": "Mars. Venus. Mercury, the Moon, the Sun, Mercury, Venus, Mars, Jupiter, Saturn, Saturn and Jupiter are respectively the lords of the Signs, and of the Navamsas and Dwadasamsas; and the several signs (of the Zodiac beainning from Aries) commence respectively with the Navamsas of Mesha, Makara, Tula and Kataka.",
+   "qualities": {
+    "lord": "Jupiter",
+    "kalapurusha_part": "two feet",
+    "day_night": "day",
+    "direction": "North",
+    "moolatrikona_of": null,
+    "alt_name": "Antyabha",
+    "color_raw": null
+   },
+   "flags": [
+    "ocr_suspect:kalapurusha",
+    "ocr_suspect:color"
+   ]
+  }
+ ],
+ "rules": [
+  {
+   "id": "SG-1",
+   "rule": "Signs alternate malefic/benefic, masculine/feminine, and movable/fixed/dual from Aries",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 11
+    }
+   ]
+  },
+  {
+   "id": "SG-2",
+   "rule": "Night signs (Aries, Taurus, Gemini, Cancer, Sagittarius, Capricorn) rise feet-first; day signs head-first; Pisces by both",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 10
+    }
+   ]
+  },
+  {
+   "id": "SG-3",
+   "rule": "Moolatrikona signs (Sun:Leo, Moon:Taurus, Mars:Aries, Mercury:Virgo, Jupiter:Sagittarius, Venus:Libra, Saturn:Aquarius)",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 14
+    }
+   ]
+  }
+ ],
+ "notes": "Positional enumerations from Ch 1 (lords v6, Kalapurusha v4, day/night v10, gender/mobility/direction v11, moolatrikona v14, colours v20 — colours are OCR-damaged and flagged). Exaltation/debilitation degrees live in Ch 2."
+}

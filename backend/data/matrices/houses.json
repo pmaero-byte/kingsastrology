@@ -1,0 +1,486 @@
+{
+ "matrix": "houses",
+ "version": "matrices-1.0.0",
+ "axes": {
+  "rows": [
+   "house"
+  ],
+  "columns": [
+   "1",
+   "2",
+   "3",
+   "4",
+   "5",
+   "6",
+   "7",
+   "8",
+   "9",
+   "10",
+   "11",
+   "12"
+  ]
+ },
+ "cells": [
+  {
+   "row": "house",
+   "col": "1",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 15
+    },
+    {
+     "chapter": 1,
+     "verse": 16
+    },
+    {
+     "chapter": 1,
+     "verse": 18
+    },
+    {
+     "chapter": 1,
+     "verse": 19
+    }
+   ],
+   "excerpt": "The significations of the houses from the rising sign are respectively ative's) body, family, brothers. relations, sons, enemies, wife, death, deed of virtue, avocation, gain and loss (a). The 3rd, 6th, 10th and 11 th houses from the ascendant are known as the Upachaya proving) signs, but not so according to some (b).",
+   "qualities": {
+    "signification": "ative's) body",
+    "traditional_name": "Kalpa (power)",
+    "upachaya": false,
+    "class_names": null,
+    "kendra": true,
+    "panapara": false,
+    "apoklima": false
+   },
+   "flags": []
+  },
+  {
+   "row": "house",
+   "col": "2",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 15
+    },
+    {
+     "chapter": 1,
+     "verse": 16
+    },
+    {
+     "chapter": 1,
+     "verse": 18
+    },
+    {
+     "chapter": 1,
+     "verse": 19
+    }
+   ],
+   "excerpt": "The significations of the houses from the rising sign are respectively ative's) body, family, brothers. relations, sons, enemies, wife, death, deed of virtue, avocation, gain and loss (a). The 3rd, 6th, 10th and 11 th houses from the ascendant are known as the Upachaya proving) signs, but not so according to some (b).",
+   "qualities": {
+    "signification": "family",
+    "traditional_name": "Svaha",
+    "upachaya": false,
+    "class_names": null,
+    "kendra": false,
+    "panapara": true,
+    "apoklima": false
+   },
+   "flags": []
+  },
+  {
+   "row": "house",
+   "col": "3",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 15
+    },
+    {
+     "chapter": 1,
+     "verse": 16
+    },
+    {
+     "chapter": 1,
+     "verse": 18
+    },
+    {
+     "chapter": 1,
+     "verse": 19
+    }
+   ],
+   "excerpt": "The significations of the houses from the rising sign are respectively ative's) body, family, brothers. relations, sons, enemies, wife, death, deed of virtue, avocation, gain and loss (a). The 3rd, 6th, 10th and 11 th houses from the ascendant are known as the Upachaya proving) signs, but not so according to some (b).",
+   "qualities": {
+    "signification": "brothers",
+    "traditional_name": "Vikrama (prowess)",
+    "upachaya": true,
+    "class_names": "Duschikya",
+    "kendra": false,
+    "panapara": false,
+    "apoklima": true
+   },
+   "flags": []
+  },
+  {
+   "row": "house",
+   "col": "4",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 15
+    },
+    {
+     "chapter": 1,
+     "verse": 16
+    },
+    {
+     "chapter": 1,
+     "verse": 18
+    },
+    {
+     "chapter": 1,
+     "verse": 19
+    }
+   ],
+   "excerpt": "The significations of the houses from the rising sign are respectively ative's) body, family, brothers. relations, sons, enemies, wife, death, deed of virtue, avocation, gain and loss (a). The 3rd, 6th, 10th and 11 th houses from the ascendant are known as the Upachaya proving) signs, but not so according to some (b).",
+   "qualities": {
+    "signification": "relations",
+    "traditional_name": "relations-place [OCR]",
+    "upachaya": false,
+    "class_names": "Chaturasra; Hibuka, Ambu, Sukha, Vesma",
+    "kendra": true,
+    "panapara": false,
+    "apoklima": false
+   },
+   "flags": []
+  },
+  {
+   "row": "house",
+   "col": "5",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 15
+    },
+    {
+     "chapter": 1,
+     "verse": 16
+    },
+    {
+     "chapter": 1,
+     "verse": 18
+    },
+    {
+     "chapter": 1,
+     "verse": 19
+    }
+   ],
+   "excerpt": "The significations of the houses from the rising sign are respectively ative's) body, family, brothers. relations, sons, enemies, wife, death, deed of virtue, avocation, gain and loss (a). The 3rd, 6th, 10th and 11 th houses from the ascendant are known as the Upachaya proving) signs, but not so according to some (b).",
+   "qualities": {
+    "signification": "sons",
+    "traditional_name": "Pratibha (intelligence)",
+    "upachaya": false,
+    "class_names": "Trikona",
+    "kendra": false,
+    "panapara": true,
+    "apoklima": false
+   },
+   "flags": []
+  },
+  {
+   "row": "house",
+   "col": "6",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 15
+    },
+    {
+     "chapter": 1,
+     "verse": 16
+    },
+    {
+     "chapter": 1,
+     "verse": 18
+    },
+    {
+     "chapter": 1,
+     "verse": 19
+    }
+   ],
+   "excerpt": "The significations of the houses from the rising sign are respectively ative's) body, family, brothers. relations, sons, enemies, wife, death, deed of virtue, avocation, gain and loss (a). The 3rd, 6th, 10th and 11 th houses from the ascendant are known as the Upachaya proving) signs, but not so according to some (b).",
+   "qualities": {
+    "signification": "enemies",
+    "traditional_name": "Kshata",
+    "upachaya": true,
+    "class_names": null,
+    "kendra": false,
+    "panapara": false,
+    "apoklima": true
+   },
+   "flags": []
+  },
+  {
+   "row": "house",
+   "col": "7",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 15
+    },
+    {
+     "chapter": 1,
+     "verse": 16
+    },
+    {
+     "chapter": 1,
+     "verse": 18
+    },
+    {
+     "chapter": 1,
+     "verse": 19
+    }
+   ],
+   "excerpt": "The significations of the houses from the rising sign are respectively ative's) body, family, brothers. relations, sons, enemies, wife, death, deed of virtue, avocation, gain and loss (a). The 3rd, 6th, 10th and 11 th houses from the ascendant are known as the Upachaya proving) signs, but not so according to some (b).",
+   "qualities": {
+    "signification": "wife",
+    "traditional_name": "Manmatha",
+    "upachaya": false,
+    "class_names": "Jamitra; Dyuna",
+    "kendra": true,
+    "panapara": false,
+    "apoklima": false
+   },
+   "flags": []
+  },
+  {
+   "row": "house",
+   "col": "8",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 15
+    },
+    {
+     "chapter": 1,
+     "verse": 16
+    },
+    {
+     "chapter": 1,
+     "verse": 18
+    },
+    {
+     "chapter": 1,
+     "verse": 19
+    }
+   ],
+   "excerpt": "The significations of the houses from the rising sign are respectively ative's) body, family, brothers. relations, sons, enemies, wife, death, deed of virtue, avocation, gain and loss (a). The 3rd, 6th, 10th and 11 th houses from the ascendant are known as the Upachaya proving) signs, but not so according to some (b).",
+   "qualities": {
+    "signification": "death",
+    "traditional_name": "Randhra",
+    "upachaya": false,
+    "class_names": "Chaturasra; Randhra",
+    "kendra": false,
+    "panapara": true,
+    "apoklima": false
+   },
+   "flags": []
+  },
+  {
+   "row": "house",
+   "col": "9",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 15
+    },
+    {
+     "chapter": 1,
+     "verse": 16
+    },
+    {
+     "chapter": 1,
+     "verse": 18
+    },
+    {
+     "chapter": 1,
+     "verse": 19
+    }
+   ],
+   "excerpt": "The significations of the houses from the rising sign are respectively ative's) body, family, brothers. relations, sons, enemies, wife, death, deed of virtue, avocation, gain and loss (a). The 3rd, 6th, 10th and 11 th houses from the ascendant are known as the Upachaya proving) signs, but not so according to some (b).",
+   "qualities": {
+    "signification": "deed of virtue",
+    "traditional_name": "Guru (preceptor)",
+    "upachaya": false,
+    "class_names": "Tapas; Tritrikona",
+    "kendra": false,
+    "panapara": false,
+    "apoklima": true
+   },
+   "flags": []
+  },
+  {
+   "row": "house",
+   "col": "10",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 15
+    },
+    {
+     "chapter": 1,
+     "verse": 16
+    },
+    {
+     "chapter": 1,
+     "verse": 18
+    },
+    {
+     "chapter": 1,
+     "verse": 19
+    }
+   ],
+   "excerpt": "The significations of the houses from the rising sign are respectively ative's) body, family, brothers. relations, sons, enemies, wife, death, deed of virtue, avocation, gain and loss (a). The 3rd, 6th, 10th and 11 th houses from the ascendant are known as the Upachaya proving) signs, but not so according to some (b).",
+   "qualities": {
+    "signification": "avocation",
+    "traditional_name": "Mana (respectability)",
+    "upachaya": true,
+    "class_names": "Meshoorana; Karma; Agna",
+    "kendra": true,
+    "panapara": false,
+    "apoklima": false
+   },
+   "flags": []
+  },
+  {
+   "row": "house",
+   "col": "11",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 15
+    },
+    {
+     "chapter": 1,
+     "verse": 16
+    },
+    {
+     "chapter": 1,
+     "verse": 18
+    },
+    {
+     "chapter": 1,
+     "verse": 19
+    }
+   ],
+   "excerpt": "The significations of the houses from the rising sign are respectively ative's) body, family, brothers. relations, sons, enemies, wife, death, deed of virtue, avocation, gain and loss (a). The 3rd, 6th, 10th and 11 th houses from the ascendant are known as the Upachaya proving) signs, but not so according to some (b).",
+   "qualities": {
+    "signification": "gain",
+    "traditional_name": "Bhava",
+    "upachaya": true,
+    "class_names": null,
+    "kendra": false,
+    "panapara": true,
+    "apoklima": false
+   },
+   "flags": []
+  },
+  {
+   "row": "house",
+   "col": "12",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 15
+    },
+    {
+     "chapter": 1,
+     "verse": 16
+    },
+    {
+     "chapter": 1,
+     "verse": 18
+    },
+    {
+     "chapter": 1,
+     "verse": 19
+    }
+   ],
+   "excerpt": "The significations of the houses from the rising sign are respectively ative's) body, family, brothers. relations, sons, enemies, wife, death, deed of virtue, avocation, gain and loss (a). The 3rd, 6th, 10th and 11 th houses from the ascendant are known as the Upachaya proving) signs, but not so according to some (b).",
+   "qualities": {
+    "signification": "loss (a",
+    "traditional_name": "Vyaya (loss)",
+    "upachaya": false,
+    "class_names": null,
+    "kendra": false,
+    "panapara": false,
+    "apoklima": true
+   },
+   "flags": []
+  }
+ ],
+ "rules": [
+  {
+   "id": "HS-1",
+   "rule": "Upachaya (growing) houses: 3, 6, 10, 11",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 15
+    }
+   ]
+  },
+  {
+   "id": "HS-2",
+   "rule": "If the lord of a house and the house be both powerful, the objects signified are promoted; if weak, reduced",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 20
+    }
+   ]
+  },
+  {
+   "id": "HS-3",
+   "rule": "Benefics promote a bhava and malefics reduce it — reversed for the 6th, 8th and 12th",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 10
+    }
+   ]
+  },
+  {
+   "id": "HS-4",
+   "rule": "Dignity grading of the occupant: exalted = full, moolatrikona = 3/4, own = 1/2, friendly = 1/4, inimical < 1/4, debilitated or combust = nil",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 11
+    }
+   ]
+  },
+  {
+   "id": "HS-5",
+   "rule": "Kendras are naturally powerful; biped signs by day, quadruped by night, centipede at dawn and dusk",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 19
+    }
+   ]
+  }
+ ],
+ "notes": "Significations Ch 1 v15; names v16; classes v18-19; benefic/malefic and dignity grading Ch 20 v10-11."
+}

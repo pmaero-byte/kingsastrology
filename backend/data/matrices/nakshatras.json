@@ -1,0 +1,387 @@
+{
+ "matrix": "nakshatras",
+ "version": "matrices-1.0.0",
+ "axes": {
+  "rows": [
+   "Moon"
+  ],
+  "columns": [
+   "Aswini",
+   "Bharani",
+   "Krittika",
+   "Rohini",
+   "Mrigasirsha",
+   "Ardra",
+   "Punarvasu",
+   "Pushya",
+   "Aslesha",
+   "Makha",
+   "Pubba",
+   "Uttara",
+   "Hasta",
+   "Chitra",
+   "Swati",
+   "Visakha",
+   "Anuradha",
+   "Jyeshta",
+   "Moola",
+   "Purvashadha",
+   "Uttarashadha",
+   "Sravana",
+   "Dhanishta",
+   "Satabhisha",
+   "Poorvabhadra",
+   "Uttarabhadra",
+   "Revati"
+  ]
+ },
+ "cells": [
+  {
+   "row": "Moon",
+   "col": "Aswini",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 16,
+     "verse": 1
+    }
+   ],
+   "excerpt": "asterism of Aswini will be fond of ornaments, will be of fine appearance, will be popular, skilled in work and Intelligent. A person born when the Moon passes through the",
+   "flags": []
+  },
+  {
+   "row": "Moon",
+   "col": "Bharani",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 16,
+     "verse": 1
+    }
+   ],
+   "excerpt": "asterism of Bharani will be successful at work, truthful, free from diseases, able and free from grief.",
+   "flags": []
+  },
+  {
+   "row": "Moon",
+   "col": "Krittika",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 16,
+     "verse": 2
+    }
+   ],
+   "excerpt": "asterism of Krittika will be a glutton, food of the wives of other men, of bright appearance and of , wide. spread fame. A person born when the Moon passes through the",
+   "flags": []
+  },
+  {
+   "row": "Moon",
+   "col": "Rohini",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 16,
+     "verse": 2
+    }
+   ],
+   "excerpt": "asterism of Rohini will be trutifuJ, will not covet the property of other men, will be of cleanly habits, of sweet speech, of firm views, and of' fine appearance.",
+   "flags": []
+  },
+  {
+   "row": "Moon",
+   "col": "Mrigasirsha",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 16,
+     "verse": 3
+    }
+   ],
+   "excerpt": "asterism of Mrigasirsba \"{ill be of no firm principles; will be able. timid, of good speech, of active habits, rich and will indulge in sexual pleasures. A person born when the Moon passes through the",
+   "flags": []
+  },
+  {
+   "row": "Moon",
+   "col": "Ardra",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 16,
+     "verse": 3
+    }
+   ],
+   "excerpt": "asterism of Ardra will be Insincere; of irascible temper, ungrateful. indulge in torture and be addicted to wicked deeds.",
+   "flags": []
+  },
+  {
+   "row": "Moon",
+   "col": "Punarvasu",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 16,
+     "verse": 4
+    }
+   ],
+   "excerpt": "asterism of Punarvasu will be devout and of patient habits, will live in comfort, will be good-natured, quiet. of wrong views. sickly, thirsty and pleased with tri8es.",
+   "flags": []
+  },
+  {
+   "row": "Moon",
+   "col": "Pushya",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 16,
+     "verse": 5
+    }
+   ],
+   "excerpt": "asterism of Pusbya will have a control over his desireJ, will be generally liked, learned in the Sastras, rich and will be fond of acts of charity, A person born when the Moon passes ' through the",
+   "flags": []
+  },
+  {
+   "row": "Moon",
+   "col": "Aslesha",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 16,
+     "verse": 5
+    }
+   ],
+   "excerpt": "asterism of Aslesha will not be attentive to the work of other men, will be a promiscuous eater, will ,.be sinful. ungrateful and skilled in cheating other roen.",
+   "flags": []
+  },
+  {
+   "row": "Moon",
+   "col": "Makha",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 16,
+     "verse": 6
+    }
+   ],
+   "excerpt": "asterism of Magha will bave\" numerous servants, will be very rich, will live in comfort, will worship tbe Devas and Pitris and will be engaged in important works. A person born when the Moon passes through the",
+   "flags": []
+  },
+  {
+   "row": "Moon",
+   "col": "Pubba",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 16,
+     "verse": 6
+    }
+   ],
+   "excerpt": "asterism of P. Phalguni will be of ~weet speech, will be liberal in his gifts, of fine appearance. of wandering habits and will serve under kings.",
+   "flags": [
+    "ocr_suspect:abbreviated_name"
+   ]
+  },
+  {
+   "row": "Moon",
+   "col": "Uttara",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 16,
+     "verse": 7
+    }
+   ],
+   "excerpt": "asterism of U. Phalguni will be generally liked, will earn money by bis learning and will live in comfort. A person born wben the Moon passes through the",
+   "flags": [
+    "ocr_suspect:abbreviated_name"
+   ]
+  },
+  {
+   "row": "Moon",
+   "col": "Hasta",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 16,
+     "verse": 7
+    }
+   ],
+   "excerpt": "Asterism of Hasta will be of active habits. full of resour·ces, shameless, merciless and a thief and a drunkard.",
+   "flags": []
+  },
+  {
+   "row": "Moon",
+   "col": "Chitra",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 16,
+     "verse": 8
+    }
+   ],
+   "excerpt": "asterism of Chittra will wear cloths and flowers of various colours and will have beautiful eyes and limbs. A person born when tbe Moon passes through the",
+   "flags": []
+  },
+  {
+   "row": "Moon",
+   "col": "Swati",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 16,
+     "verse": 8
+    }
+   ],
+   "excerpt": "asterism of Swati will be of a mild and quiet nature, will control his passion, will be skilled in trade, will be merciful. (0) of sweet speech and disposed to do acts of charity. \"'OTES (0) Unable (0 bear thirst according to another reading.",
+   "flags": []
+  },
+  {
+   "row": "Moon",
+   "col": "Visakha",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 16,
+     "verse": 9
+    }
+   ],
+   "excerpt": "asterism of Visakha wiII be jealous of another's prosperity, will be a niggard, of bright appearance, of . distinct speech, (a) skilled in earning money and disposed to bring about quarrels among men. A person born when the Moon passes through the",
+   "flags": []
+  },
+  {
+   "row": "Moon",
+   "col": "Anuradha",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 16,
+     "verse": 9
+    }
+   ],
+   "excerpt": "asterism of Anuradha will be rich, will Jive in foreign lan~s. will be unable to be:lr hunger and disposed to wander from place to place.",
+   "flags": []
+  },
+  {
+   "row": "Moon",
+   "col": "Jyeshta",
+   "status": "needs_review",
+   "citations": [],
+   "excerpt": null,
+   "note": "name garbled or dropped by OCR; clause boundary unrecoverable automatically — needs human recovery in Ch 16"
+  },
+  {
+   "row": "Moon",
+   "col": "Moola",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 16,
+     "verse": 10
+    }
+   ],
+   "excerpt": "asterism of Moola will haughty, rich, happy, not disposed to injure other men, of firm views and will live in luxury.",
+   "flags": []
+  },
+  {
+   "row": "Moon",
+   "col": "Purvashadha",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 16,
+     "verse": 11
+    }
+   ],
+   "excerpt": "asterism of P. Ashadha will have an agreeable wife, will be proud and attached to friends. A penon born when th~ Moon passes through the aSlerism of U. Ashadha will be obedient, will be learned in the rules of virtue, will possess many friends, will be grateful and return favours received and will be generally liked.",
+   "flags": [
+    "ocr_suspect:abbreviated_name"
+   ]
+  },
+  {
+   "row": "Moon",
+   "col": "Uttarashadha",
+   "status": "needs_review",
+   "citations": [],
+   "excerpt": null,
+   "note": "name garbled or dropped by OCR; clause boundary unrecoverable automatically — needs human recovery in Ch 16"
+  },
+  {
+   "row": "Moon",
+   "col": "Sravana",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 16,
+     "verse": 12
+    }
+   ],
+   "excerpt": "asterism of Sravana will be prosperous and learned, will have a liberal-minded wife, will be rich, and of widelipread fame. A person born when the Moon passes through the asteTism of Dhanishta will be liberal in gifts, rich, valiant, fond of music and will be niggard.",
+   "flags": []
+  },
+  {
+   "row": "Moon",
+   "col": "Dhanishta",
+   "status": "needs_review",
+   "citations": [],
+   "excerpt": null,
+   "note": "name garbled or dropped by OCR; clause boundary unrecoverable automatically — needs human recovery in Ch 16"
+  },
+  {
+   "row": "Moon",
+   "col": "Satabhisha",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 16,
+     "verse": 13
+    }
+   ],
+   "excerpt": "asterism of Salabhishak will re harsh in his sveech, will be truthful, will suffer grief. will conquer his enemies, will thoughtlessly engage in work and will be of independent ways. A person born when the Moon passes through the",
+   "flags": []
+  },
+  {
+   "row": "Moon",
+   "col": "Poorvabhadra",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 16,
+     "verse": 13
+    }
+   ],
+   "excerpt": "asterism of P. Bhadrapadil will suffer from grief, will place his wealth at the disposal of his wife, will be of distinct speech (a) and will be a niggard.",
+   "flags": [
+    "ocr_suspect:abbreviated_name"
+   ]
+  },
+  {
+   "row": "Moon",
+   "col": "Uttarabhadra",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 16,
+     "verse": 14
+    }
+   ],
+   "excerpt": "asterism of U. Bhadrapada will be an able speaker, will be happy. will possess children and grand-children, will conquer his enemies and will be virtuous. A person born when the Moon passes through the",
+   "flags": [
+    "ocr_suspect:abbreviated_name"
+   ]
+  },
+  {
+   "row": "Moon",
+   "col": "Revati",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 16,
+     "verse": 14
+    }
+   ],
+   "excerpt": "asterism of Revati will pOssess perfect limbs, will be liked by all people. valiant in fight. will never covet the property of other men and will be rich. r-iQTJ::S The effects described above will fully come to pass only if the Moon be powerful.",
+   "flags": []
+  }
+ ],
+ "notes": "The Moon in each of the 27 asterisms (Ch 16). The translation groups 2-3 nakshatras per verse; clauses split on 'asterism of X'. Tokens are aligned to the canonical order (the text's own order) with fuzzy name verification; single-letter OCR abbreviations fill positionally and are flagged."
+}

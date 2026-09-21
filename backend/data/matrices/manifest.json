@@ -1,0 +1,95 @@
+{
+ "matrix_version": "matrices-1.0.0",
+ "verse_store_version": "2026.08.29",
+ "built_by": "backend/scripts/build_matrices.py (deterministic; no network; no runtime AI)",
+ "review": "all cells are auto-draft/derived until Scholar Reviewer verification",
+ "citation_errors": 0,
+ "matrices": {
+  "signs": {
+   "cells": 12,
+   "classified": 12,
+   "needs_review": 0,
+   "gaps": 0,
+   "coverage_pct": 100.0
+  },
+  "houses": {
+   "cells": 12,
+   "classified": 12,
+   "needs_review": 0,
+   "gaps": 0,
+   "coverage_pct": 100.0
+  },
+  "nakshatras": {
+   "cells": 27,
+   "classified": 24,
+   "needs_review": 3,
+   "gaps": 0,
+   "coverage_pct": 88.9
+  },
+  "planet_in_sign": {
+   "cells": 108,
+   "classified": 84,
+   "needs_review": 0,
+   "gaps": 24,
+   "coverage_pct": 77.8
+  },
+  "planet_in_house": {
+   "cells": 84,
+   "classified": 84,
+   "needs_review": 0,
+   "gaps": 0,
+   "coverage_pct": 100.0
+  },
+  "moon_sign_aspects": {
+   "cells": 72,
+   "classified": 72,
+   "needs_review": 0,
+   "gaps": 0,
+   "coverage_pct": 100.0
+  },
+  "moon_navamsa_aspects": {
+   "cells": 42,
+   "classified": 41,
+   "needs_review": 1,
+   "gaps": 0,
+   "coverage_pct": 97.6
+  },
+  "conjunctions": {
+   "cells": 21,
+   "classified": 21,
+   "needs_review": 0,
+   "gaps": 0,
+   "coverage_pct": 100.0
+  },
+  "ascendants": {
+   "cells": 12,
+   "classified": 12,
+   "needs_review": 0,
+   "gaps": 0,
+   "coverage_pct": 100.0
+  },
+  "house_lord_rules": {
+   "cells": 12,
+   "classified": 12,
+   "needs_review": 0,
+   "gaps": 0,
+   "coverage_pct": 100.0
+  }
+ },
+ "gaps_declared": {
+  "planet_in_sign.Rahu": "nodes have no sign-results chapter in this text",
+  "planet_in_sign.Ketu": "nodes have no sign-results chapter in this text",
+  "planet_in_house.Rahu": "nodes have no bhava-results chapter in this text",
+  "planet_in_house.Ketu": "nodes have no bhava-results chapter in this text",
+  "house_lord_rules.12x12": "the source gives principles + specific charts, not a systematic lord-of-N-in-M table; left unfilled",
+  "ascendants": "derived matrix — composed from Ch 18 v20 + Ch 1 + Ch 20 + Ch 5; no standalone chapter exists",
+  "chapter_28": "Upasamharadhyaya absent from this translation"
+ },
+ "warnings": [
+  "signs: kalapurusha list garbled in Ch 1 v 4 — curated 12-part mapping applied, flagged ocr_suspect (raw kept in excerpt)",
+  "nakshatras: Jyeshta unaligned (OCR)",
+  "nakshatras: Uttarashadha unaligned (OCR)",
+  "nakshatras: Dhanishta unaligned (OCR)",
+  "nakshatras: 24/27 parsed"
+ ]
+}

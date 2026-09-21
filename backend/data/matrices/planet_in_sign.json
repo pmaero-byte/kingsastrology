@@ -1,0 +1,1500 @@
+{
+ "matrix": "planet_in_sign",
+ "version": "matrices-1.0.0",
+ "axes": {
+  "rows": [
+   "Sun",
+   "Moon",
+   "Mars",
+   "Mercury",
+   "Jupiter",
+   "Venus",
+   "Saturn",
+   "Rahu",
+   "Ketu"
+  ],
+  "columns": [
+   "Aries",
+   "Taurus",
+   "Gemini",
+   "Cancer",
+   "Leo",
+   "Virgo",
+   "Libra",
+   "Scorpio",
+   "Sagittarius",
+   "Capricorn",
+   "Aquarius",
+   "Pisces"
+  ]
+ },
+ "cells": [
+  {
+   "row": "Moon",
+   "col": "Aries",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 17,
+     "verse": 1
+    }
+   ],
+   "excerpt": "A person born with the Moon in sign Aries will have round red--eyes. will be fond of vegetable food and will eat hot meals but in a moderate degree; will be of a quickly relenting nature, will be fond of travels and of sexual union; will be of weak knees; will possess no permanent wealth; will be fond of fight and of women; will be skilled in serving under other men; will have disfigured nails and wounded head ; will be haughty, will be the eldest of his brothers; will have lines in his band of the shape of the wcapon known as Sakti; will be fickleminded and will be afraid of water."
+  },
+  {
+   "row": "Moon",
+   "col": "Taurus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 17,
+     "verse": 2
+    }
+   ],
+   "excerpt": "A person born with the Moon in sign Taurus will be of fine appearance and of beautiful gait ; will POsstSS large thighs and face ; will possess marks on his back, [::tce or sjdes. will be liberal in his gifts; will bear misfortunes; will possess great influence and authority; will have a large hump on the neck ; will have daughters; will suffer from phlegmatic affections; . will be separated from. his kinsmen. wealth and sons ; will be liked by all men, will b~ of patient nature ; will be a great eater; will be fond or women: y;,ill be attached to his friends and will be happy both in middle age and old age (0). And therefore unhappy when young."
+  },
+  {
+   "row": "Moon",
+   "col": "Gemini",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 17,
+     "verse": 3
+    }
+   ],
+   "excerpt": "A person born witb the Moon in sign Gemini will be fond of women, will be skilJed in sexual union; will possess red eyes; will be learned in the Sasteas; will carry messages; will possess curling hairs and a sharp intellect; will be skilled in wit. in discovering the thoughts of other men and in game -; will possess beautiful features; will be of sweet speech; will be a great eater; will be fond of music, and skilled in the rules of dance; will join in sexual union with hermaphrodites; and will possess an elevated nose."
+  },
+  {
+   "row": "Moon",
+   "col": "Cancer",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 17,
+     "verse": 4
+    }
+   ],
+   "excerpt": "A person born with the Moon in sign Cancer will walk fast with his body bent; will. have a high hip; will be subject to the influence of women ; will have an excellent friend; will be learned in Astrology; will have numerous houses; will have a wealth which will increase and decrease as the Moon; will be short; will possess a thick neck ; will be capable of being won over by kind words ; will be attached to his friends and will be fond of water and fl,lrests."
+  },
+  {
+   "row": "Moon",
+   "col": "Leo",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 17,
+     "verse": 5
+    }
+   ],
+   "excerpt": "A person born with the Moon in sign Leo will be of irascible temper. of large cheeks, broad face and brown eyes; will have very few sons; will hate women; will be fond of animal food. forests and hills; will continue angry at trifles for a long time; will be afflicted with pains caused by hunger, thirst, stomach-ache; tooth-ache as well as purely mental anxieties ; will be liberal in his gifts; will be bold in fight; will be of fixed principles; will be . haughty and attached to his mother."
+  },
+  {
+   "row": "Moon",
+   "col": "Virgo",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 17,
+     "verse": 6
+    }
+   ],
+   "excerpt": "A person born with the Moon in sign Virgo will have lovely eyes and show gait through modesty; will have his shoulders and arms sunk or depressed; will live in comfort; will have soft body and speech; will he 19fi truthful, will be skilled in dance, music. painting and bookmaking ; will be learned in the Sastras; will be virtuous and intelligent, will be fond of sexual union; wiII enjoy the house and property of other men ; will live in foreign lands: will be of sweet speech ; and will have daughters and very few sons."
+  },
+  {
+   "row": "Moon",
+   "col": "Libra",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 17,
+     "verse": 7
+    }
+   ],
+   "excerpt": "A person born with the Moon in sign libra will respect the Devas, Brahmins, and holy men; will be intelligent ('.J). will never covet the property of other men ; will be learned in the Vedas: will be subject to the influence of women ; will be tall ; will have a raised nose; will be of thin and defective limbs and fond of travels; will be rich; will be a trader; will bear the name of a Deva coupled with an excellent surname granted by a body of learned men ; will be sickly; will protect his family and will be disgraced and rejected by his kinsmen. I\\\"OTES (a) The Sanskrit term used is Pragna which is interpreted to mean a person of very acute intelligence and one that possesses a knowledge of the current and future events."
+  },
+  {
+   "row": "Moon",
+   "col": "Scorpio",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 17,
+     "verse": 8
+    }
+   ],
+   "excerpt": "A person born with the Moon in sign Scorpio will have broad eyes, a broad· breast and round shanks, thighs and knees; will be separated from his parents and precep. tors ; will be afflicted with diseases when young; will be respected by the king's family; will be of br()wn colour ; will not be of a straightforward nature; will have Jines in his hand and fe~t of the shape of the fish. tbe Vajrayudhn or a bird; and will endeavour to conceal his sins."
+  },
+  {
+   "row": "Moon",
+   "col": "Sagittarius",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 17,
+     "verse": 9
+    }
+   ],
+   "excerpt": "A person born with the MOOD in sign Sagittari will have a long fac:c and neck; wi1l inherit bis father's property; will be liberal in his gift; will be a literary author; will be powerful and skilled in speech; will have large teeth, ears, lips and nose, will engage in numerous works; will be skilled in fine arts ; will have indistinct shoulders, disfigured flails and large arms ; will be of a deep and inventive intellect, will be a man of right understanding; will hate his kinsmen ; will never yield to compulsion but only to kind treatment."
+  },
+  {
+   "row": "Moon",
+   "col": "Capricorn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 17,
+     "verse": 10
+    }
+   ],
+   "excerpt": "A person born with the Moon in sign Capricorn will be ever attached to bis wife and children; will ~o deeds of virtue for outward show; will havc weak lower limbs, good eyes and a thin waist ; will readily under·stand what is spoken; will be liked by all and slow at work; will Dot bear cold; will be of a wandering nature, liberal or powerful and a literary author ; will bc a nig·gard and will be attached to old women of low caste; will be shameless and merciless."
+  },
+  {
+   "row": "Moon",
+   "col": "Aquarius",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 17,
+     "verse": 11
+    }
+   ],
+   "excerpt": "A person born with the Moon in sign Aquarius will have a neck like that of the camel, a body covered with mUscles, rough and covered with hair ; will be tall ; will have large feet, thighs, back, buttocks, face and lower belly; will be deaf; will be attached to the wives and property of other men and do wicked deeds ; will rise and fall by turns; will be fond of flowers and perfumes ; and will be attached to friends and will walk without feeling tired."
+  },
+  {
+   "row": "Moon",
+   "col": "Pisces",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 17,
+     "verse": 12
+    }
+   ],
+   "excerpt": "A person born with the Moon in sign fisccs will be a dealer in the produce of the sea and enjoy the property of other men; will be fond of his wife and clothes, will have perfect limbs, a bright body, long nose and large head, will put his enemies to disgrace, will be subject to the influence of women, will have beautiful eyes, and will be fair; will enjoy hidden treasure; will be rich, and learned."
+  },
+  {
+   "row": "Sun",
+   "col": "Aries",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 1
+    }
+   ],
+   "excerpt": "A person born with the Sun in Aries but not in its exaltation degree (a) will be of wide-spread fame :md ability of wandering habits. possessed of small wealth and will carry weapons.",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Sun",
+   "col": "Taurus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 1
+    }
+   ],
+   "excerpt": "A person born with the Sun in sign Taurus will deal in clothes, perfumes and olher articles, will hate women and will be skilled in music, vocal and instrumental.",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Sun",
+   "col": "Gemini",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 2
+    }
+   ],
+   "excerpt": "A person born with tbe Sun in sign Gemini will be learned in grammar, will be an Astrologer and ~m be rich.",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Sun",
+   "col": "Cancer",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 2
+    }
+   ],
+   "excerpt": "A person born with the Sun in CaDcer will be independent and tierce, poor, will do the work of other people and will suffer from the fatigue of foot-journey.",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Sun",
+   "col": "Leo",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 2
+    }
+   ],
+   "excerpt": "A person born with tbe Sun in sign Leo will be fond of living in forests, mountains -and cow-sheds, will be powerful and will be a fool.",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Sun",
+   "col": "Virgo",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 2
+    }
+   ],
+   "excerpt": "A person born with tbe Sun in sign Virgo will be skilled in writing, painting, in literary productions. ID mathematics and in worldly knowledge, and will possess a body resembling that of a woman.",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Sun",
+   "col": "Libra",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 3
+    }
+   ],
+   "excerpt": "A person born with tbe SUD in sign Libra will be fond . of liquor or will manufacture it, will be of a wandering nature, will be an alchemist and will do wicked deeds.",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Sun",
+   "col": "Scorpio",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 3
+    }
+   ],
+   "excerpt": "A person born with the Sun in sign Scorpio will be of a fierce nature, will thoughtlessly engage in work, will earn money by acts connected with poison (0), and will be vastly learned in tbe use of arms. A person born wilh the Sun in Sagitlari will be respected by sages, will be rich and independent and will be learned in medicine and sculpture.",
+   "shared": true,
+   "shared_with": [
+    "Sagittarius"
+   ]
+  },
+  {
+   "row": "Sun",
+   "col": "Sagittarius",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 3
+    }
+   ],
+   "excerpt": "A person born with the Sun in sign Scorpio will be of a fierce nature, will thoughtlessly engage in work, will earn money by acts connected with poison (0), and will be vastly learned in tbe use of arms. A person born wilh the Sun in Sagitlari will be respected by sages, will be rich and independent and will be learned in medicine and sculpture.",
+   "shared": true,
+   "shared_with": [
+    "Scorpio"
+   ]
+  },
+  {
+   "row": "Sun",
+   "col": "Capricorn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 3
+    }
+   ],
+   "excerpt": "A person born with the SUD in sign Capricorn will engage in deeds unsuited to his rank in life, will be ignorant, will deal in mean articles, will possess small wealtb, will be avaricious and will enjoy the property of other men. (0) According to become useless to him.",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Sun",
+   "col": "Aquarius",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 4
+    }
+   ],
+   "excerpt": "A person born with the Sun in sign Aquarius will engage in deeds unsuited to his rank in life, will be poor and will have no sons and no property.",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Sun",
+   "col": "Pisces",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 4
+    }
+   ],
+   "excerpt": "A person born with the Sun in sign Pisces will become rich by dealing in the produce of water, will be respected by women. The ·person will also possess a· mole or other marks in the part of body corresponding to the sign occupied by the Sun and the Moon together at the time of his birth (,ide, Stanza 4, .",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Mars",
+   "col": "Aries",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 5
+    }
+   ],
+   "excerpt": "A person born with Mars in sign Aries or Scorpio will be respected by the king, will be of a wandering nature, will be a commander of armies, a trader, will be rich. will bave a body marked with wounds. will be a thief and will be in the enjoyment of the pleasures of the senses.",
+   "shared": true,
+   "shared_with": [
+    "Scorpio"
+   ]
+  },
+  {
+   "row": "Mars",
+   "col": "Taurus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 5
+    }
+   ],
+   "excerpt": "A person born with Mars in sign Taurus or Libra will be subject to the infJuence of women, will not be open to the advice of friends. will be fond of the wives of other men. will be learned iu the games of magic. will adorn his person, will be of a timid nature and will have a rough body.",
+   "shared": true,
+   "shared_with": [
+    "Libra"
+   ]
+  },
+  {
+   "row": "Mars",
+   "col": "Gemini",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 6
+    }
+   ],
+   "excerpt": "A person born with Mars in sign Gemini or Virgo will be of bright appearance. will have sons ilnd no friends, will belp olhers. will be skilled in music and fight. will be a niggard. and will be fearless and of a begging natw·e.",
+   "shared": true,
+   "shared_with": [
+    "Virgo"
+   ]
+  },
+  {
+   "row": "Mars",
+   "col": "Cancer",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 6
+    }
+   ],
+   "excerpt": "A person born with Mars in sign Cancer will be rich. will cross seas and earn wealth. will be intelligent, will be of defective limbs and will be wicked.",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Mars",
+   "col": "Leo",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 7
+    }
+   ],
+   "excerpt": "A person born with Mars in sign Leo will be poor. will patiently bear afflictions. will wander in tbe forests. will be fearless and will have few wives and children.",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Mars",
+   "col": "Virgo",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 6
+    }
+   ],
+   "excerpt": "A person born with Mars in sign Gemini or Virgo will be of bright appearance. will have sons ilnd no friends, will belp olhers. will be skilled in music and fight. will be a niggard. and will be fearless and of a begging natw·e.",
+   "shared": true,
+   "shared_with": [
+    "Gemini"
+   ]
+  },
+  {
+   "row": "Mars",
+   "col": "Libra",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 5
+    }
+   ],
+   "excerpt": "A person born with Mars in sign Taurus or Libra will be subject to the infJuence of women, will not be open to the advice of friends. will be fond of the wives of other men. will be learned iu the games of magic. will adorn his person, will be of a timid nature and will have a rough body.",
+   "shared": true,
+   "shared_with": [
+    "Taurus"
+   ]
+  },
+  {
+   "row": "Mars",
+   "col": "Scorpio",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 5
+    }
+   ],
+   "excerpt": "A person born with Mars in sign Aries or Scorpio will be respected by the king, will be of a wandering nature, will be a commander of armies, a trader, will be rich. will bave a body marked with wounds. will be a thief and will be in the enjoyment of the pleasures of the senses.",
+   "shared": true,
+   "shared_with": [
+    "Aries"
+   ]
+  },
+  {
+   "row": "Mars",
+   "col": "Sagittarius",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 7
+    }
+   ],
+   "excerpt": "A person born with Mars in sign Sagittari or Pisces will have many enemies. will be the king's minister. will be of wide-spread fame. will be fearless and will have very few children.",
+   "shared": true,
+   "shared_with": [
+    "Pisces"
+   ]
+  },
+  {
+   "row": "Mars",
+   "col": "Capricorn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 7
+    }
+   ],
+   "excerpt": "A person born with Mars in sign Aquarius will ever suffer grief. will be poor, will wander from place to place. will be a liar. will be independent and wicked. A\" person born with Mars in sign Capricorn will be very ricb, will have many sons and will be a king or will resemble a king.",
+   "shared": true,
+   "shared_with": [
+    "Aquarius"
+   ]
+  },
+  {
+   "row": "Mars",
+   "col": "Aquarius",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 7
+    }
+   ],
+   "excerpt": "A person born with Mars in sign Aquarius will ever suffer grief. will be poor, will wander from place to place. will be a liar. will be independent and wicked. A\" person born with Mars in sign Capricorn will be very ricb, will have many sons and will be a king or will resemble a king.",
+   "shared": true,
+   "shared_with": [
+    "Capricorn"
+   ]
+  },
+  {
+   "row": "Mars",
+   "col": "Pisces",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 7
+    }
+   ],
+   "excerpt": "A person born with Mars in sign Sagittari or Pisces will have many enemies. will be the king's minister. will be of wide-spread fame. will be fearless and will have very few children.",
+   "shared": true,
+   "shared_with": [
+    "Sagittarius"
+   ]
+  },
+  {
+   "row": "Mercury",
+   "col": "Aries",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 8
+    }
+   ],
+   "excerpt": "A person born with Mercury in sign Aries or Scorpio will be fond of gambling, of running into debt, and of liquor, will be an atheist, will argue against the spirit of the Sastras, will be a thief, will be poor, will have a mean wife. will be deceitful, will be a liar and will swerve from the path of rectitude.",
+   "shared": true,
+   "shared_with": [
+    "Scorpio"
+   ]
+  },
+  {
+   "row": "Mercury",
+   "col": "Taurus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 8
+    }
+   ],
+   "excerpt": "A person born with Mercury in sign Taurus or Libra will be a preacher, will have many sons and wives, will ever be engaged in earning money, will be liberal in gift and will respect his preceptor (a) . (a) And parents. according to the Commentator.",
+   "shared": true,
+   "shared_with": [
+    "Libra"
+   ]
+  },
+  {
+   "row": "Mercury",
+   "col": "Gemini",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 9
+    }
+   ],
+   "excerpt": "A persOll born with Mercury in sign Ge,mini will be boastful, will be learned in the sciences, and in music, dance and painting ; will be of sweet speech and will live fa comfort.",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Mercury",
+   "col": "Cancer",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 9
+    }
+   ],
+   "excerpt": "A person born with Mercury in sign Cancer will earn money by works connected with water (a) aDd will be disliked by his kinsmen.",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Mercury",
+   "col": "Leo",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 10
+    }
+   ],
+   "excerpt": "A person bora witb Mercury in sign Leo will be disliked by women, will be poor, will have neither corn·fott nor sons, will wander rrom place to place, will be ignorant, will be fond of women and will suffer disgrace. A person bora witb Mercury in sign Virgo will be liberal in girt, will be learned, will possess many virtues, will live in comfort, will be of a patient nature, will be ingenious and fearless.",
+   "shared": true,
+   "shared_with": [
+    "Virgo"
+   ]
+  },
+  {
+   "row": "Mercury",
+   "col": "Virgo",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 10
+    }
+   ],
+   "excerpt": "A person bora witb Mercury in sign Leo will be disliked by women, will be poor, will have neither corn·fott nor sons, will wander rrom place to place, will be ignorant, will be fond of women and will suffer disgrace. A person bora witb Mercury in sign Virgo will be liberal in girt, will be learned, will possess many virtues, will live in comfort, will be of a patient nature, will be ingenious and fearless.",
+   "shared": true,
+   "shared_with": [
+    "Leo"
+   ]
+  },
+  {
+   "row": "Mercury",
+   "col": "Libra",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 8
+    }
+   ],
+   "excerpt": "A person born with Mercury in sign Taurus or Libra will be a preacher, will have many sons and wives, will ever be engaged in earning money, will be liberal in gift and will respect his preceptor (a) . (a) And parents. according to the Commentator.",
+   "shared": true,
+   "shared_with": [
+    "Taurus"
+   ]
+  },
+  {
+   "row": "Mercury",
+   "col": "Scorpio",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 8
+    }
+   ],
+   "excerpt": "A person born with Mercury in sign Aries or Scorpio will be fond of gambling, of running into debt, and of liquor, will be an atheist, will argue against the spirit of the Sastras, will be a thief, will be poor, will have a mean wife. will be deceitful, will be a liar and will swerve from the path of rectitude.",
+   "shared": true,
+   "shared_with": [
+    "Aries"
+   ]
+  },
+  {
+   "row": "Mercury",
+   "col": "Sagittarius",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 11
+    }
+   ],
+   "excerpt": "A person born with Mercury. in sign Sagittari will be respected by kings, will be learned in sciences and in laws.",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Mercury",
+   "col": "Capricorn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 11
+    }
+   ],
+   "excerpt": "A person born with Mercury in sign Capricorn or Aquarius will work for other men. will be poor. will be a sculptor. will run into debts and will work for no fees.",
+   "shared": true,
+   "shared_with": [
+    "Aquarius"
+   ]
+  },
+  {
+   "row": "Mercury",
+   "col": "Aquarius",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 11
+    }
+   ],
+   "excerpt": "A person born with Mercury in sign Capricorn or Aquarius will work for other men. will be poor. will be a sculptor. will run into debts and will work for no fees.",
+   "shared": true,
+   "shared_with": [
+    "Capricorn"
+   ]
+  },
+  {
+   "row": "Mercury",
+   "col": "Pisces",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 11
+    }
+   ],
+   "excerpt": "A person born with Mercury in sign Pisces will be skilled in befriending other men, will readily discover thc views of other people, and will be learned in the handicraft of men of low castes-such as shoe-making and the like.",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Jupiter",
+   "col": "Aries",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 12
+    }
+   ],
+   "excerpt": "A person born with Jupiter in sign Aries or Scorpio will be a commander of armies. will be very rich, will have many wives and children, will be liberal in gift. will have good servants, will be of a patient nature, and of bright appearance, will be happy with his wife and will be of great fame.",
+   "shared": true,
+   "shared_with": [
+    "Scorpio"
+   ]
+  },
+  {
+   "row": "Jupiter",
+   "col": "Taurus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 12
+    }
+   ],
+   "excerpt": "A person born with Jupitcr jn sign Taurus or Libra will be free from diseases, will Iiva in comfort, will be rich, will have friends and sons, will be liberal in gift and will be liked by all.",
+   "shared": true,
+   "shared_with": [
+    "Libra"
+   ]
+  },
+  {
+   "row": "Jupiter",
+   "col": "Gemini",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 12
+    }
+   ],
+   "excerpt": "A person born with Jupiter in sign Gcmini or Virgo will have many clothes, houses, servants, sons and friends, will be a minister and will live in comfort.",
+   "shared": true,
+   "shared_with": [
+    "Virgo"
+   ]
+  },
+  {
+   "row": "Jupiter",
+   "col": "Cancer",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 13
+    }
+   ],
+   "excerpt": "A person born with Jupiter in sign Cancer will be possessed of gems, sons, wealth, wife, influence, intelligence and comfort.",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Jupiter",
+   "col": "Leo",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 13
+    }
+   ],
+   "excerpt": "A person born with Jupiter in sign Leo will be all that bas been said in the case of a person born wilh Jupitcr in Cancer and will, besidcs, be a comman ~ .:r of armlcs. A person born wi~h Jupiter in sign Sagittari or Pisces will be the ruler of a province or a minister under a king Of the commander of armies or will be very rich.",
+   "shared": true,
+   "shared_with": [
+    "Cancer",
+    "Sagittarius",
+    "Pisces"
+   ]
+  },
+  {
+   "row": "Jupiter",
+   "col": "Virgo",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 12
+    }
+   ],
+   "excerpt": "A person born with Jupiter in sign Gcmini or Virgo will have many clothes, houses, servants, sons and friends, will be a minister and will live in comfort.",
+   "shared": true,
+   "shared_with": [
+    "Gemini"
+   ]
+  },
+  {
+   "row": "Jupiter",
+   "col": "Libra",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 12
+    }
+   ],
+   "excerpt": "A person born with Jupitcr jn sign Taurus or Libra will be free from diseases, will Iiva in comfort, will be rich, will have friends and sons, will be liberal in gift and will be liked by all.",
+   "shared": true,
+   "shared_with": [
+    "Taurus"
+   ]
+  },
+  {
+   "row": "Jupiter",
+   "col": "Scorpio",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 12
+    }
+   ],
+   "excerpt": "A person born with Jupiter in sign Aries or Scorpio will be a commander of armies. will be very rich, will have many wives and children, will be liberal in gift. will have good servants, will be of a patient nature, and of bright appearance, will be happy with his wife and will be of great fame.",
+   "shared": true,
+   "shared_with": [
+    "Aries"
+   ]
+  },
+  {
+   "row": "Jupiter",
+   "col": "Sagittarius",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 13
+    }
+   ],
+   "excerpt": "A person born with Jupiter in sign Leo will be all that bas been said in the case of a person born wilh Jupitcr in Cancer and will, besidcs, be a comman ~ .:r of armlcs. A person born wi~h Jupiter in sign Sagittari or Pisces will be the ruler of a province or a minister under a king Of the commander of armies or will be very rich.",
+   "shared": true,
+   "shared_with": [
+    "Cancer",
+    "Leo",
+    "Pisces"
+   ]
+  },
+  {
+   "row": "Jupiter",
+   "col": "Capricorn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 13
+    }
+   ],
+   "excerpt": "A person born with Jupiter in sign Capricorn will do deeds disgraceful to his rank in life, will possess very little wealth and will be afflicted with grief..",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Jupiter",
+   "col": "Aquarius",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 13
+    }
+   ],
+   "excerpt": "A person born with Jupiter in sign Aquarius will be all that bas been said in the case of",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Jupiter",
+   "col": "Pisces",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 13
+    }
+   ],
+   "excerpt": "A person born with Jupiter in sign Leo will be all that bas been said in the case of a person born wilh Jupitcr in Cancer and will, besidcs, be a comman ~ .:r of armlcs. A person born wi~h Jupiter in sign Sagittari or Pisces will be the ruler of a province or a minister under a king Of the commander of armies or will be very rich.",
+   "shared": true,
+   "shared_with": [
+    "Cancer",
+    "Leo",
+    "Sagittarius"
+   ]
+  },
+  {
+   "row": "Venus",
+   "col": "Aries",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 14
+    }
+   ],
+   "excerpt": "A person born with Venus in Sign Aries or Scorpio will be fond of the wives of other men, will Jose ~ is property throllgh their influence and will bring disgrace on his family. A' person born with Venus in sign Taurus or Libra will acquire wealth by his own powers and intelligence, will be liked by tbe king, will he an important person among his kinsmo1, will be a man of fame and will be fearless.",
+   "shared": true,
+   "shared_with": [
+    "Scorpio",
+    "Taurus",
+    "Libra"
+   ]
+  },
+  {
+   "row": "Venus",
+   "col": "Taurus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 14
+    }
+   ],
+   "excerpt": "A person born with Venus in Sign Aries or Scorpio will be fond of the wives of other men, will Jose ~ is property throllgh their influence and will bring disgrace on his family. A' person born with Venus in sign Taurus or Libra will acquire wealth by his own powers and intelligence, will be liked by tbe king, will he an important person among his kinsmo1, will be a man of fame and will be fearless.",
+   "shared": true,
+   "shared_with": [
+    "Aries",
+    "Scorpio",
+    "Libra"
+   ]
+  },
+  {
+   "row": "Venus",
+   "col": "Gemini",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 15
+    }
+   ],
+   "excerpt": "A per ~ua born\" witt} Venus in \"sign Gemini will do the work of a king, will be rich and learned in music.",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Venus",
+   "col": "Cancer",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 16
+    }
+   ],
+   "excerpt": "A person born with Venus in sign Cancer will bave two wives, will be a beggar, will be timid and very haughty and wili suffer much grief.",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Venus",
+   "col": "Leo",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 16
+    }
+   ],
+   "excerpt": "A person born with Venus in sign Leo will acquire money through women, will have an excellent wife and very few SODS.",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Venus",
+   "col": "Virgo",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 15
+    }
+   ],
+   "excerpt": "A person born with VentlS in sign Virgo, will engage in hard work.",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Venus",
+   "col": "Libra",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 14
+    }
+   ],
+   "excerpt": "A person born with Venus in Sign Aries or Scorpio will be fond of the wives of other men, will Jose ~ is property throllgh their influence and will bring disgrace on his family. A' person born with Venus in sign Taurus or Libra will acquire wealth by his own powers and intelligence, will be liked by tbe king, will he an important person among his kinsmo1, will be a man of fame and will be fearless.",
+   "shared": true,
+   "shared_with": [
+    "Aries",
+    "Scorpio",
+    "Taurus"
+   ]
+  },
+  {
+   "row": "Venus",
+   "col": "Scorpio",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 14
+    }
+   ],
+   "excerpt": "A person born with Venus in Sign Aries or Scorpio will be fond of the wives of other men, will Jose ~ is property throllgh their influence and will bring disgrace on his family. A' person born with Venus in sign Taurus or Libra will acquire wealth by his own powers and intelligence, will be liked by tbe king, will he an important person among his kinsmo1, will be a man of fame and will be fearless.",
+   "shared": true,
+   "shared_with": [
+    "Aries",
+    "Taurus",
+    "Libra"
+   ]
+  },
+  {
+   "row": "Venus",
+   "col": "Sagittarius",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 16
+    }
+   ],
+   "excerpt": "A person born with Venus in sign Sagittari will be possessed of excellent qualities and will be rich.",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Venus",
+   "col": "Capricorn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 15
+    }
+   ],
+   "excerpt": "A person born with Venus in sign Capricorn or Aquarius will be liked by ali, will be subject to tbe influence of women and will be fond of mean women.",
+   "shared": true,
+   "shared_with": [
+    "Aquarius"
+   ]
+  },
+  {
+   "row": "Venus",
+   "col": "Aquarius",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 15
+    }
+   ],
+   "excerpt": "A person born with Venus in sign Capricorn or Aquarius will be liked by ali, will be subject to tbe influence of women and will be fond of mean women.",
+   "shared": true,
+   "shared_with": [
+    "Capricorn"
+   ]
+  },
+  {
+   "row": "Venus",
+   "col": "Pisces",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 16
+    }
+   ],
+   "excerpt": "A person born with Venus in sign Pisces will be learned, will be rich, will be- respected by tbe king and will be liked by all.",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Saturn",
+   "col": "Aries",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 11
+    }
+   ],
+   "excerpt": "A person born with Saturn in sign Aries will be a fool, will wander from place to place, will be a fop and will have no friends.",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Saturn",
+   "col": "Taurus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 18
+    }
+   ],
+   "excerpt": "A person born with Saturn in sign Taurus will be fond of women of low caste. will possess small wealth :Ind will have several wives. A person born witb Saturn in sign Libra, will be a man of well-known fame, will be the chief of a party of men in a town or in an army or in a village and will be rich.",
+   "shared": true,
+   "shared_with": [
+    "Libra"
+   ]
+  },
+  {
+   "row": "Saturn",
+   "col": "Gemini",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 11
+    }
+   ],
+   "excerpt": "A person born with Saturn in sign Gemini or Virgo will be shameless, will suffer grief, will be poor, will have no sons, will be a bad painter or writer, witl be a constable and will be a chief officer.",
+   "shared": true,
+   "shared_with": [
+    "Virgo"
+   ]
+  },
+  {
+   "row": "Saturn",
+   "col": "Cancer",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 18
+    }
+   ],
+   "excerpt": "A person born with Saturn in sign Cancer will be poor, will have very few tee th~ will be separated from his mother, and will have no sons and will be a fool.",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Saturn",
+   "col": "Leo",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 18
+    }
+   ],
+   "excerpt": "A person born with Saturn in sign Leo will not be deserving of respect, will suffer grief, will have no sons and will carry burdens.",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Saturn",
+   "col": "Virgo",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 11
+    }
+   ],
+   "excerpt": "A person born with Saturn in sign Gemini or Virgo will be shameless, will suffer grief, will be poor, will have no sons, will be a bad painter or writer, witl be a constable and will be a chief officer.",
+   "shared": true,
+   "shared_with": [
+    "Gemini"
+   ]
+  },
+  {
+   "row": "Saturn",
+   "col": "Libra",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 18
+    }
+   ],
+   "excerpt": "A person born with Saturn in sign Taurus will be fond of women of low caste. will possess small wealth :Ind will have several wives. A person born witb Saturn in sign Libra, will be a man of well-known fame, will be the chief of a party of men in a town or in an army or in a village and will be rich.",
+   "shared": true,
+   "shared_with": [
+    "Taurus"
+   ]
+  },
+  {
+   "row": "Saturn",
+   "col": "Scorpio",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 11
+    }
+   ],
+   "excerpt": "A person born with Saturn in sign Scorpio will suffer imprisonment, will receive blows, will be indifferent to work and will be merciless.",
+   "shared": false,
+   "shared_with": []
+  },
+  {
+   "row": "Saturn",
+   "col": "Sagittarius",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 19
+    }
+   ],
+   "excerpt": "A person born with Saturn in sign Sagittari or Pisces will die an excellent death, will be a faithful officer in the king's palace, will have good sons and a good wife, will be possessed of good wealth, will be the chief man in a town, in an army or in a village. The BrIhQt JIi/aka JH",
+   "shared": true,
+   "shared_with": [
+    "Pisces"
+   ]
+  },
+  {
+   "row": "Saturn",
+   "col": "Capricorn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 19
+    }
+   ],
+   "excerpt": "A person born with Saturn in sign Capricorn or Aquarius will be with the wives and property of other men. will be the head of a town, a village or an army. will have weak eyes, will be dirty, will be indifferent to bathing, will have a permanent wealth and authority and will enjoy the property acquired by him.",
+   "shared": true,
+   "shared_with": [
+    "Aquarius"
+   ]
+  },
+  {
+   "row": "Saturn",
+   "col": "Aquarius",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 19
+    }
+   ],
+   "excerpt": "A person born with Saturn in sign Capricorn or Aquarius will be with the wives and property of other men. will be the head of a town, a village or an army. will have weak eyes, will be dirty, will be indifferent to bathing, will have a permanent wealth and authority and will enjoy the property acquired by him.",
+   "shared": true,
+   "shared_with": [
+    "Capricorn"
+   ]
+  },
+  {
+   "row": "Saturn",
+   "col": "Pisces",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 19
+    }
+   ],
+   "excerpt": "A person born with Saturn in sign Sagittari or Pisces will die an excellent death, will be a faithful officer in the king's palace, will have good sons and a good wife, will be possessed of good wealth, will be the chief man in a town, in an army or in a village. The BrIhQt JIi/aka JH",
+   "shared": true,
+   "shared_with": [
+    "Sagittarius"
+   ]
+  },
+  {
+   "row": "Rahu",
+   "col": "Aries",
+   "status": "gap",
+   "citations": [],
+   "excerpt": null,
+   "note": "Brihat Jataka defines the nodes (Ch 2 v3) but gives no planet-in-sign results for them anywhere; left unfilled by charter"
+  },
+  {
+   "row": "Rahu",
+   "col": "Taurus",
+   "status": "gap",
+   "citations": [],
+   "excerpt": null,
+   "note": "Brihat Jataka defines the nodes (Ch 2 v3) but gives no planet-in-sign results for them anywhere; left unfilled by charter"
+  },
+  {
+   "row": "Rahu",
+   "col": "Gemini",
+   "status": "gap",
+   "citations": [],
+   "excerpt": null,
+   "note": "Brihat Jataka defines the nodes (Ch 2 v3) but gives no planet-in-sign results for them anywhere; left unfilled by charter"
+  },
+  {
+   "row": "Rahu",
+   "col": "Cancer",
+   "status": "gap",
+   "citations": [],
+   "excerpt": null,
+   "note": "Brihat Jataka defines the nodes (Ch 2 v3) but gives no planet-in-sign results for them anywhere; left unfilled by charter"
+  },
+  {
+   "row": "Rahu",
+   "col": "Leo",
+   "status": "gap",
+   "citations": [],
+   "excerpt": null,
+   "note": "Brihat Jataka defines the nodes (Ch 2 v3) but gives no planet-in-sign results for them anywhere; left unfilled by charter"
+  },
+  {
+   "row": "Rahu",
+   "col": "Virgo",
+   "status": "gap",
+   "citations": [],
+   "excerpt": null,
+   "note": "Brihat Jataka defines the nodes (Ch 2 v3) but gives no planet-in-sign results for them anywhere; left unfilled by charter"
+  },
+  {
+   "row": "Rahu",
+   "col": "Libra",
+   "status": "gap",
+   "citations": [],
+   "excerpt": null,
+   "note": "Brihat Jataka defines the nodes (Ch 2 v3) but gives no planet-in-sign results for them anywhere; left unfilled by charter"
+  },
+  {
+   "row": "Rahu",
+   "col": "Scorpio",
+   "status": "gap",
+   "citations": [],
+   "excerpt": null,
+   "note": "Brihat Jataka defines the nodes (Ch 2 v3) but gives no planet-in-sign results for them anywhere; left unfilled by charter"
+  },
+  {
+   "row": "Rahu",
+   "col": "Sagittarius",
+   "status": "gap",
+   "citations": [],
+   "excerpt": null,
+   "note": "Brihat Jataka defines the nodes (Ch 2 v3) but gives no planet-in-sign results for them anywhere; left unfilled by charter"
+  },
+  {
+   "row": "Rahu",
+   "col": "Capricorn",
+   "status": "gap",
+   "citations": [],
+   "excerpt": null,
+   "note": "Brihat Jataka defines the nodes (Ch 2 v3) but gives no planet-in-sign results for them anywhere; left unfilled by charter"
+  },
+  {
+   "row": "Rahu",
+   "col": "Aquarius",
+   "status": "gap",
+   "citations": [],
+   "excerpt": null,
+   "note": "Brihat Jataka defines the nodes (Ch 2 v3) but gives no planet-in-sign results for them anywhere; left unfilled by charter"
+  },
+  {
+   "row": "Rahu",
+   "col": "Pisces",
+   "status": "gap",
+   "citations": [],
+   "excerpt": null,
+   "note": "Brihat Jataka defines the nodes (Ch 2 v3) but gives no planet-in-sign results for them anywhere; left unfilled by charter"
+  },
+  {
+   "row": "Ketu",
+   "col": "Aries",
+   "status": "gap",
+   "citations": [],
+   "excerpt": null,
+   "note": "Brihat Jataka defines the nodes (Ch 2 v3) but gives no planet-in-sign results for them anywhere; left unfilled by charter"
+  },
+  {
+   "row": "Ketu",
+   "col": "Taurus",
+   "status": "gap",
+   "citations": [],
+   "excerpt": null,
+   "note": "Brihat Jataka defines the nodes (Ch 2 v3) but gives no planet-in-sign results for them anywhere; left unfilled by charter"
+  },
+  {
+   "row": "Ketu",
+   "col": "Gemini",
+   "status": "gap",
+   "citations": [],
+   "excerpt": null,
+   "note": "Brihat Jataka defines the nodes (Ch 2 v3) but gives no planet-in-sign results for them anywhere; left unfilled by charter"
+  },
+  {
+   "row": "Ketu",
+   "col": "Cancer",
+   "status": "gap",
+   "citations": [],
+   "excerpt": null,
+   "note": "Brihat Jataka defines the nodes (Ch 2 v3) but gives no planet-in-sign results for them anywhere; left unfilled by charter"
+  },
+  {
+   "row": "Ketu",
+   "col": "Leo",
+   "status": "gap",
+   "citations": [],
+   "excerpt": null,
+   "note": "Brihat Jataka defines the nodes (Ch 2 v3) but gives no planet-in-sign results for them anywhere; left unfilled by charter"
+  },
+  {
+   "row": "Ketu",
+   "col": "Virgo",
+   "status": "gap",
+   "citations": [],
+   "excerpt": null,
+   "note": "Brihat Jataka defines the nodes (Ch 2 v3) but gives no planet-in-sign results for them anywhere; left unfilled by charter"
+  },
+  {
+   "row": "Ketu",
+   "col": "Libra",
+   "status": "gap",
+   "citations": [],
+   "excerpt": null,
+   "note": "Brihat Jataka defines the nodes (Ch 2 v3) but gives no planet-in-sign results for them anywhere; left unfilled by charter"
+  },
+  {
+   "row": "Ketu",
+   "col": "Scorpio",
+   "status": "gap",
+   "citations": [],
+   "excerpt": null,
+   "note": "Brihat Jataka defines the nodes (Ch 2 v3) but gives no planet-in-sign results for them anywhere; left unfilled by charter"
+  },
+  {
+   "row": "Ketu",
+   "col": "Sagittarius",
+   "status": "gap",
+   "citations": [],
+   "excerpt": null,
+   "note": "Brihat Jataka defines the nodes (Ch 2 v3) but gives no planet-in-sign results for them anywhere; left unfilled by charter"
+  },
+  {
+   "row": "Ketu",
+   "col": "Capricorn",
+   "status": "gap",
+   "citations": [],
+   "excerpt": null,
+   "note": "Brihat Jataka defines the nodes (Ch 2 v3) but gives no planet-in-sign results for them anywhere; left unfilled by charter"
+  },
+  {
+   "row": "Ketu",
+   "col": "Aquarius",
+   "status": "gap",
+   "citations": [],
+   "excerpt": null,
+   "note": "Brihat Jataka defines the nodes (Ch 2 v3) but gives no planet-in-sign results for them anywhere; left unfilled by charter"
+  },
+  {
+   "row": "Ketu",
+   "col": "Pisces",
+   "status": "gap",
+   "citations": [],
+   "excerpt": null,
+   "note": "Brihat Jataka defines the nodes (Ch 2 v3) but gives no planet-in-sign results for them anywhere; left unfilled by charter"
+  }
+ ],
+ "rules": [
+  {
+   "id": "PS-1",
+   "rule": "The sign effects described for the Moon apply also to the rising sign and to the 2nd, 3rd and other bhavas, when the house and its lord are powerful",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 20
+    }
+   ]
+  },
+  {
+   "id": "PS-2",
+   "rule": "If the Moon, her sign and that sign's lord all be powerful, the sign effects come fully; two powerful = imperfectly; one = still less; none = fail. The same grading applies to the other planets",
+   "citations": [
+    {
+     "chapter": 17,
+     "verse": 13
+    }
+   ]
+  }
+ ],
+ "notes": "Moon row cites Ch 17 (one verse per sign). Sun-Saturn cite Ch 18, where one clause often covers two signs ('Mars in Aries or Scorpio') — such cells are shared. Store defect: Saturn's first verse is misnumbered v11; the record is selected by content and flagged here. Rahu/Ketu rows are explicit gaps."
+}

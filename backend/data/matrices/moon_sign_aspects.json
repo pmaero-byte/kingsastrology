@@ -1,0 +1,1079 @@
+{
+ "matrix": "moon_sign_aspects",
+ "version": "matrices-1.0.0",
+ "axes": {
+  "rows": [
+   "Aries",
+   "Taurus",
+   "Gemini",
+   "Cancer",
+   "Leo",
+   "Virgo",
+   "Libra",
+   "Scorpio",
+   "Sagittarius",
+   "Capricorn",
+   "Aquarius",
+   "Pisces"
+  ],
+  "columns": [
+   "Sun",
+   "Mars",
+   "Mercury",
+   "Jupiter",
+   "Venus",
+   "Saturn"
+  ]
+ },
+ "cells": [
+  {
+   "row": "Aries",
+   "col": "Sun",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 1
+    }
+   ],
+   "excerpt": "if by Saturn, he will be a thief and if by the Sun. he will be poor. If a.t the lime of birth the",
+   "merged_with": [
+    "Saturn"
+   ]
+  },
+  {
+   "row": "Aries",
+   "col": "Mars",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 1
+    }
+   ],
+   "excerpt": "Moon occupy sign Aries and be aspected by Mars, the person will become a king ;",
+   "merged_with": []
+  },
+  {
+   "row": "Aries",
+   "col": "Mercury",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 1
+    }
+   ],
+   "excerpt": "if she be aspected by Mercury, the person wiII be learned;",
+   "merged_with": []
+  },
+  {
+   "row": "Aries",
+   "col": "Jupiter",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 1
+    }
+   ],
+   "excerpt": "if by Jupiter, he wrtl resemble a k.ing;",
+   "merged_with": []
+  },
+  {
+   "row": "Aries",
+   "col": "Venus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 1
+    }
+   ],
+   "excerpt": "if by Venus. he will be a man of good conduct;",
+   "merged_with": []
+  },
+  {
+   "row": "Aries",
+   "col": "Saturn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 1
+    }
+   ],
+   "excerpt": "if by Saturn, he will be a thief and if by the Sun. he will be poor. If a.t the lime of birth the",
+   "merged_with": [
+    "Sun"
+   ]
+  },
+  {
+   "row": "Taurus",
+   "col": "Sun",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 1
+    }
+   ],
+   "excerpt": "if by Saturn, he will be rich and if by the SUD. be will be a servant. r",
+   "merged_with": [
+    "Saturn"
+   ]
+  },
+  {
+   "row": "Taurus",
+   "col": "Mars",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 1
+    }
+   ],
+   "excerpt": "Moon occupy sign Taurus and be aspected by Mars, the person will be poor;",
+   "merged_with": []
+  },
+  {
+   "row": "Taurus",
+   "col": "Mercury",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 1
+    }
+   ],
+   "excerpt": "if she be aspected by M.:rcury, \"he wil[ be a thief ;",
+   "merged_with": []
+  },
+  {
+   "row": "Taurus",
+   "col": "Jupiter",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 1
+    }
+   ],
+   "excerpt": "if by Jupiter, he will be respected by the people;",
+   "merged_with": []
+  },
+  {
+   "row": "Taurus",
+   "col": "Venus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 1
+    }
+   ],
+   "excerpt": "if by Venus he will be a king ;",
+   "merged_with": []
+  },
+  {
+   "row": "Taurus",
+   "col": "Saturn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 1
+    }
+   ],
+   "excerpt": "if by Saturn, he will be rich and if by the SUD. be will be a servant. r",
+   "merged_with": [
+    "Sun"
+   ]
+  },
+  {
+   "row": "Gemini",
+   "col": "Sun",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 1
+    }
+   ],
+   "excerpt": "if by Saturn. he will be a weaver and if by the Sun, he will be poor. If a t the time of birth. tbe",
+   "merged_with": [
+    "Saturn"
+   ]
+  },
+  {
+   "row": "Gemini",
+   "col": "Mars",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 1
+    }
+   ],
+   "excerpt": "Moon occupy sign Gemini and be .3.spected by Mars, the person will sell weapons;",
+   "merged_with": []
+  },
+  {
+   "row": "Gemini",
+   "col": "Mercury",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 1
+    }
+   ],
+   "excerpt": "if she be aspected by Mercury, he will become a ting ;",
+   "merged_with": []
+  },
+  {
+   "row": "Gemini",
+   "col": "Jupiter",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 1
+    }
+   ],
+   "excerpt": "if by Jupiter, he will be a learned;",
+   "merged_with": []
+  },
+  {
+   "row": "Gemini",
+   "col": "Venus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 1
+    }
+   ],
+   "excerpt": "if by Venus, he will be fearless;",
+   "merged_with": []
+  },
+  {
+   "row": "Gemini",
+   "col": "Saturn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 1
+    }
+   ],
+   "excerpt": "if by Saturn. he will be a weaver and if by the Sun, he will be poor. If a t the time of birth. tbe",
+   "merged_with": [
+    "Sun"
+   ]
+  },
+  {
+   "row": "Cancer",
+   "col": "Sun",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 1
+    }
+   ],
+   "excerpt": "if by Saturn, he will live by weapons and if by the Sun~ he will sutTer from diseases of the eye.",
+   "merged_with": [
+    "Saturn"
+   ]
+  },
+  {
+   "row": "Cancer",
+   "col": "Mars",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 1
+    }
+   ],
+   "excerpt": "Moon occupy sign Cancer and be aspected by M&rs. the person will be a valiant soldier ;",
+   "merged_with": []
+  },
+  {
+   "row": "Cancer",
+   "col": "Mercury",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 1
+    }
+   ],
+   "excerpt": "if she be asp:cted by Mercury, he will be a literary author;",
+   "merged_with": []
+  },
+  {
+   "row": "Cancer",
+   "col": "Jupiter",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 1
+    }
+   ],
+   "excerpt": "if by Jupiter, he will be learned;",
+   "merged_with": []
+  },
+  {
+   "row": "Cancer",
+   "col": "Venus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 1
+    }
+   ],
+   "excerpt": "if by Venus, he will be a king;",
+   "merged_with": []
+  },
+  {
+   "row": "Cancer",
+   "col": "Saturn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 1
+    }
+   ],
+   "excerpt": "if by Saturn, he will live by weapons and if by the Sun~ he will sutTer from diseases of the eye.",
+   "merged_with": [
+    "Sun"
+   ]
+  },
+  {
+   "row": "Leo",
+   "col": "Sun",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 2
+    }
+   ],
+   "excerpt": "if by the Sun, he will be a king,",
+   "merged_with": []
+  },
+  {
+   "row": "Leo",
+   "col": "Mars",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 2
+    }
+   ],
+   "excerpt": "and if by Mars, be will also be a king",
+   "merged_with": []
+  },
+  {
+   "row": "Leo",
+   "col": "Mercury",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 2
+    }
+   ],
+   "excerpt": "Moon occupy sign Leo and be aspected by Mercury, the person will be an Astrologer;",
+   "merged_with": []
+  },
+  {
+   "row": "Leo",
+   "col": "Jupiter",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 2
+    }
+   ],
+   "excerpt": "if aspecled by Jupiter, he will be rich;",
+   "merged_with": []
+  },
+  {
+   "row": "Leo",
+   "col": "Venus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 2
+    }
+   ],
+   "excerpt": "if by Venus, he will be a king;",
+   "merged_with": []
+  },
+  {
+   "row": "Leo",
+   "col": "Saturn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 2
+    }
+   ],
+   "excerpt": "if by Saturn, he will be a barber;",
+   "merged_with": []
+  },
+  {
+   "row": "Virgo",
+   "col": "Sun",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 2
+    }
+   ],
+   "excerpt": "if by Venus, he will be vigilant and if by Saturn, tbe Sun or Mars, he will live by serving under women",
+   "merged_with": [
+    "Mars",
+    "Venus",
+    "Saturn"
+   ]
+  },
+  {
+   "row": "Virgo",
+   "col": "Mars",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 2
+    }
+   ],
+   "excerpt": "if by Venus, he will be vigilant and if by Saturn, tbe Sun or Mars, he will live by serving under women",
+   "merged_with": [
+    "Sun",
+    "Venus",
+    "Saturn"
+   ]
+  },
+  {
+   "row": "Virgo",
+   "col": "Mercury",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 2
+    }
+   ],
+   "excerpt": "Moon occupy sign Virgo and be aspeeted by Mercury, the person will be a king,",
+   "merged_with": []
+  },
+  {
+   "row": "Virgo",
+   "col": "Jupiter",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 2
+    }
+   ],
+   "excerpt": "if aspected by Jupiter, he will be a commander of armies,",
+   "merged_with": []
+  },
+  {
+   "row": "Virgo",
+   "col": "Venus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 2
+    }
+   ],
+   "excerpt": "if by Venus, he will be vigilant and if by Saturn, tbe Sun or Mars, he will live by serving under women",
+   "merged_with": [
+    "Sun",
+    "Mars",
+    "Saturn"
+   ]
+  },
+  {
+   "row": "Virgo",
+   "col": "Saturn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 2
+    }
+   ],
+   "excerpt": "if by Venus, he will be vigilant and if by Saturn, tbe Sun or Mars, he will live by serving under women",
+   "merged_with": [
+    "Sun",
+    "Mars",
+    "Venus"
+   ]
+  },
+  {
+   "row": "Libra",
+   "col": "Sun",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 2
+    }
+   ],
+   "excerpt": "and if by Saturn, the Sun or Mars. he will be deceitful",
+   "merged_with": [
+    "Mars",
+    "Saturn"
+   ]
+  },
+  {
+   "row": "Libra",
+   "col": "Mars",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 2
+    }
+   ],
+   "excerpt": "and if by Saturn, the Sun or Mars. he will be deceitful",
+   "merged_with": [
+    "Sun",
+    "Saturn"
+   ]
+  },
+  {
+   "row": "Libra",
+   "col": "Mercury",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 2
+    }
+   ],
+   "excerpt": "Moon occupy :;igl} Libra and be aspected by Mercury, the person will be a king;",
+   "merged_with": []
+  },
+  {
+   "row": "Libra",
+   "col": "Jupiter",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 2
+    }
+   ],
+   "excerpt": "if aspected by Jupiter, he will work in gold;",
+   "merged_with": []
+  },
+  {
+   "row": "Libra",
+   "col": "Venus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 2
+    }
+   ],
+   "excerpt": "if by Venus, he will be a trader;",
+   "merged_with": []
+  },
+  {
+   "row": "Libra",
+   "col": "Saturn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 2
+    }
+   ],
+   "excerpt": "and if by Saturn, the Sun or Mars. he will be deceitful",
+   "merged_with": [
+    "Sun",
+    "Mars"
+   ]
+  },
+  {
+   "row": "Scorpio",
+   "col": "Sun",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 2
+    }
+   ],
+   "excerpt": "if by the SUD. he will be poor and if by Mars, be will be a king.",
+   "merged_with": [
+    "Mars"
+   ]
+  },
+  {
+   "row": "Scorpio",
+   "col": "Mars",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 2
+    }
+   ],
+   "excerpt": "if by the SUD. he will be poor and if by Mars, be will be a king.",
+   "merged_with": [
+    "Sun"
+   ]
+  },
+  {
+   "row": "Scorpio",
+   "col": "Mercury",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 2
+    }
+   ],
+   "excerpt": "Moon occupy sign Scorpio and be aspected by Mercury. the person will get twins; (or will have two fatbers according to some Commentators);",
+   "merged_with": []
+  },
+  {
+   "row": "Scorpio",
+   "col": "Jupiter",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 2
+    }
+   ],
+   "excerpt": "if aspected by Jupiter, he will be obedient;",
+   "merged_with": []
+  },
+  {
+   "row": "Scorpio",
+   "col": "Venus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 2
+    }
+   ],
+   "excerpt": "if by Venus, he will be a wasberman;",
+   "merged_with": []
+  },
+  {
+   "row": "Scorpio",
+   "col": "Saturn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 2
+    }
+   ],
+   "excerpt": "if by Saturn, he will be of defective limbs;",
+   "merged_with": []
+  },
+  {
+   "row": "Sagittarius",
+   "col": "Sun",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 3
+    }
+   ],
+   "excerpt": "and if by Saturn, the Sun or Mars, he will be a fop put on a show of virtue and will not attend to the work of othl!r persons",
+   "merged_with": [
+    "Mars",
+    "Saturn"
+   ]
+  },
+  {
+   "row": "Sagittarius",
+   "col": "Mars",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 3
+    }
+   ],
+   "excerpt": "and if by Saturn, the Sun or Mars, he will be a fop put on a show of virtue and will not attend to the work of othl!r persons",
+   "merged_with": [
+    "Sun",
+    "Saturn"
+   ]
+  },
+  {
+   "row": "Sagittarius",
+   "col": "Mercury",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 3
+    }
+   ],
+   "excerpt": "Moon occupy sign Sagittari and be aspeeted by Mercury, the person will protect his kinsmen;",
+   "merged_with": []
+  },
+  {
+   "row": "Sagittarius",
+   "col": "Jupiter",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if aspeeted by Jupiter, he will be a king;",
+   "merged_with": []
+  },
+  {
+   "row": "Sagittarius",
+   "col": "Venus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if by Venus. he will protect many men;",
+   "merged_with": []
+  },
+  {
+   "row": "Sagittarius",
+   "col": "Saturn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 3
+    }
+   ],
+   "excerpt": "and if by Saturn, the Sun or Mars, he will be a fop put on a show of virtue and will not attend to the work of othl!r persons",
+   "merged_with": [
+    "Sun",
+    "Mars"
+   ]
+  },
+  {
+   "row": "Capricorn",
+   "col": "Sun",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if by the Sun, he will be poor;",
+   "merged_with": []
+  },
+  {
+   "row": "Capricorn",
+   "col": "Mars",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 3
+    }
+   ],
+   "excerpt": "and jf by Mars, he will be a king",
+   "merged_with": []
+  },
+  {
+   "row": "Capricorn",
+   "col": "Mercury",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 3
+    }
+   ],
+   "excerpt": "Moon occupy sign Capricorn and be aspected by Mercury, the person will be the king of kings;",
+   "merged_with": []
+  },
+  {
+   "row": "Capricorn",
+   "col": "Jupiter",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if aspected by Jupiter, .be will be a king;",
+   "merged_with": []
+  },
+  {
+   "row": "Capricorn",
+   "col": "Venus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if by Venus, he will be learned;",
+   "merged_with": []
+  },
+  {
+   "row": "Capricorn",
+   "col": "Saturn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if by Saturn, he will be rich;",
+   "merged_with": []
+  },
+  {
+   "row": "Aquarius",
+   "col": "Sun",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if by Venus or Saturn or the Sun or Mars he will be fond of the wives of other men",
+   "merged_with": [
+    "Mars",
+    "Venus",
+    "Saturn"
+   ]
+  },
+  {
+   "row": "Aquarius",
+   "col": "Mars",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if by Venus or Saturn or the Sun or Mars he will be fond of the wives of other men",
+   "merged_with": [
+    "Sun",
+    "Venus",
+    "Saturn"
+   ]
+  },
+  {
+   "row": "Aquarius",
+   "col": "Mercury",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 3
+    }
+   ],
+   "excerpt": "and be aspected by Mercury, the person will be a king: if aspected by Iupiter. he will resemble a king;",
+   "merged_with": [
+    "Jupiter"
+   ]
+  },
+  {
+   "row": "Aquarius",
+   "col": "Jupiter",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 3
+    }
+   ],
+   "excerpt": "and be aspected by Mercury, the person will be a king: if aspected by Iupiter. he will resemble a king;",
+   "merged_with": [
+    "Mercury"
+   ]
+  },
+  {
+   "row": "Aquarius",
+   "col": "Venus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if by Venus or Saturn or the Sun or Mars he will be fond of the wives of other men",
+   "merged_with": [
+    "Sun",
+    "Mars",
+    "Saturn"
+   ]
+  },
+  {
+   "row": "Aquarius",
+   "col": "Saturn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if by Venus or Saturn or the Sun or Mars he will be fond of the wives of other men",
+   "merged_with": [
+    "Sun",
+    "Mars",
+    "Venus"
+   ]
+  },
+  {
+   "row": "Pisces",
+   "col": "Sun",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if by Venus, he will be learned and if by Saturn, the Sun or Mars, he will do wicked deeds. \\ NOTt:S As stated in Ihe last Stanza of tbe last chapter. all tbat has been said of the Moon applies also to the risillg sign. The Moon by aspecting the several signs of tbe Zodiac except sign Cancer, products malefic effects when such signs are rising signs.",
+   "merged_with": [
+    "Mars",
+    "Venus",
+    "Saturn"
+   ]
+  },
+  {
+   "row": "Pisces",
+   "col": "Mars",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if by Venus, he will be learned and if by Saturn, the Sun or Mars, he will do wicked deeds. \\ NOTt:S As stated in Ihe last Stanza of tbe last chapter. all tbat has been said of the Moon applies also to the risillg sign. The Moon by aspecting the several signs of tbe Zodiac except sign Cancer, products malefic effects when such signs are rising signs.",
+   "merged_with": [
+    "Sun",
+    "Venus",
+    "Saturn"
+   ]
+  },
+  {
+   "row": "Pisces",
+   "col": "Mercury",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 3
+    }
+   ],
+   "excerpt": "Moau occupy sign Pisces and be aspected by Mercury, the p::rsoll wil! be witty;",
+   "merged_with": []
+  },
+  {
+   "row": "Pisces",
+   "col": "Jupiter",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if aspccted by Jupiter, he will be a king;",
+   "merged_with": []
+  },
+  {
+   "row": "Pisces",
+   "col": "Venus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if by Venus, he will be learned and if by Saturn, the Sun or Mars, he will do wicked deeds. \\ NOTt:S As stated in Ihe last Stanza of tbe last chapter. all tbat has been said of the Moon applies also to the risillg sign. The Moon by aspecting the several signs of tbe Zodiac except sign Cancer, products malefic effects when such signs are rising signs.",
+   "merged_with": [
+    "Sun",
+    "Mars",
+    "Saturn"
+   ]
+  },
+  {
+   "row": "Pisces",
+   "col": "Saturn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if by Venus, he will be learned and if by Saturn, the Sun or Mars, he will do wicked deeds. \\ NOTt:S As stated in Ihe last Stanza of tbe last chapter. all tbat has been said of the Moon applies also to the risillg sign. The Moon by aspecting the several signs of tbe Zodiac except sign Cancer, products malefic effects when such signs are rising signs.",
+   "merged_with": [
+    "Sun",
+    "Mars",
+    "Venus"
+   ]
+  }
+ ],
+ "rules": [
+  {
+   "id": "AS-1",
+   "rule": "The same sign-aspect effects apply to the Moon in the several Dwadasamsas; hora/drekkana-lord aspects give benefic effects",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 4
+    }
+   ]
+  },
+  {
+   "id": "AS-2",
+   "rule": "For the Sun the same readings apply with Solar and Lunar aspect exchanged; the rising Navamsa follows the Moon's rules",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 8
+    }
+   ]
+  }
+ ],
+ "notes": "Rows = the Moon's sign; columns = the aspecting planet. v1 Aries-Cancer, v2 Leo-Scorpio, v3 Sagittarius-Pisces. Clauses naming several planets at once ('if by Saturn, the Sun or Mars') are shared (merged_with)."
+}

@@ -1,0 +1,1375 @@
+{
+ "matrix": "planet_in_house",
+ "version": "matrices-1.0.0",
+ "axes": {
+  "rows": [
+   "Sun",
+   "Moon",
+   "Mars",
+   "Mercury",
+   "Jupiter",
+   "Venus",
+   "Saturn"
+  ],
+  "columns": [
+   "1",
+   "2",
+   "3",
+   "4",
+   "5",
+   "6",
+   "7",
+   "8",
+   "9",
+   "10",
+   "11",
+   "12"
+  ]
+ },
+ "cells": [
+  {
+   "row": "Sun",
+   "col": "1",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 1
+    }
+   ],
+   "excerpt": "birth of a person, the Sun occupy the Ascendant, the person will be fond of fight, slow at work, without sight and without mercy;",
+   "subcases": [
+    "but if Aries be '.the rising sign and the Sun occupy it, the person will be rich and afflicted with diseases of the eye;",
+    "if Leo be the rising sign and the Sun occupy it, he will be blind at night;",
+    "if Libra be the rising sign and the Sun occupy it, tbe person will be blind and poor;",
+    "if Cancer be the rising sign and the Sun occupy it, he will ~ie-a mote in his eye."
+   ]
+  },
+  {
+   "row": "Sun",
+   "col": "2",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 1
+    }
+   ],
+   "excerpt": "If the Sun occupy tbe 2nd house~fronl the Ascend·ant, the person will be greatly rich, wilf\"-havc his wealth carried away by the king and will $;uffcr from diseases-in the face."
+  },
+  {
+   "row": "Sun",
+   "col": "3",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 2
+    }
+   ],
+   "excerpt": "If at the time of birth, the Sun occupy the 3ed hriuse fronl the Ascendant, the person will be intelligcnt and powerful;"
+  },
+  {
+   "row": "Sun",
+   "col": "4",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 2
+    }
+   ],
+   "excerpt": "if he occupy tbe 4th house."
+  },
+  {
+   "row": "Sun",
+   "col": "5",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 2
+    }
+   ],
+   "excerpt": "if he occupy the 5th house."
+  },
+  {
+   "row": "Sun",
+   "col": "6",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 2
+    }
+   ],
+   "excerpt": "he will have no sons and will be poor and if'-he occupy the 6th house."
+  },
+  {
+   "row": "Sun",
+   "col": "7",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 3
+    }
+   ],
+   "excerpt": "If, at the time of birth of a person, the Sun occupy the 7th house from the Ascendant, the person will suffer disgrace at the hands of women ;"
+  },
+  {
+   "row": "Sun",
+   "col": "8",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if he occupy the 8th house."
+  },
+  {
+   "row": "Sun",
+   "col": "9",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if be occupy the 9th bouse, the person will bave sons, wealth and comfort (a) ;"
+  },
+  {
+   "row": "Sun",
+   "col": "10",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if he occupy the 10th bouse, the person will live in comfort and will be powerful;"
+  },
+  {
+   "row": "Sun",
+   "col": "11",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if the occupy the t lth house, the person will be very rich and if be occupy the 12th house he will become an apostate.",
+   "covers_houses": [
+    11,
+    12
+   ]
+  },
+  {
+   "row": "Sun",
+   "col": "12",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if the occupy the t lth house, the person will be very rich and if be occupy the 12th house he will become an apostate.",
+   "covers_houses": [
+    11,
+    12
+   ]
+  },
+  {
+   "row": "Moon",
+   "col": "1",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 4
+    }
+   ],
+   "excerpt": "If at the time of birth of a person the Moon occupy the ascendant such person will become dumb or mad or an idiot or blind or deaf;",
+   "subcases": [
+    "if the rising sign occupied by the Moon be Cancer."
+   ]
+  },
+  {
+   "row": "Moon",
+   "col": "2",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 4
+    }
+   ],
+   "excerpt": "If tbe Moon occupy the 2nd house from the ascendant."
+  },
+  {
+   "row": "Moon",
+   "col": "3",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 4
+    }
+   ],
+   "excerpt": "Jf she occupy tbe 3rd house, he will delight in torturing animals."
+  },
+  {
+   "row": "Moon",
+   "col": "4",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 4
+    }
+   ],
+   "excerpt": "If she occupy the 4th or the 5th house.",
+   "covers_houses": [
+    4,
+    5
+   ]
+  },
+  {
+   "row": "Moon",
+   "col": "5",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 4
+    }
+   ],
+   "excerpt": "If she occupy the 4th or the 5th house.",
+   "covers_houses": [
+    4,
+    5
+   ]
+  },
+  {
+   "row": "Moon",
+   "col": "6",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 4
+    }
+   ],
+   "excerpt": "If she occupy the 6th house."
+  },
+  {
+   "row": "Moon",
+   "col": "7",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 5
+    }
+   ],
+   "excerpt": "If at the time of birth the Moon occupy the 7th house from the ascendant."
+  },
+  {
+   "row": "Moon",
+   "col": "8",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 5
+    }
+   ],
+   "excerpt": "Jf she occupy the 8th house, the person will be fickle-minded and will be afflicted with diseases."
+  },
+  {
+   "row": "Moon",
+   "col": "9",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 5
+    }
+   ],
+   "excerpt": "If she occupy the 9th house."
+  },
+  {
+   "row": "Moon",
+   "col": "10",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 5
+    }
+   ],
+   "excerpt": "rf she occupy the 10th bouse, he will be successful in all places."
+  },
+  {
+   "row": "Moon",
+   "col": "11",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 5
+    }
+   ],
+   "excerpt": "If she occupy the t Hh house."
+  },
+  {
+   "row": "Moon",
+   "col": "12",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 5
+    }
+   ],
+   "excerpt": "tbe person will be famous and will gain wealth and ~be like and if she occupy the 12th house from the ascend.nt, -the person will be wicked and of defective limbs."
+  },
+  {
+   "row": "Mars",
+   "col": "1",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 6
+    }
+   ],
+   "excerpt": "If at the time of birth of a person Mars occupy the ascendant, StIch person will possess a wounded body;"
+  },
+  {
+   "row": "Mars",
+   "col": "2",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 6
+    }
+   ],
+   "excerpt": "if he occupy the 2nd house, the person will eat low meals;"
+  },
+  {
+   "row": "Mars",
+   "col": "3",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 6
+    },
+    {
+     "chapter": 20,
+     "verse": 2
+    }
+   ],
+   "excerpt": "If at the time of birth, the Sun occupy the 3ed hriuse fronl the Ascendant, the person will be intelligcnt and powerful;",
+   "via_reference": {
+    "row": "Sun",
+    "col": "3"
+   },
+   "note": "Composed by the source's own rule: 'Mars in the remaining houses produces the same effects as Sun in those places'"
+  },
+  {
+   "row": "Mars",
+   "col": "4",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 6
+    },
+    {
+     "chapter": 20,
+     "verse": 2
+    }
+   ],
+   "excerpt": "if he occupy tbe 4th house.",
+   "via_reference": {
+    "row": "Sun",
+    "col": "4"
+   },
+   "note": "Composed by the source's own rule: 'Mars in the remaining houses produces the same effects as Sun in those places'"
+  },
+  {
+   "row": "Mars",
+   "col": "5",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 6
+    },
+    {
+     "chapter": 20,
+     "verse": 2
+    }
+   ],
+   "excerpt": "if he occupy the 5th house.",
+   "via_reference": {
+    "row": "Sun",
+    "col": "5"
+   },
+   "note": "Composed by the source's own rule: 'Mars in the remaining houses produces the same effects as Sun in those places'"
+  },
+  {
+   "row": "Mars",
+   "col": "6",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 6
+    },
+    {
+     "chapter": 20,
+     "verse": 2
+    }
+   ],
+   "excerpt": "he will have no sons and will be poor and if'-he occupy the 6th house.",
+   "via_reference": {
+    "row": "Sun",
+    "col": "6"
+   },
+   "note": "Composed by the source's own rule: 'Mars in the remaining houses produces the same effects as Sun in those places'"
+  },
+  {
+   "row": "Mars",
+   "col": "7",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 6
+    },
+    {
+     "chapter": 20,
+     "verse": 3
+    }
+   ],
+   "excerpt": "If, at the time of birth of a person, the Sun occupy the 7th house from the Ascendant, the person will suffer disgrace at the hands of women ;",
+   "via_reference": {
+    "row": "Sun",
+    "col": "7"
+   },
+   "note": "Composed by the source's own rule: 'Mars in the remaining houses produces the same effects as Sun in those places'"
+  },
+  {
+   "row": "Mars",
+   "col": "8",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 6
+    },
+    {
+     "chapter": 20,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if he occupy the 8th house.",
+   "via_reference": {
+    "row": "Sun",
+    "col": "8"
+   },
+   "note": "Composed by the source's own rule: 'Mars in the remaining houses produces the same effects as Sun in those places'"
+  },
+  {
+   "row": "Mars",
+   "col": "9",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 6
+    }
+   ],
+   "excerpt": "if he occupy the 9th house, the person will be a sinner;"
+  },
+  {
+   "row": "Mars",
+   "col": "10",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 6
+    },
+    {
+     "chapter": 20,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if he occupy the 10th bouse, the person will live in comfort and will be powerful;",
+   "via_reference": {
+    "row": "Sun",
+    "col": "10"
+   },
+   "note": "Composed by the source's own rule: 'Mars in the remaining houses produces the same effects as Sun in those places'"
+  },
+  {
+   "row": "Mars",
+   "col": "11",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 6
+    },
+    {
+     "chapter": 20,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if the occupy the t lth house, the person will be very rich and if be occupy the 12th house he will become an apostate.",
+   "via_reference": {
+    "row": "Sun",
+    "col": "11"
+   },
+   "note": "Composed by the source's own rule: 'Mars in the remaining houses produces the same effects as Sun in those places'"
+  },
+  {
+   "row": "Mars",
+   "col": "12",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 6
+    },
+    {
+     "chapter": 20,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if the occupy the t lth house, the person will be very rich and if be occupy the 12th house he will become an apostate.",
+   "via_reference": {
+    "row": "Sun",
+    "col": "12"
+   },
+   "note": "Composed by the source's own rule: 'Mars in the remaining houses produces the same effects as Sun in those places'"
+  },
+  {
+   "row": "Mercury",
+   "col": "1",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 6
+    }
+   ],
+   "excerpt": "Again, if at the time of birth of a person Mer~Uty occupy the ascendant, such person will be learned."
+  },
+  {
+   "row": "Mercury",
+   "col": "2",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 6
+    }
+   ],
+   "excerpt": "If h\\: occupy the 2nd house."
+  },
+  {
+   "row": "Mercury",
+   "col": "3",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 6
+    }
+   ],
+   "excerpt": "If he occupy the 3rd house the person will be very wicked."
+  },
+  {
+   "row": "Mercury",
+   "col": "4",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 6
+    }
+   ],
+   "excerpt": "If he occupy the 4th house."
+  },
+  {
+   "row": "Mercury",
+   "col": "5",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 6
+    }
+   ],
+   "excerpt": "xx If he ,occupy the 5th house, he will be a minister under a king ;"
+  },
+  {
+   "row": "Mercury",
+   "col": "6",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 6
+    }
+   ],
+   "excerpt": "if he occupy the 6th bouse, he will bave no enemies."
+  },
+  {
+   "row": "Mercury",
+   "col": "7",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 6
+    }
+   ],
+   "excerpt": "If he oc<::upy the 7th bouse, be will possess a knowledge of the law."
+  },
+  {
+   "row": "Mercury",
+   "col": "8",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 6
+    }
+   ],
+   "excerpt": "If ,he occupy the 8th bouse, the person will be renowned for his virtues."
+  },
+  {
+   "row": "Mercury",
+   "col": "9",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 6
+    }
+   ],
+   "excerpt": "If be occupy the 9th."
+  },
+  {
+   "row": "Mercury",
+   "col": "10",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 6
+    },
+    {
+     "chapter": 20,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if he occupy the 10th bouse, the person will live in comfort and will be powerful;",
+   "via_reference": {
+    "row": "Sun",
+    "col": "10"
+   },
+   "note": "Composed by the source's own rule: 'Mercury in the remaining houses produces the same effects as Sun in those places'"
+  },
+  {
+   "row": "Mercury",
+   "col": "11",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 6
+    },
+    {
+     "chapter": 20,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if the occupy the t lth house, the person will be very rich and if be occupy the 12th house he will become an apostate.",
+   "via_reference": {
+    "row": "Sun",
+    "col": "11"
+   },
+   "note": "Composed by the source's own rule: 'Mercury in the remaining houses produces the same effects as Sun in those places'"
+  },
+  {
+   "row": "Mercury",
+   "col": "12",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 6
+    },
+    {
+     "chapter": 20,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if the occupy the t lth house, the person will be very rich and if be occupy the 12th house he will become an apostate.",
+   "via_reference": {
+    "row": "Sun",
+    "col": "12"
+   },
+   "note": "Composed by the source's own rule: 'Mercury in the remaining houses produces the same effects as Sun in those places'"
+  },
+  {
+   "row": "Jupiter",
+   "col": "1",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 7
+    }
+   ],
+   "excerpt": "Jupiter occupying the 1st from the ascendant: learned"
+  },
+  {
+   "row": "Jupiter",
+   "col": "2",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 7
+    }
+   ],
+   "excerpt": "Jupiter occupying the 2nd from the ascendant: good speech"
+  },
+  {
+   "row": "Jupiter",
+   "col": "3",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 7
+    }
+   ],
+   "excerpt": "Jupiter occupying the 3rd from the ascendant: a niggard"
+  },
+  {
+   "row": "Jupiter",
+   "col": "4",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 7
+    }
+   ],
+   "excerpt": "Jupiter occupying the 4th from the ascendant: live in comfort"
+  },
+  {
+   "row": "Jupiter",
+   "col": "5",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 7
+    }
+   ],
+   "excerpt": "Jupiter occupying the 5th from the ascendant: ' be intelligent"
+  },
+  {
+   "row": "Jupiter",
+   "col": "6",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 7
+    }
+   ],
+   "excerpt": "Jupiter occupying the 6th from the ascendant: have no enemies"
+  },
+  {
+   "row": "Jupiter",
+   "col": "7",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 7
+    }
+   ],
+   "excerpt": "Jupiter occupying the 7th from the ascendant: ' possess virtues superior to those of his father"
+  },
+  {
+   "row": "Jupiter",
+   "col": "8",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 7
+    }
+   ],
+   "excerpt": "Jupiter occupying the 8th from the ascendant: do deeds unsuited to his rank in life"
+  },
+  {
+   "row": "Jupiter",
+   "col": "9",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 7
+    }
+   ],
+   "excerpt": "Jupiter occupying the 9th from the ascendant: a devotee"
+  },
+  {
+   "row": "Jupiter",
+   "col": "10",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 7
+    }
+   ],
+   "excerpt": "Jupiter occupying the 10th from the ascendant: posscssed of weaith"
+  },
+  {
+   "row": "Jupiter",
+   "col": "11",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 7
+    }
+   ],
+   "excerpt": "Jupiter occupying the 11th from the ascendant: full of gain"
+  },
+  {
+   "row": "Jupiter",
+   "col": "12",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 7
+    }
+   ],
+   "excerpt": "Jupiter occupying the 12th from the ascendant: wickl!d"
+  },
+  {
+   "row": "Venus",
+   "col": "1",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 8
+    }
+   ],
+   "excerpt": "rf at the time of birth of a person Venus occupy the asee'ndant, such person will be skilled in acts of love and will live in great comfort;"
+  },
+  {
+   "row": "Venus",
+   "col": "2",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 8
+    },
+    {
+     "chapter": 20,
+     "verse": 7
+    }
+   ],
+   "excerpt": "Jupiter occupying the 2nd from the ascendant: good speech",
+   "via_reference": {
+    "row": "Jupiter",
+    "col": "2"
+   },
+   "note": "Composed by the source's own rule: 'Venus in the remaining houses produces the same effects as Jupiter in those places'"
+  },
+  {
+   "row": "Venus",
+   "col": "3",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 8
+    },
+    {
+     "chapter": 20,
+     "verse": 7
+    }
+   ],
+   "excerpt": "Jupiter occupying the 3rd from the ascendant: a niggard",
+   "via_reference": {
+    "row": "Jupiter",
+    "col": "3"
+   },
+   "note": "Composed by the source's own rule: 'Venus in the remaining houses produces the same effects as Jupiter in those places'"
+  },
+  {
+   "row": "Venus",
+   "col": "4",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 8
+    },
+    {
+     "chapter": 20,
+     "verse": 7
+    }
+   ],
+   "excerpt": "Jupiter occupying the 4th from the ascendant: live in comfort",
+   "via_reference": {
+    "row": "Jupiter",
+    "col": "4"
+   },
+   "note": "Composed by the source's own rule: 'Venus in the remaining houses produces the same effects as Jupiter in those places'"
+  },
+  {
+   "row": "Venus",
+   "col": "5",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 8
+    }
+   ],
+   "excerpt": "if Venus occupy the 5th house tbe person will live in comfort"
+  },
+  {
+   "row": "Venus",
+   "col": "6",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 8
+    },
+    {
+     "chapter": 20,
+     "verse": 7
+    }
+   ],
+   "excerpt": "Jupiter occupying the 6th from the ascendant: have no enemies",
+   "via_reference": {
+    "row": "Jupiter",
+    "col": "6"
+   },
+   "note": "Composed by the source's own rule: 'Venus in the remaining houses produces the same effects as Jupiter in those places'"
+  },
+  {
+   "row": "Venus",
+   "col": "7",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 8
+    }
+   ],
+   "excerpt": "if Venus occupy the 7th house, the person will be fond of quarrels and of sexual union;"
+  },
+  {
+   "row": "Venus",
+   "col": "8",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 8
+    },
+    {
+     "chapter": 20,
+     "verse": 7
+    }
+   ],
+   "excerpt": "Jupiter occupying the 8th from the ascendant: do deeds unsuited to his rank in life",
+   "via_reference": {
+    "row": "Jupiter",
+    "col": "8"
+   },
+   "note": "Composed by the source's own rule: 'Venus in the remaining houses produces the same effects as Jupiter in those places'"
+  },
+  {
+   "row": "Venus",
+   "col": "9",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 8
+    },
+    {
+     "chapter": 20,
+     "verse": 7
+    }
+   ],
+   "excerpt": "Jupiter occupying the 9th from the ascendant: a devotee",
+   "via_reference": {
+    "row": "Jupiter",
+    "col": "9"
+   },
+   "note": "Composed by the source's own rule: 'Venus in the remaining houses produces the same effects as Jupiter in those places'"
+  },
+  {
+   "row": "Venus",
+   "col": "10",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 8
+    },
+    {
+     "chapter": 20,
+     "verse": 7
+    }
+   ],
+   "excerpt": "Jupiter occupying the 10th from the ascendant: posscssed of weaith",
+   "via_reference": {
+    "row": "Jupiter",
+    "col": "10"
+   },
+   "note": "Composed by the source's own rule: 'Venus in the remaining houses produces the same effects as Jupiter in those places'"
+  },
+  {
+   "row": "Venus",
+   "col": "11",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 8
+    },
+    {
+     "chapter": 20,
+     "verse": 7
+    }
+   ],
+   "excerpt": "Jupiter occupying the 11th from the ascendant: full of gain",
+   "via_reference": {
+    "row": "Jupiter",
+    "col": "11"
+   },
+   "note": "Composed by the source's own rule: 'Venus in the remaining houses produces the same effects as Jupiter in those places'"
+  },
+  {
+   "row": "Venus",
+   "col": "12",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 8
+    },
+    {
+     "chapter": 20,
+     "verse": 7
+    }
+   ],
+   "excerpt": "Jupiter occupying the 12th from the ascendant: wickl!d",
+   "via_reference": {
+    "row": "Jupiter",
+    "col": "12"
+   },
+   "note": "Composed by the source's own rule: 'Venus in the remaining houses produces the same effects as Jupiter in those places'"
+  },
+  {
+   "row": "Saturn",
+   "col": "1",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 9
+    }
+   ],
+   "excerpt": "If at the time of birth of a person Saturn occupy the ascendant, such person will be poor, will be afflicted with diseases and sexual passion, will be dirty, will suffer much from dis~ases while young,."
+  },
+  {
+   "row": "Saturn",
+   "col": "2",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 9
+    },
+    {
+     "chapter": 20,
+     "verse": 1
+    }
+   ],
+   "excerpt": "If the Sun occupy tbe 2nd house~fronl the Ascend·ant, the person will be greatly rich, wilf\"-havc his wealth carried away by the king and will $;uffcr from diseases-in the face.",
+   "via_reference": {
+    "row": "Sun",
+    "col": "2"
+   },
+   "note": "Composed by the source's own rule: 'Saturn in the remaining houses produces the same effects as Sun in those places'"
+  },
+  {
+   "row": "Saturn",
+   "col": "3",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 9
+    },
+    {
+     "chapter": 20,
+     "verse": 2
+    }
+   ],
+   "excerpt": "If at the time of birth, the Sun occupy the 3ed hriuse fronl the Ascendant, the person will be intelligcnt and powerful;",
+   "via_reference": {
+    "row": "Sun",
+    "col": "3"
+   },
+   "note": "Composed by the source's own rule: 'Saturn in the remaining houses produces the same effects as Sun in those places'"
+  },
+  {
+   "row": "Saturn",
+   "col": "4",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 9
+    },
+    {
+     "chapter": 20,
+     "verse": 2
+    }
+   ],
+   "excerpt": "if he occupy tbe 4th house.",
+   "via_reference": {
+    "row": "Sun",
+    "col": "4"
+   },
+   "note": "Composed by the source's own rule: 'Saturn in the remaining houses produces the same effects as Sun in those places'"
+  },
+  {
+   "row": "Saturn",
+   "col": "5",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 9
+    },
+    {
+     "chapter": 20,
+     "verse": 2
+    }
+   ],
+   "excerpt": "if he occupy the 5th house.",
+   "via_reference": {
+    "row": "Sun",
+    "col": "5"
+   },
+   "note": "Composed by the source's own rule: 'Saturn in the remaining houses produces the same effects as Sun in those places'"
+  },
+  {
+   "row": "Saturn",
+   "col": "6",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 9
+    },
+    {
+     "chapter": 20,
+     "verse": 2
+    }
+   ],
+   "excerpt": "he will have no sons and will be poor and if'-he occupy the 6th house.",
+   "via_reference": {
+    "row": "Sun",
+    "col": "6"
+   },
+   "note": "Composed by the source's own rule: 'Saturn in the remaining houses produces the same effects as Sun in those places'"
+  },
+  {
+   "row": "Saturn",
+   "col": "7",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 9
+    },
+    {
+     "chapter": 20,
+     "verse": 3
+    }
+   ],
+   "excerpt": "If, at the time of birth of a person, the Sun occupy the 7th house from the Ascendant, the person will suffer disgrace at the hands of women ;",
+   "via_reference": {
+    "row": "Sun",
+    "col": "7"
+   },
+   "note": "Composed by the source's own rule: 'Saturn in the remaining houses produces the same effects as Sun in those places'"
+  },
+  {
+   "row": "Saturn",
+   "col": "8",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 9
+    },
+    {
+     "chapter": 20,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if he occupy the 8th house.",
+   "via_reference": {
+    "row": "Sun",
+    "col": "8"
+   },
+   "note": "Composed by the source's own rule: 'Saturn in the remaining houses produces the same effects as Sun in those places'"
+  },
+  {
+   "row": "Saturn",
+   "col": "9",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 9
+    },
+    {
+     "chapter": 20,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if be occupy the 9th bouse, the person will bave sons, wealth and comfort (a) ;",
+   "via_reference": {
+    "row": "Sun",
+    "col": "9"
+   },
+   "note": "Composed by the source's own rule: 'Saturn in the remaining houses produces the same effects as Sun in those places'"
+  },
+  {
+   "row": "Saturn",
+   "col": "10",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 9
+    },
+    {
+     "chapter": 20,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if he occupy the 10th bouse, the person will live in comfort and will be powerful;",
+   "via_reference": {
+    "row": "Sun",
+    "col": "10"
+   },
+   "note": "Composed by the source's own rule: 'Saturn in the remaining houses produces the same effects as Sun in those places'"
+  },
+  {
+   "row": "Saturn",
+   "col": "11",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 9
+    },
+    {
+     "chapter": 20,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if the occupy the t lth house, the person will be very rich and if be occupy the 12th house he will become an apostate.",
+   "via_reference": {
+    "row": "Sun",
+    "col": "11"
+   },
+   "note": "Composed by the source's own rule: 'Saturn in the remaining houses produces the same effects as Sun in those places'"
+  },
+  {
+   "row": "Saturn",
+   "col": "12",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 9
+    },
+    {
+     "chapter": 20,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if the occupy the t lth house, the person will be very rich and if be occupy the 12th house he will become an apostate.",
+   "via_reference": {
+    "row": "Sun",
+    "col": "12"
+   },
+   "note": "Composed by the source's own rule: 'Saturn in the remaining houses produces the same effects as Sun in those places'"
+  }
+ ],
+ "rules": [
+  {
+   "id": "PH-1",
+   "rule": "In judging planets in houses the house's nature counts: friendly/own/exalted signs promote the bhava, inimical/debilitated reduce it (Satyachariar; Garga)",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 10
+    }
+   ]
+  },
+  {
+   "id": "PH-2",
+   "rule": "Dignity quantification: exaltation full, moolatrikona 3/4, own house 1/2, friendly 1/4, inimical < 1/4, depression or combust nil",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 11
+    }
+   ]
+  }
+ ],
+ "notes": "Rows Sun-Saturn (Moon via Ch 20 v4-5). Mars, Mercury (9-12), Venus and Saturn are completed by the translation's own reference rule — such cells carry via_reference and cite both verses. Jupiter v7 is a positional 12-item list. Rahu/Ketu: no bhava-results exist in this text (gap)."
+}

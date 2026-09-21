@@ -1,0 +1,321 @@
+{
+ "matrix": "house_lord_rules",
+ "version": "matrices-1.0.0",
+ "axes": {
+  "rows": [
+   "rule"
+  ],
+  "columns": [
+   "condition",
+   "effect"
+  ]
+ },
+ "cells": [
+  {
+   "id": "HL-1",
+   "houses": [
+    1
+   ],
+   "condition": "The lord of the ascendant, or Jupiter, or Mercury occupies or aspects the ascendant",
+   "effect": "The ascendant becomes powerful (and not so by other planets)",
+   "classification": "strength",
+   "citations": [
+    {
+     "chapter": 1,
+     "verse": 19
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "id": "HL-2",
+   "houses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "condition": "A house is powerful and its lord is powerful",
+   "effect": "The objects signified by the house are promoted; if either is weak, they are reduced",
+   "classification": "neutral",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 20
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "id": "HL-3",
+   "houses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "condition": "A benefic occupies a bhava / a malefic occupies a bhava",
+   "effect": "Benefics promote the bhava and malefics reduce it — reversed in the 6th, 8th, 12th",
+   "classification": "neutral",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 10
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "id": "HL-4",
+   "houses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "condition": "Dignity of the occupying planet: exalted / moolatrikona / own / friendly / inimical / debilitated-or-combust",
+   "effect": "Effects full / three-quarters / one-half / one-quarter / less than one-quarter / wholly fail",
+   "classification": "table",
+   "citations": [
+    {
+     "chapter": 20,
+     "verse": 11
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "id": "HL-5",
+   "houses": [
+    10
+   ],
+   "condition": "The planet occupying the 10th from Lagna or Moon (Sun-father, Moon-mother, Mars-enemy, Mercury-friend, Jupiter-brother, Venus-wife, Saturn-servant); and the lord of the Navamsa occupied by the lord of the 10th",
+   "effect": "Source of wealth and the avocation follow that planet",
+   "classification": "table",
+   "citations": [
+    {
+     "chapter": 10,
+     "verse": 1
+    },
+    {
+     "chapter": 10,
+     "verse": 2
+    },
+    {
+     "chapter": 10,
+     "verse": 3
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "id": "HL-6",
+   "houses": [
+    10
+   ],
+   "condition": "The yoga planet occupies a friendly / inimical / own / exaltation sign",
+   "effect": "Wealth through a friend / an enemy / that house / the native's own powers",
+   "classification": "tend",
+   "citations": [
+    {
+     "chapter": 10,
+     "verse": 4
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "id": "HL-7",
+   "houses": [
+    1,
+    4,
+    7,
+    10
+   ],
+   "condition": "Jupiter, the lord of the Moon's sign, or the lord of the ascendant occupies a Kendra",
+   "effect": "The native is happy in his manhood",
+   "classification": "strength",
+   "citations": [
+    {
+     "chapter": 22,
+     "verse": 5
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "id": "HL-8",
+   "houses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "condition": "Vargottama lagna-navamsa or Moon; benefics in the 2nd from the Sun; Kendras empty of planets",
+   "effect": "The native is happy and prosperous",
+   "classification": "strength",
+   "citations": [
+    {
+     "chapter": 22,
+     "verse": 4
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "id": "HL-9",
+   "houses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "condition": "Planets in own/exalted/moolatrikona signs in Kendras are Karaka to one another; a planet in the 10th from another is its special Karaka",
+   "effect": "Karaka-planet configurations",
+   "classification": "neutral",
+   "citations": [
+    {
+     "chapter": 22,
+     "verse": 1
+    },
+    {
+     "chapter": 22,
+     "verse": 2
+    },
+    {
+     "chapter": 22,
+     "verse": 3
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "id": "HL-10",
+   "houses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "condition": "Charts in which 'the signs Aries, Cancer and Leo are occupied by their lords' (and cognate patterns)",
+   "effect": "Birth of kings (if born in a king's family) / richness otherwise",
+   "classification": "strength",
+   "citations": [
+    {
+     "chapter": 11,
+     "verse": 10
+    },
+    {
+     "chapter": 11,
+     "verse": 15
+    },
+    {
+     "chapter": 11,
+     "verse": 16
+    },
+    {
+     "chapter": 11,
+     "verse": 17
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "id": "HL-11",
+   "houses": [
+    1,
+    10
+   ],
+   "condition": "Dasa of a Raja-yoga planet in the 10th or Lagna, or of the most powerful planet; vs dasa of planets in inimical or depression signs",
+   "effect": "Kingdom obtained in the former, lost in the latter",
+   "classification": "tend",
+   "citations": [
+    {
+     "chapter": 11,
+     "verse": 19
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "id": "HL-12",
+   "houses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "condition": "The dasa lord in a Prishtodaya / Sirodaya sign; Sun and Mars act on sign entry, Jupiter and Venus mid-sign, Saturn and Moon before leaving, Mercury throughout",
+   "effect": "Effects manifest late in the period / at its start; planets time their effects within a sign",
+   "classification": "neutral",
+   "citations": [
+    {
+     "chapter": 22,
+     "verse": 5
+    },
+    {
+     "chapter": 22,
+     "verse": 6
+    }
+   ],
+   "status": "draft"
+  }
+ ],
+ "notes": "Brihat Jataka states lord-arrangement doctrine as PRINCIPLES (house+lord power, dignity grading, benefic/malefic) plus specific Raja-yoga charts — not a systematic 12x12 'lord of N in house M' table. That table belongs to later texts and is NOT filled here (charter: no chapter, no doctrine). Each rule is a draft awaiting Scholar Reviewer verification."
+}

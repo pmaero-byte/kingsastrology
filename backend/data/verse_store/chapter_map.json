@@ -1,0 +1,174 @@
+{
+ "version": "chapter-map-1.0.0",
+ "source": "store chapters.json cross-checked against the canonical 28-chapter list (Wikipedia 'Brihat Jataka', retrieved 2026-09-21; English titles from the translation held in sourcetext/, itself a public-domain open-internet text)",
+ "chapters": [
+  {
+   "store_chapter": 1,
+   "sanskrit_name": "Samjnadhvaya (untitled; opens with a prayer, defines terms)",
+   "store_title": "Definitions and Elementary Principles (Zodiacal)",
+   "verse_count": 19
+  },
+  {
+   "store_chapter": 2,
+   "sanskrit_name": "Grahayoni Prabheda",
+   "store_title": "Definitions and Elementary Principles (Planetary)",
+   "verse_count": 21
+  },
+  {
+   "store_chapter": 3,
+   "sanskrit_name": "Viyoni Janama Adhyaya",
+   "store_title": "Viyoniprada (Animal and Vegetable Horoscopy)",
+   "verse_count": 7
+  },
+  {
+   "store_chapter": 4,
+   "sanskrit_name": "Nisheka",
+   "store_title": "Nisheka Kala (Time of Conception)",
+   "verse_count": 23
+  },
+  {
+   "store_chapter": 5,
+   "sanskrit_name": "Janama Kal Lakshana",
+   "store_title": "Janma-kala (Matters Connected with Birth Time)",
+   "verse_count": 30
+  },
+  {
+   "store_chapter": 6,
+   "sanskrit_name": "Balarishta",
+   "store_title": "Balarishta (Early Death)",
+   "verse_count": 26
+  },
+  {
+   "store_chapter": 7,
+   "sanskrit_name": "Ayurdaya",
+   "store_title": "Ayurdaya (Determination of the Length of Life)",
+   "verse_count": 39
+  },
+  {
+   "store_chapter": 8,
+   "sanskrit_name": "Dasantradasa",
+   "store_title": "Dasas and Antardasas (Planetary Divisions of Life)",
+   "verse_count": 25
+  },
+  {
+   "store_chapter": 9,
+   "sanskrit_name": "Ashtaka Varga",
+   "store_title": "Ashtakavargas",
+   "verse_count": 34
+  },
+  {
+   "store_chapter": 10,
+   "sanskrit_name": "Karamjeeva",
+   "store_title": "Avocation (Karmajiva)",
+   "verse_count": 6
+  },
+  {
+   "store_chapter": 11,
+   "sanskrit_name": "Raja Yoga",
+   "store_title": "Raja Yoga (Birth of Kings)",
+   "verse_count": 20
+  },
+  {
+   "store_chapter": 12,
+   "sanskrit_name": "Nabhasa Yoga",
+   "store_title": "Nabhasa Yogas",
+   "verse_count": 19
+  },
+  {
+   "store_chapter": 13,
+   "sanskrit_name": "Chandra Yogadhyaya",
+   "store_title": "Chandra (Lunar) Yogas",
+   "verse_count": 13
+  },
+  {
+   "store_chapter": 14,
+   "sanskrit_name": "Dwigraha Yogadhyaya",
+   "store_title": "Double Planetary Yogas",
+   "verse_count": 5
+  },
+  {
+   "store_chapter": 15,
+   "sanskrit_name": "Pravrajya Yoga",
+   "store_title": "Ascetic Yogas (Pravrajya)",
+   "verse_count": 4
+  },
+  {
+   "store_chapter": 16,
+   "sanskrit_name": "Rikshasiladhyaya",
+   "store_title": "Nakshatras (Moon in the Asterisms)",
+   "verse_count": 14
+  },
+  {
+   "store_chapter": 17,
+   "sanskrit_name": "Rasisiladhyaya",
+   "store_title": "Moon in the Several Signs",
+   "verse_count": 13
+  },
+  {
+   "store_chapter": 18,
+   "sanskrit_name": "Rasisiladhyaya",
+   "store_title": "Sun, Mars and other Planets in the Several Signs",
+   "verse_count": 21
+  },
+  {
+   "store_chapter": 19,
+   "sanskrit_name": "Drishti Phaladhyaya",
+   "store_title": "Planetary Aspects (Drishti)",
+   "verse_count": 9
+  },
+  {
+   "store_chapter": 20,
+   "sanskrit_name": "Bhavadhyaya",
+   "store_title": "Planets in the Bhavas",
+   "verse_count": 12
+  },
+  {
+   "store_chapter": 21,
+   "sanskrit_name": "Asrya Yogadhyaya",
+   "store_title": "Planets in the Several Vargas",
+   "verse_count": 10
+  },
+  {
+   "store_chapter": 22,
+   "sanskrit_name": "Prakirnadhyaya",
+   "store_title": "Miscellaneous Yogas",
+   "verse_count": 6
+  },
+  {
+   "store_chapter": 23,
+   "sanskrit_name": "Anishtadhyaya",
+   "store_title": "Malefic Yogas",
+   "verse_count": 18
+  },
+  {
+   "store_chapter": 24,
+   "sanskrit_name": "Stree Jatakadhyaya",
+   "store_title": "Horoscopy of Women (Strijataka)",
+   "verse_count": 16
+  },
+  {
+   "store_chapter": 25,
+   "sanskrit_name": "Niryanadhyaya",
+   "store_title": "Death",
+   "verse_count": 14
+  },
+  {
+   "store_chapter": 26,
+   "sanskrit_name": "Nasta Jataka",
+   "store_title": "Lost Horoscopes (Apavatika)",
+   "verse_count": 24
+  },
+  {
+   "store_chapter": 27,
+   "sanskrit_name": "Drekkanadhyaya",
+   "store_title": "Drekkanas",
+   "verse_count": 35
+  }
+ ],
+ "known_divergences": [
+  "This translation contains chapters 1-27 only; chapter 28 (Upasamharadhyaya, the concluding chapter) is absent from this edition.",
+  "docs/01-source-text-foundation.md numbers chapters differently from the translation (its ch.2/3 split, ch.27 Prasna and ch.28 Nisheka-Adhana do not exist in this text). Store numbering is canonical for all citations.",
+  "Ch 18 contains a misnumbered record: Saturn's first verse is stored as v11 (duplicate number with Mercury's v11). Recorded, not silently fixed."
+ ],
+ "status": "pending Scholar Reviewer sign-off"
+}

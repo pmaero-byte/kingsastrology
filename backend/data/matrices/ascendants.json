@@ -1,0 +1,612 @@
+{
+ "matrix": "ascendants",
+ "version": "matrices-1.0.0",
+ "axes": {
+  "rows": [
+   "lagna"
+  ],
+  "columns": [
+   "Aries",
+   "Taurus",
+   "Gemini",
+   "Cancer",
+   "Leo",
+   "Virgo",
+   "Libra",
+   "Scorpio",
+   "Sagittarius",
+   "Capricorn",
+   "Aquarius",
+   "Pisces"
+  ]
+ },
+ "cells": [
+  {
+   "row": "lagna",
+   "col": "Aries",
+   "status": "derived",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 20
+    },
+    {
+     "chapter": 1,
+     "verse": 6
+    }
+   ],
+   "excerpt": "Effects similar to those described for the several signs of the Zodiac when the Moon OCC\\lpics them and when she is aspected by planets are mentioned also for the rising sign; nay- more effects are due to the rising sign and to the 2nd, 3rd and other Mmo8 (bowes); if the houses be powerful and if their lords be also powerful, the o~jects signified by them will be promoted, and reduced, if weak.",
+   "derivation": "Brihat Jataka has no standalone per-ascendant chapter. This cell is COMPOSED from the source's own rules: (1) Ch 18 v20 — the sign effects described for the Moon apply also to the rising sign when it and its lord are powerful; (2) Ch 1 sign qualities; (3) Ch 20 lagna sub-cases; (4) Ch 5 v13/v20 places and directions.",
+   "sign_qualities_ref": {
+    "matrix": "signs",
+    "col": "Aries"
+   },
+   "moon_sign_effects_ref": {
+    "matrix": "planet_in_sign",
+    "row": "Moon",
+    "col": "Aries"
+   },
+   "lagna_subcases": [
+    {
+     "excerpt": "but if Aries be '.the rising sign and the Sun occupy it, the person will be rich and afflicted with diseases of the eye;",
+     "citations": [
+      {
+       "chapter": 20,
+       "verse": 1
+      }
+     ]
+    }
+   ],
+   "delivery_room_direction": "eastern",
+   "delivery_room_citations": [
+    {
+     "chapter": 5,
+     "verse": 20
+    }
+   ],
+   "places_excerpt": null,
+   "places_citations": [
+    {
+     "chapter": 5,
+     "verse": 13
+    }
+   ],
+   "flags": [
+    "ocr_suspect"
+   ]
+  },
+  {
+   "row": "lagna",
+   "col": "Taurus",
+   "status": "derived",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 20
+    },
+    {
+     "chapter": 1,
+     "verse": 6
+    }
+   ],
+   "excerpt": "Effects similar to those described for the several signs of the Zodiac when the Moon OCC\\lpics them and when she is aspected by planets are mentioned also for the rising sign; nay- more effects are due to the rising sign and to the 2nd, 3rd and other Mmo8 (bowes); if the houses be powerful and if their lords be also powerful, the o~jects signified by them will be promoted, and reduced, if weak.",
+   "derivation": "Brihat Jataka has no standalone per-ascendant chapter. This cell is COMPOSED from the source's own rules: (1) Ch 18 v20 — the sign effects described for the Moon apply also to the rising sign when it and its lord are powerful; (2) Ch 1 sign qualities; (3) Ch 20 lagna sub-cases; (4) Ch 5 v13/v20 places and directions.",
+   "sign_qualities_ref": {
+    "matrix": "signs",
+    "col": "Taurus"
+   },
+   "moon_sign_effects_ref": {
+    "matrix": "planet_in_sign",
+    "row": "Moon",
+    "col": "Taurus"
+   },
+   "lagna_subcases": [],
+   "delivery_room_direction": "western",
+   "delivery_room_citations": [
+    {
+     "chapter": 5,
+     "verse": 20
+    }
+   ],
+   "places_excerpt": null,
+   "places_citations": [
+    {
+     "chapter": 5,
+     "verse": 13
+    }
+   ],
+   "flags": [
+    "ocr_suspect"
+   ]
+  },
+  {
+   "row": "lagna",
+   "col": "Gemini",
+   "status": "derived",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 20
+    },
+    {
+     "chapter": 1,
+     "verse": 6
+    }
+   ],
+   "excerpt": "Effects similar to those described for the several signs of the Zodiac when the Moon OCC\\lpics them and when she is aspected by planets are mentioned also for the rising sign; nay- more effects are due to the rising sign and to the 2nd, 3rd and other Mmo8 (bowes); if the houses be powerful and if their lords be also powerful, the o~jects signified by them will be promoted, and reduced, if weak.",
+   "derivation": "Brihat Jataka has no standalone per-ascendant chapter. This cell is COMPOSED from the source's own rules: (1) Ch 18 v20 — the sign effects described for the Moon apply also to the rising sign when it and its lord are powerful; (2) Ch 1 sign qualities; (3) Ch 20 lagna sub-cases; (4) Ch 5 v13/v20 places and directions.",
+   "sign_qualities_ref": {
+    "matrix": "signs",
+    "col": "Gemini"
+   },
+   "moon_sign_effects_ref": {
+    "matrix": "planet_in_sign",
+    "row": "Moon",
+    "col": "Gemini"
+   },
+   "lagna_subcases": [],
+   "delivery_room_direction": "northern",
+   "delivery_room_citations": [
+    {
+     "chapter": 5,
+     "verse": 20
+    }
+   ],
+   "places_excerpt": null,
+   "places_citations": [
+    {
+     "chapter": 5,
+     "verse": 13
+    }
+   ],
+   "flags": [
+    "ocr_suspect"
+   ]
+  },
+  {
+   "row": "lagna",
+   "col": "Cancer",
+   "status": "derived",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 20
+    },
+    {
+     "chapter": 1,
+     "verse": 6
+    }
+   ],
+   "excerpt": "Effects similar to those described for the several signs of the Zodiac when the Moon OCC\\lpics them and when she is aspected by planets are mentioned also for the rising sign; nay- more effects are due to the rising sign and to the 2nd, 3rd and other Mmo8 (bowes); if the houses be powerful and if their lords be also powerful, the o~jects signified by them will be promoted, and reduced, if weak.",
+   "derivation": "Brihat Jataka has no standalone per-ascendant chapter. This cell is COMPOSED from the source's own rules: (1) Ch 18 v20 — the sign effects described for the Moon apply also to the rising sign when it and its lord are powerful; (2) Ch 1 sign qualities; (3) Ch 20 lagna sub-cases; (4) Ch 5 v13/v20 places and directions.",
+   "sign_qualities_ref": {
+    "matrix": "signs",
+    "col": "Cancer"
+   },
+   "moon_sign_effects_ref": {
+    "matrix": "planet_in_sign",
+    "row": "Moon",
+    "col": "Cancer"
+   },
+   "lagna_subcases": [
+    {
+     "excerpt": "if Cancer be the rising sign and the Sun occupy it, he will ~ie-a mote in his eye.",
+     "citations": [
+      {
+       "chapter": 20,
+       "verse": 1
+      }
+     ]
+    },
+    {
+     "excerpt": "if the rising sign occupied by the Moon be Cancer.",
+     "citations": [
+      {
+       "chapter": 20,
+       "verse": 4
+      }
+     ]
+    }
+   ],
+   "delivery_room_direction": "eastern",
+   "delivery_room_citations": [
+    {
+     "chapter": 5,
+     "verse": 20
+    }
+   ],
+   "places_excerpt": null,
+   "places_citations": [
+    {
+     "chapter": 5,
+     "verse": 13
+    }
+   ],
+   "flags": [
+    "ocr_suspect"
+   ]
+  },
+  {
+   "row": "lagna",
+   "col": "Leo",
+   "status": "derived",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 20
+    },
+    {
+     "chapter": 1,
+     "verse": 6
+    }
+   ],
+   "excerpt": "Effects similar to those described for the several signs of the Zodiac when the Moon OCC\\lpics them and when she is aspected by planets are mentioned also for the rising sign; nay- more effects are due to the rising sign and to the 2nd, 3rd and other Mmo8 (bowes); if the houses be powerful and if their lords be also powerful, the o~jects signified by them will be promoted, and reduced, if weak.",
+   "derivation": "Brihat Jataka has no standalone per-ascendant chapter. This cell is COMPOSED from the source's own rules: (1) Ch 18 v20 — the sign effects described for the Moon apply also to the rising sign when it and its lord are powerful; (2) Ch 1 sign qualities; (3) Ch 20 lagna sub-cases; (4) Ch 5 v13/v20 places and directions.",
+   "sign_qualities_ref": {
+    "matrix": "signs",
+    "col": "Leo"
+   },
+   "moon_sign_effects_ref": {
+    "matrix": "planet_in_sign",
+    "row": "Moon",
+    "col": "Leo"
+   },
+   "lagna_subcases": [
+    {
+     "excerpt": "if Leo be the rising sign and the Sun occupy it, he will be blind at night;",
+     "citations": [
+      {
+       "chapter": 20,
+       "verse": 1
+      }
+     ]
+    }
+   ],
+   "delivery_room_direction": "southern",
+   "delivery_room_citations": [
+    {
+     "chapter": 5,
+     "verse": 20
+    }
+   ],
+   "places_excerpt": null,
+   "places_citations": [
+    {
+     "chapter": 5,
+     "verse": 13
+    }
+   ],
+   "flags": [
+    "ocr_suspect"
+   ]
+  },
+  {
+   "row": "lagna",
+   "col": "Virgo",
+   "status": "derived",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 20
+    },
+    {
+     "chapter": 1,
+     "verse": 6
+    }
+   ],
+   "excerpt": "Effects similar to those described for the several signs of the Zodiac when the Moon OCC\\lpics them and when she is aspected by planets are mentioned also for the rising sign; nay- more effects are due to the rising sign and to the 2nd, 3rd and other Mmo8 (bowes); if the houses be powerful and if their lords be also powerful, the o~jects signified by them will be promoted, and reduced, if weak.",
+   "derivation": "Brihat Jataka has no standalone per-ascendant chapter. This cell is COMPOSED from the source's own rules: (1) Ch 18 v20 — the sign effects described for the Moon apply also to the rising sign when it and its lord are powerful; (2) Ch 1 sign qualities; (3) Ch 20 lagna sub-cases; (4) Ch 5 v13/v20 places and directions.",
+   "sign_qualities_ref": {
+    "matrix": "signs",
+    "col": "Virgo"
+   },
+   "moon_sign_effects_ref": {
+    "matrix": "planet_in_sign",
+    "row": "Moon",
+    "col": "Virgo"
+   },
+   "lagna_subcases": [],
+   "delivery_room_direction": "northern",
+   "delivery_room_citations": [
+    {
+     "chapter": 5,
+     "verse": 20
+    }
+   ],
+   "places_excerpt": null,
+   "places_citations": [
+    {
+     "chapter": 5,
+     "verse": 13
+    }
+   ],
+   "flags": [
+    "ocr_suspect"
+   ]
+  },
+  {
+   "row": "lagna",
+   "col": "Libra",
+   "status": "derived",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 20
+    },
+    {
+     "chapter": 1,
+     "verse": 6
+    }
+   ],
+   "excerpt": "Effects similar to those described for the several signs of the Zodiac when the Moon OCC\\lpics them and when she is aspected by planets are mentioned also for the rising sign; nay- more effects are due to the rising sign and to the 2nd, 3rd and other Mmo8 (bowes); if the houses be powerful and if their lords be also powerful, the o~jects signified by them will be promoted, and reduced, if weak.",
+   "derivation": "Brihat Jataka has no standalone per-ascendant chapter. This cell is COMPOSED from the source's own rules: (1) Ch 18 v20 — the sign effects described for the Moon apply also to the rising sign when it and its lord are powerful; (2) Ch 1 sign qualities; (3) Ch 20 lagna sub-cases; (4) Ch 5 v13/v20 places and directions.",
+   "sign_qualities_ref": {
+    "matrix": "signs",
+    "col": "Libra"
+   },
+   "moon_sign_effects_ref": {
+    "matrix": "planet_in_sign",
+    "row": "Moon",
+    "col": "Libra"
+   },
+   "lagna_subcases": [
+    {
+     "excerpt": "if Libra be the rising sign and the Sun occupy it, tbe person will be blind and poor;",
+     "citations": [
+      {
+       "chapter": 20,
+       "verse": 1
+      }
+     ]
+    },
+    {
+     "excerpt": "But if the ascendant occupied by Saturn be Libra.",
+     "citations": [
+      {
+       "chapter": 20,
+       "verse": 9
+      }
+     ]
+    }
+   ],
+   "delivery_room_direction": "eastern",
+   "delivery_room_citations": [
+    {
+     "chapter": 5,
+     "verse": 20
+    }
+   ],
+   "places_excerpt": null,
+   "places_citations": [
+    {
+     "chapter": 5,
+     "verse": 13
+    }
+   ],
+   "flags": [
+    "ocr_suspect"
+   ]
+  },
+  {
+   "row": "lagna",
+   "col": "Scorpio",
+   "status": "derived",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 20
+    },
+    {
+     "chapter": 1,
+     "verse": 6
+    }
+   ],
+   "excerpt": "Effects similar to those described for the several signs of the Zodiac when the Moon OCC\\lpics them and when she is aspected by planets are mentioned also for the rising sign; nay- more effects are due to the rising sign and to the 2nd, 3rd and other Mmo8 (bowes); if the houses be powerful and if their lords be also powerful, the o~jects signified by them will be promoted, and reduced, if weak.",
+   "derivation": "Brihat Jataka has no standalone per-ascendant chapter. This cell is COMPOSED from the source's own rules: (1) Ch 18 v20 — the sign effects described for the Moon apply also to the rising sign when it and its lord are powerful; (2) Ch 1 sign qualities; (3) Ch 20 lagna sub-cases; (4) Ch 5 v13/v20 places and directions.",
+   "sign_qualities_ref": {
+    "matrix": "signs",
+    "col": "Scorpio"
+   },
+   "moon_sign_effects_ref": {
+    "matrix": "planet_in_sign",
+    "row": "Moon",
+    "col": "Scorpio"
+   },
+   "lagna_subcases": [],
+   "delivery_room_direction": "eastern",
+   "delivery_room_citations": [
+    {
+     "chapter": 5,
+     "verse": 20
+    }
+   ],
+   "places_excerpt": null,
+   "places_citations": [
+    {
+     "chapter": 5,
+     "verse": 13
+    }
+   ],
+   "flags": [
+    "ocr_suspect"
+   ]
+  },
+  {
+   "row": "lagna",
+   "col": "Sagittarius",
+   "status": "derived",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 20
+    },
+    {
+     "chapter": 1,
+     "verse": 6
+    }
+   ],
+   "excerpt": "Effects similar to those described for the several signs of the Zodiac when the Moon OCC\\lpics them and when she is aspected by planets are mentioned also for the rising sign; nay- more effects are due to the rising sign and to the 2nd, 3rd and other Mmo8 (bowes); if the houses be powerful and if their lords be also powerful, the o~jects signified by them will be promoted, and reduced, if weak.",
+   "derivation": "Brihat Jataka has no standalone per-ascendant chapter. This cell is COMPOSED from the source's own rules: (1) Ch 18 v20 — the sign effects described for the Moon apply also to the rising sign when it and its lord are powerful; (2) Ch 1 sign qualities; (3) Ch 20 lagna sub-cases; (4) Ch 5 v13/v20 places and directions.",
+   "sign_qualities_ref": {
+    "matrix": "signs",
+    "col": "Sagittarius"
+   },
+   "moon_sign_effects_ref": {
+    "matrix": "planet_in_sign",
+    "row": "Moon",
+    "col": "Sagittarius"
+   },
+   "lagna_subcases": [],
+   "delivery_room_direction": "northern",
+   "delivery_room_citations": [
+    {
+     "chapter": 5,
+     "verse": 20
+    }
+   ],
+   "places_excerpt": null,
+   "places_citations": [
+    {
+     "chapter": 5,
+     "verse": 13
+    }
+   ],
+   "flags": [
+    "ocr_suspect"
+   ]
+  },
+  {
+   "row": "lagna",
+   "col": "Capricorn",
+   "status": "derived",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 20
+    },
+    {
+     "chapter": 1,
+     "verse": 6
+    }
+   ],
+   "excerpt": "Effects similar to those described for the several signs of the Zodiac when the Moon OCC\\lpics them and when she is aspected by planets are mentioned also for the rising sign; nay- more effects are due to the rising sign and to the 2nd, 3rd and other Mmo8 (bowes); if the houses be powerful and if their lords be also powerful, the o~jects signified by them will be promoted, and reduced, if weak.",
+   "derivation": "Brihat Jataka has no standalone per-ascendant chapter. This cell is COMPOSED from the source's own rules: (1) Ch 18 v20 — the sign effects described for the Moon apply also to the rising sign when it and its lord are powerful; (2) Ch 1 sign qualities; (3) Ch 20 lagna sub-cases; (4) Ch 5 v13/v20 places and directions.",
+   "sign_qualities_ref": {
+    "matrix": "signs",
+    "col": "Capricorn"
+   },
+   "moon_sign_effects_ref": {
+    "matrix": "planet_in_sign",
+    "row": "Moon",
+    "col": "Capricorn"
+   },
+   "lagna_subcases": [],
+   "delivery_room_direction": "southern",
+   "delivery_room_citations": [
+    {
+     "chapter": 5,
+     "verse": 20
+    }
+   ],
+   "places_excerpt": null,
+   "places_citations": [
+    {
+     "chapter": 5,
+     "verse": 13
+    }
+   ],
+   "flags": [
+    "ocr_suspect"
+   ]
+  },
+  {
+   "row": "lagna",
+   "col": "Aquarius",
+   "status": "derived",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 20
+    },
+    {
+     "chapter": 1,
+     "verse": 6
+    }
+   ],
+   "excerpt": "Effects similar to those described for the several signs of the Zodiac when the Moon OCC\\lpics them and when she is aspected by planets are mentioned also for the rising sign; nay- more effects are due to the rising sign and to the 2nd, 3rd and other Mmo8 (bowes); if the houses be powerful and if their lords be also powerful, the o~jects signified by them will be promoted, and reduced, if weak.",
+   "derivation": "Brihat Jataka has no standalone per-ascendant chapter. This cell is COMPOSED from the source's own rules: (1) Ch 18 v20 — the sign effects described for the Moon apply also to the rising sign when it and its lord are powerful; (2) Ch 1 sign qualities; (3) Ch 20 lagna sub-cases; (4) Ch 5 v13/v20 places and directions.",
+   "sign_qualities_ref": {
+    "matrix": "signs",
+    "col": "Aquarius"
+   },
+   "moon_sign_effects_ref": {
+    "matrix": "planet_in_sign",
+    "row": "Moon",
+    "col": "Aquarius"
+   },
+   "lagna_subcases": [],
+   "delivery_room_direction": "eastern",
+   "delivery_room_citations": [
+    {
+     "chapter": 5,
+     "verse": 20
+    }
+   ],
+   "places_excerpt": null,
+   "places_citations": [
+    {
+     "chapter": 5,
+     "verse": 13
+    }
+   ],
+   "flags": [
+    "ocr_suspect"
+   ]
+  },
+  {
+   "row": "lagna",
+   "col": "Pisces",
+   "status": "derived",
+   "citations": [
+    {
+     "chapter": 18,
+     "verse": 20
+    },
+    {
+     "chapter": 1,
+     "verse": 6
+    }
+   ],
+   "excerpt": "Effects similar to those described for the several signs of the Zodiac when the Moon OCC\\lpics them and when she is aspected by planets are mentioned also for the rising sign; nay- more effects are due to the rising sign and to the 2nd, 3rd and other Mmo8 (bowes); if the houses be powerful and if their lords be also powerful, the o~jects signified by them will be promoted, and reduced, if weak.",
+   "derivation": "Brihat Jataka has no standalone per-ascendant chapter. This cell is COMPOSED from the source's own rules: (1) Ch 18 v20 — the sign effects described for the Moon apply also to the rising sign when it and its lord are powerful; (2) Ch 1 sign qualities; (3) Ch 20 lagna sub-cases; (4) Ch 5 v13/v20 places and directions.",
+   "sign_qualities_ref": {
+    "matrix": "signs",
+    "col": "Pisces"
+   },
+   "moon_sign_effects_ref": {
+    "matrix": "planet_in_sign",
+    "row": "Moon",
+    "col": "Pisces"
+   },
+   "lagna_subcases": [],
+   "delivery_room_direction": "northern",
+   "delivery_room_citations": [
+    {
+     "chapter": 5,
+     "verse": 20
+    }
+   ],
+   "places_excerpt": null,
+   "places_citations": [
+    {
+     "chapter": 5,
+     "verse": 13
+    }
+   ],
+   "flags": [
+    "ocr_suspect"
+   ]
+  }
+ ],
+ "notes": "DERIVED matrix — every quality is a citation into Ch 1/17/18/20/5 plus the source's own extension rule (Ch 18 v 20). No verse was paraphrased into new doctrine; the composition rule itself is the cited verse."
+}

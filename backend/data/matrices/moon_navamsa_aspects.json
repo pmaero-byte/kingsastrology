@@ -1,0 +1,534 @@
+{
+ "matrix": "moon_navamsa_aspects",
+ "version": "matrices-1.0.0",
+ "axes": {
+  "rows": [
+   "Mars",
+   "Venus",
+   "Mercury",
+   "Moon (Cancer navamsa)",
+   "Sun (Leo navamsa)",
+   "Jupiter",
+   "Saturn"
+  ],
+  "columns": [
+   "Sun",
+   "Mars",
+   "Mercury",
+   "Jupiter",
+   "Venus",
+   "Saturn"
+  ]
+ },
+ "cells": [
+  {
+   "row": "Mars",
+   "col": "Sun",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 5
+    }
+   ],
+   "excerpt": "Navamsa of Mars and be aspected by the SUIl, the person will be the protector of a city;"
+  },
+  {
+   "row": "Mars",
+   "col": "Mars",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 5
+    }
+   ],
+   "excerpt": "Navamsa of Mars and be aspected by the SUIl, the person will be the protector of a city;"
+  },
+  {
+   "row": "Mars",
+   "col": "Mercury",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 5
+    }
+   ],
+   "excerpt": "if aspected by Mercury, he will be skilled in duel fight;"
+  },
+  {
+   "row": "Mars",
+   "col": "Jupiter",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 5
+    }
+   ],
+   "excerpt": "if by Jupiter, he will be a king;"
+  },
+  {
+   "row": "Mars",
+   "col": "Venus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 5
+    }
+   ],
+   "excerpt": "if by Venus he will be rich;"
+  },
+  {
+   "row": "Mars",
+   "col": "Saturn",
+   "status": "needs_review",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 5
+    }
+   ],
+   "excerpt": "and if by Saturn, he will",
+   "flags": [
+    "truncated_in_source"
+   ],
+   "note": "clause cut off mid-sentence in the translation (see verse) — needs human recovery"
+  },
+  {
+   "row": "Venus",
+   "col": "Sun",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 5
+    }
+   ],
+   "excerpt": "Navamsa of Venus and be aspcetcd by the Sun, the person will be (<.:11. XIX a fool;"
+  },
+  {
+   "row": "Venus",
+   "col": "Mars",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 5
+    }
+   ],
+   "excerpt": "if aspected by Mars, he will be fond of the wives of other men;"
+  },
+  {
+   "row": "Venus",
+   "col": "Mercury",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 5
+    }
+   ],
+   "excerpt": "if by Mercury he will be a good poet or will covet the wives of other men according to another reading;"
+  },
+  {
+   "row": "Venus",
+   "col": "Jupiter",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 5
+    }
+   ],
+   "excerpt": "and if by Jupiter, he will produce good literary works;"
+  },
+  {
+   "row": "Venus",
+   "col": "Venus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 5
+    }
+   ],
+   "excerpt": "Navamsa of Venus and be aspcetcd by the Sun, the person will be (<.:11. XIX a fool;"
+  },
+  {
+   "row": "Venus",
+   "col": "Saturn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 5
+    }
+   ],
+   "excerpt": "if by Saturn, he will unite with the wives of otber men."
+  },
+  {
+   "row": "Mercury",
+   "col": "Sun",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 6
+    }
+   ],
+   "excerpt": "Navamsa of Mercury and be aspecled by tbe Suo, the person will be a duellist or a dancer;"
+  },
+  {
+   "row": "Mercury",
+   "col": "Mars",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 6
+    }
+   ],
+   "excerpt": "if aspected by Mars, he will be a tbief;"
+  },
+  {
+   "row": "Mercury",
+   "col": "Mercury",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 6
+    }
+   ],
+   "excerpt": "Navamsa of Mercury and be aspecled by tbe Suo, the person will be a duellist or a dancer;"
+  },
+  {
+   "row": "Mercury",
+   "col": "Jupiter",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 6
+    }
+   ],
+   "excerpt": "if by Jupiter, he will be a minister;"
+  },
+  {
+   "row": "Mercury",
+   "col": "Venus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 6
+    }
+   ],
+   "excerpt": "if by Venus, be will be skilled ill music, aud if by Saturn, he will be skillcd in mechanical arts"
+  },
+  {
+   "row": "Mercury",
+   "col": "Saturn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 6
+    }
+   ],
+   "excerpt": "if by Venus, be will be skilled ill music, aud if by Saturn, he will be skillcd in mechanical arts"
+  },
+  {
+   "row": "Moon (Cancer navamsa)",
+   "col": "Sun",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 6
+    }
+   ],
+   "excerpt": "Navalllsa of Cancer and be a:;pected by the Sun, tbe person will be of small body;"
+  },
+  {
+   "row": "Moon (Cancer navamsa)",
+   "col": "Mars",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 6
+    }
+   ],
+   "excerpt": "if aspected by Mars, he will be either a niggard or will possess small weallh;"
+  },
+  {
+   "row": "Moon (Cancer navamsa)",
+   "col": "Mercury",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 6
+    }
+   ],
+   "excerpt": "if by Mercury. he will practise austerities ;"
+  },
+  {
+   "row": "Moon (Cancer navamsa)",
+   "col": "Jupiter",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 6
+    }
+   ],
+   "excerpt": "if by Jupiter. be will be a chief,"
+  },
+  {
+   "row": "Moon (Cancer navamsa)",
+   "col": "Venus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 6
+    }
+   ],
+   "excerpt": "if by Venusl he will thrive by women;"
+  },
+  {
+   "row": "Moon (Cancer navamsa)",
+   "col": "Saturn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 6
+    }
+   ],
+   "excerpt": "and if by Saturn, he will be fond of work."
+  },
+  {
+   "row": "Sun (Leo navamsa)",
+   "col": "Sun",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 7
+    }
+   ],
+   "excerpt": "Navamsa of Leo and be aspected by the Sun, the person will be a man of angry temper;"
+  },
+  {
+   "row": "Sun (Leo navamsa)",
+   "col": "Mars",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 7
+    }
+   ],
+   "excerpt": "if aspected by Mars, he will be liked by the king;"
+  },
+  {
+   "row": "Sun (Leo navamsa)",
+   "col": "Mercury",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 7
+    }
+   ],
+   "excerpt": "if by Mercury, he will become rich by the discovery of hidden treasure;"
+  },
+  {
+   "row": "Sun (Leo navamsa)",
+   "col": "Jupiter",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 7
+    }
+   ],
+   "excerpt": "if by Jupiter, he wiII be a roan of in8uence and authority;"
+  },
+  {
+   "row": "Sun (Leo navamsa)",
+   "col": "Venus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 7
+    }
+   ],
+   "excerpt": "if by Venus, Jle will have no sons and if by Saturn be will do wicked deeds"
+  },
+  {
+   "row": "Sun (Leo navamsa)",
+   "col": "Saturn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 7
+    }
+   ],
+   "excerpt": "if by Venus, Jle will have no sons and if by Saturn be will do wicked deeds"
+  },
+  {
+   "row": "Jupiter",
+   "col": "Sun",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 7
+    }
+   ],
+   "excerpt": "Navamsa (\"If Jupiter and be aspecled by the Sun, the person will be a man of well-known powers;"
+  },
+  {
+   "row": "Jupiter",
+   "col": "Mars",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 7
+    }
+   ],
+   "excerpt": "if aspected by Mars, he will be learned in the rules of fiabt;"
+  },
+  {
+   "row": "Jupiter",
+   "col": "Mercury",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 7
+    }
+   ],
+   "excerpt": "if by Mercury, he will be skilled in ridicule;"
+  },
+  {
+   "row": "Jupiter",
+   "col": "Jupiter",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 7
+    }
+   ],
+   "excerpt": "Navamsa (\"If Jupiter and be aspecled by the Sun, the person will be a man of well-known powers;"
+  },
+  {
+   "row": "Jupiter",
+   "col": "Venus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 7
+    }
+   ],
+   "excerpt": "if by Venus, he be a man of no virility;"
+  },
+  {
+   "row": "Jupiter",
+   "col": "Saturn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 7
+    }
+   ],
+   "excerpt": "and if by Saturn, he will be clraritably disposed."
+  },
+  {
+   "row": "Saturn",
+   "col": "Sun",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 8
+    }
+   ],
+   "excerpt": "Navamsa of Saturn and be aspectcd by the SUD, the person will have very few children;"
+  },
+  {
+   "row": "Saturn",
+   "col": "Mars",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 8
+    }
+   ],
+   "excerpt": "if aspected by - Mars, he will be unhappy though rich;"
+  },
+  {
+   "row": "Saturn",
+   "col": "Mercury",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 8
+    }
+   ],
+   "excerpt": "if by Mercury, he will be haughty;"
+  },
+  {
+   "row": "Saturn",
+   "col": "Jupiter",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 8
+    }
+   ],
+   "excerpt": "if by Jupiter, he will do dee'ds suited to his station in life ;"
+  },
+  {
+   "row": "Saturn",
+   "col": "Venus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 8
+    }
+   ],
+   "excerpt": "if by Venus, he will be fond of bad women and if by Saturn, he will be a niggard (0). All that has -been said for the Moon occupying particUlar Navamsas and being aspected by the severa: planets applies also to the Sun-with this exception that where Solar aspect has been referred to, it shall be read as Lunar aspect. l\\ons (a) The same ft?mark applies to the rising ."
+  },
+  {
+   "row": "Saturn",
+   "col": "Saturn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 19,
+     "verse": 8
+    }
+   ],
+   "excerpt": "Navamsa of Saturn and be aspectcd by the SUD, the person will have very few children;"
+  }
+ ],
+ "notes": "Ch 19 v5-v8: the Moon in the navamsa of each lord, aspected by each planet. Cancer/Leo navamsas stand for the Moon's and Sun's navamsas per the text. Grading rule (v9): Vargottama full / own navamsa imperfect / other small."
+}

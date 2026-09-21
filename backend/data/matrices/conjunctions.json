@@ -1,0 +1,291 @@
+{
+ "matrix": "conjunctions",
+ "version": "matrices-1.0.0",
+ "axes": {
+  "rows": [
+   "Sun",
+   "Moon",
+   "Mars",
+   "Mercury",
+   "Jupiter",
+   "Venus",
+   "Saturn"
+  ],
+  "columns": [
+   "Sun",
+   "Moon",
+   "Mars",
+   "Mercury",
+   "Jupiter",
+   "Venus",
+   "Saturn"
+  ]
+ },
+ "cells": [
+  {
+   "row": "Sun",
+   "col": "Venus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 14,
+     "verse": 1
+    }
+   ],
+   "excerpt": "if the SUD and Venus occupy a sign together, the person will gain money by engaging in public sports and by the use of weapons;"
+  },
+  {
+   "row": "Moon",
+   "col": "Sun",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 14,
+     "verse": 1
+    }
+   ],
+   "excerpt": "If, at the time of birth, the Sun and tbe Moon occupy together a sign of the Zodiac, the person born will be a maker of fire engines (a) and will work in stones;"
+  },
+  {
+   "row": "Moon",
+   "col": "Venus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 14,
+     "verse": 2
+    }
+   ],
+   "excerpt": "if they be the Moon and Venus, the person will be skilled in cloth work (a);"
+  },
+  {
+   "row": "Moon",
+   "col": "Saturn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 14,
+     "verse": 2
+    }
+   ],
+   "excerpt": "if they be the Moon and Saturn, the person will be the son of a re-married woman (b)."
+  },
+  {
+   "row": "Mars",
+   "col": "Sun",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 14,
+     "verse": 1
+    }
+   ],
+   "excerpt": "if the Sun and Mars occupy a sign together, the;"
+  },
+  {
+   "row": "Mars",
+   "col": "Moon",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 14,
+     "verse": 2
+    }
+   ],
+   "excerpt": "If the double planets, occupying together a sign of the Zodiac, at the time of birth, be the Moon and Mars, 'the person will earn money by the sale of works of art, of women, of liquor, and of pots and will gi-ve trouble to bis mother;"
+  },
+  {
+   "row": "Mars",
+   "col": "Mercury",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 14,
+     "verse": 3
+    }
+   ],
+   "excerpt": "If the double planets occupying together sign of the Zodiac at the time of b .1h be Mars and Mercury."
+  },
+  {
+   "row": "Mars",
+   "col": "Venus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 14,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if they be Mars and Venus, the person will protect cows, will engage in duels, will be skilled in work, will indulge · in sexual union with the wives of other men and will be a gambler;"
+  },
+  {
+   "row": "Mars",
+   "col": "Saturn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 14,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if they be Mars and Saturn, the person will be afflicted with grief, will be a liar, and will be despised by others."
+  },
+  {
+   "row": "Mercury",
+   "col": "Sun",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 14,
+     "verse": 1
+    }
+   ],
+   "excerpt": "if the Sun and Mercury occupy a sign together, the person will be skilled in work, will be intelligent and famous."
+  },
+  {
+   "row": "Mercury",
+   "col": "Moon",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 14,
+     "verse": 2
+    }
+   ],
+   "excerpt": "if tbey be tbe Moon and Mercury, tbe person will be of sweet speech skilled in literary interpretation and will become popular and famous;"
+  },
+  {
+   "row": "Mercury",
+   "col": "Venus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 14,
+     "verse": 4
+    }
+   ],
+   "excerpt": "jf they be Mercury and Venus, the person will be one of good speech."
+  },
+  {
+   "row": "Mercury",
+   "col": "Saturn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 14,
+     "verse": 4
+    }
+   ],
+   "excerpt": "if they be Mercury and Saturn."
+  },
+  {
+   "row": "Jupiter",
+   "col": "Sun",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 14,
+     "verse": 1
+    }
+   ],
+   "excerpt": "if tbe Sun and Jupiter occupy a sign together, the persoD will be cruel and will work: for other meQ ;"
+  },
+  {
+   "row": "Jupiter",
+   "col": "Moon",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 14,
+     "verse": 2
+    }
+   ],
+   "excerpt": "if they be the Moon and Jupiter, the person will defeat his enemies, will be an important person in his family, will not be of firm views and will be greatly rich;"
+  },
+  {
+   "row": "Jupiter",
+   "col": "Mars",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 14,
+     "verse": 3
+    }
+   ],
+   "excerpt": "if they be Man and Jupiter, the person will be the· chief of a town or a king, or a wealthy Brahmin (b) ;"
+  },
+  {
+   "row": "Jupiter",
+   "col": "Mercury",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 14,
+     "verse": 4
+    }
+   ],
+   "excerpt": "If the double planets occupying together a sign of the Zodiac at the time of birtb be Mercury and Jupiter, the person will be skilled in duels."
+  },
+  {
+   "row": "Jupiter",
+   "col": "Venus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 14,
+     "verse": 4
+    }
+   ],
+   "excerpt": "if they be Jupiter and Venus."
+  },
+  {
+   "row": "Jupiter",
+   "col": "Saturn",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 14,
+     "verse": 4
+    }
+   ],
+   "excerpt": "if they be Jupiter and Saturn, the person will be a barber, a potman or a cook."
+  },
+  {
+   "row": "Saturn",
+   "col": "Sun",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 14,
+     "verse": 1
+    }
+   ],
+   "excerpt": "and if the Sun and Saturn occupy a sign together, the person will be ~ killed in metal work and-in earthen-ware."
+  },
+  {
+   "row": "Saturn",
+   "col": "Venus",
+   "status": "auto-draft",
+   "citations": [
+    {
+     "chapter": 14,
+     "verse": 5
+    }
+   ],
+   "excerpt": "If the double planets occupying together a sign of the Zodiac at the time of birth be Venus and Saturn, the person will be short-sighted, will have an increase of wealth through the friendship of a young woman, and wjll be skilled in writing and painting."
+  }
+ ],
+ "rules": [
+  {
+   "id": "CJ-1",
+   "rule": "For yogas of three, four and five planets together the effects are determined and applied in the same manner",
+   "citations": [
+    {
+     "chapter": 14,
+     "verse": 5
+    }
+   ]
+  }
+ ],
+ "notes": "All 21 unordered pairs of the seven grahas (row<column in canonical order). Triple+ combinations are covered by rule CJ-1, not enumerated by the source."
+}
