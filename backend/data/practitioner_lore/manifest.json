@@ -1,0 +1,38 @@
+{
+ "lore_version": "lore-1.0.0",
+ "corpus": "open-forum / practitioner harvest, 2026-09-22 (Reddit consensus, Quora-equivalent answer pages, astrologer sites, remedy portals; see per-entry sources)",
+ "engine": "fallback-lexicon-v1",
+ "engine_note": "the real Laya checkpoint is near-chance zero-shot until fine-tuned (model card); the lexicon engine implements the identical typed battery and thresholds deterministically",
+ "counts": {
+  "entries": 60,
+  "ethics_flagged": 2,
+  "escalated": 0
+ },
+ "by_graha": {
+  "Shani": 12,
+  "general": 8,
+  "Guru": 6,
+  "Surya": 7,
+  "Budha": 8,
+  "Rahu": 6,
+  "Chandra": 5,
+  "Mangala": 4,
+  "Shukra": 4,
+  "Ketu": 4
+ },
+ "by_kind": {
+  "mantra": 11,
+  "charity": 18,
+  "behavioral": 10,
+  "ritual": 5,
+  "caution": 1,
+  "gemstone": 13,
+  "technique": 1,
+  "worship": 1
+ },
+ "by_agreement": {
+  "consistent": 21,
+  "no-basis": 39
+ },
+ "firewall": "practitioner lore is LIVING TRADITION: it never enters the verse store, never cites as doctrine, never renders in readings. Classification exists so the court can see the tradition organised and its classical agreement checked. All entries await Scholar Reviewer triage."
+}

@@ -1,0 +1,2360 @@
+{
+ "version": "lore-1.0.0",
+ "entries": [
+  {
+   "id": "L001",
+   "text": "Chant the Shani mantra (Om Sham Shanaishcharaya Namah) on Saturdays",
+   "source": {
+    "site": "Times of India",
+    "url": "https://timesofindia.indiatimes.com",
+    "kind": "media-astrology"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Shani",
+      "p": 0.95
+     }
+    ],
+    "kind": "mantra",
+    "kind_p": 0.817,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "consistent",
+     "hits": [
+      {
+       "graha": "Shani",
+       "axis": "day",
+       "matched": [
+        "saturday"
+       ]
+      }
+     ],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L002",
+   "text": "Recite Hanuman Chalisa, traditionally linked to pacifying Saturn",
+   "source": {
+    "site": "Times of India",
+    "url": "https://timesofindia.indiatimes.com",
+    "kind": "media-astrology"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Shani",
+      "p": 0.95
+     }
+    ],
+    "kind": "mantra",
+    "kind_p": 0.75,
+    "kind_margin": 0.5,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L003",
+   "text": "Feeding the poor is one of the best remedies for Saturn; donate food on your birthday and wedding anniversaries",
+   "source": {
+    "site": "Komilla Sutton (practicing Vedic astrologer)",
+    "url": "https://komilla.com",
+    "kind": "astrologer-site"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Shani",
+      "p": 0.95
+     }
+    ],
+    "kind": "charity",
+    "kind_p": 0.817,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L004",
+   "text": "Serve the needy, the elderly, the disabled and laborers - Saturn rewards selfless service (seva)",
+   "source": {
+    "site": "search-consensus incl. Komilla Sutton",
+    "url": "https://komilla.com",
+    "kind": "astrologer-site"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Shani",
+      "p": 0.95
+     }
+    ],
+    "kind": "behavioral",
+    "kind_p": 0.85,
+    "kind_margin": 1.0,
+    "kind_status": "auto-draft",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "auto-draft"
+   }
+  },
+  {
+   "id": "L005",
+   "text": "Donate black items for Saturn: black sesame, urad dal, black cloth, iron, mustard oil",
+   "source": {
+    "site": "Times of India / Lal Kitab compilations",
+    "url": "https://timesofindia.indiatimes.com",
+    "kind": "media-astrology"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Shani",
+      "p": 0.95
+     }
+    ],
+    "kind": "charity",
+    "kind_p": 0.6,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "consistent",
+     "hits": [
+      {
+       "graha": "Shani",
+       "axis": "colour",
+       "matched": [
+        "black"
+       ]
+      },
+      {
+       "graha": "Shani",
+       "axis": "metal",
+       "matched": [
+        "iron"
+       ]
+      }
+     ],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L006",
+   "text": "Pour mustard oil on the ground or donate it - a classic Lal Kitab remedy for Saturn",
+   "source": {
+    "site": "Lal Kitab compilations (via search)",
+    "url": "https://www.scribd.com",
+    "kind": "remedy-compilation"
+   },
+   "source_confidence": "medium",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Shani",
+      "p": 0.95
+     }
+    ],
+    "kind": "charity",
+    "kind_p": 0.6,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L007",
+   "text": "Light a sesame-oil lamp under a Peepal tree on Saturday evenings",
+   "source": {
+    "site": "Times of India",
+    "url": "https://timesofindia.indiatimes.com",
+    "kind": "media-astrology"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "general",
+      "p": 0.0
+     }
+    ],
+    "kind": "ritual",
+    "kind_p": 0.75,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L008",
+   "text": "Avoid non-vegetarian food and alcohol on Saturdays",
+   "source": {
+    "site": "Times of India",
+    "url": "https://timesofindia.indiatimes.com",
+    "kind": "media-astrology"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "general",
+      "p": 0.0
+     }
+    ],
+    "kind": "behavioral",
+    "kind_p": 0.6,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L009",
+   "text": "Do not keep alcohol openly at home - a Lal Kitab precaution for Saturn",
+   "source": {
+    "site": "Lal Kitab compilations (via search)",
+    "url": "https://www.scribd.com",
+    "kind": "remedy-compilation"
+   },
+   "source_confidence": "medium",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Shani",
+      "p": 0.95
+     }
+    ],
+    "kind": "caution",
+    "kind_p": 0.6,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L010",
+   "text": "Avoid extravagant birthday celebrations with drums - a Lal Kitab precaution for Saturn",
+   "source": {
+    "site": "Lal Kitab compilations (via search)",
+    "url": "https://www.scribd.com",
+    "kind": "remedy-compilation"
+   },
+   "source_confidence": "medium",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Shani",
+      "p": 0.95
+     }
+    ],
+    "kind": "behavioral",
+    "kind_p": 0.6,
+    "kind_margin": 0.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L011",
+   "text": "Consistent effort, honesty and humility matter more than gemstones for Saturn - common advice on r/vedicastrology",
+   "source": {
+    "site": "r/vedicastrology (consensus per search summary; thread URL not retained)",
+    "url": "https://www.reddit.com/r/vedicastrology",
+    "kind": "forum-consensus"
+   },
+   "source_confidence": "low",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Shani",
+      "p": 0.95
+     }
+    ],
+    "kind": "behavioral",
+    "kind_p": 0.817,
+    "kind_margin": 0.333,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L012",
+   "text": "Blue sapphire (neelam) is Saturn's stone but is widely advised against wearing without careful testing - it can backfire",
+   "source": {
+    "site": "r/vedicastrology + astrologer consensus (via search)",
+    "url": "https://www.reddit.com/r/vedicastrology",
+    "kind": "forum-consensus"
+   },
+   "source_confidence": "low",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Shani",
+      "p": 0.95
+     }
+    ],
+    "kind": "gemstone",
+    "kind_p": 0.817,
+    "kind_margin": 0.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "consistent",
+     "hits": [
+      {
+       "graha": "Shani",
+       "axis": "gem",
+       "matched": [
+        "blue sapphire",
+        "neelam"
+       ]
+      }
+     ],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L013",
+   "text": "Perform yagnas or homas dedicated to Saturn for severe affliction",
+   "source": {
+    "site": "Astrological Remedies for Negative Planets (Scribd)",
+    "url": "https://www.scribd.com",
+    "kind": "remedy-compilation"
+   },
+   "source_confidence": "medium",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Shani",
+      "p": 0.95
+     }
+    ],
+    "kind": "ritual",
+    "kind_p": 0.75,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L014",
+   "text": "Fast on Thursdays and wear yellow clothing to strengthen Jupiter",
+   "source": {
+    "site": "Shilaavinyaas / standard practitioner advice",
+    "url": "https://shilaavinyaas.com",
+    "kind": "astrologer-site"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Guru",
+      "p": 0.95
+     }
+    ],
+    "kind": "gemstone",
+    "kind_p": 0.6,
+    "kind_margin": 0.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "consistent",
+     "hits": [
+      {
+       "graha": "Guru",
+       "axis": "day",
+       "matched": [
+        "thursday"
+       ]
+      },
+      {
+       "graha": "Guru",
+       "axis": "colour",
+       "matched": [
+        "yellow"
+       ]
+      }
+     ],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L015",
+   "text": "Chant the Guru Beej Mantra: Om Gram Greem Saha Gurve Namaha",
+   "source": {
+    "site": "Shilaavinyaas / standard practitioner advice",
+    "url": "https://shilaavinyaas.com",
+    "kind": "astrologer-site"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Guru",
+      "p": 0.95
+     }
+    ],
+    "kind": "mantra",
+    "kind_p": 0.87,
+    "kind_margin": 1.0,
+    "kind_status": "auto-draft",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "auto-draft"
+   }
+  },
+  {
+   "id": "L016",
+   "text": "Wear yellow sapphire or gold for Jupiter, only after consulting an astrologer",
+   "source": {
+    "site": "Shilaavinyaas / standard practitioner advice",
+    "url": "https://shilaavinyaas.com",
+    "kind": "astrologer-site"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Guru",
+      "p": 0.95
+     }
+    ],
+    "kind": "gemstone",
+    "kind_p": 0.75,
+    "kind_margin": 0.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "consistent",
+     "hits": [
+      {
+       "graha": "Guru",
+       "axis": "gem",
+       "matched": [
+        "yellow sapphire"
+       ]
+      },
+      {
+       "graha": "Guru",
+       "axis": "colour",
+       "matched": [
+        "yellow"
+       ]
+      },
+      {
+       "graha": "Guru",
+       "axis": "metal",
+       "matched": [
+        "gold"
+       ]
+      }
+     ],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L017",
+   "text": "Donate yellow items on Thursdays: turmeric, saffron, sweets, chana dal, yellow flowers, yellow cloth, books",
+   "source": {
+    "site": "Shilaavinyaas / standard practitioner advice",
+    "url": "https://shilaavinyaas.com",
+    "kind": "astrologer-site"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "general",
+      "p": 0.0
+     }
+    ],
+    "kind": "charity",
+    "kind_p": 0.6,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L018",
+   "text": "Apply turmeric or sandalwood tilak on the forehead - a Lal Kitab remedy for Jupiter",
+   "source": {
+    "site": "Lal Kitab compilations (via search)",
+    "url": "https://www.scribd.com",
+    "kind": "remedy-compilation"
+   },
+   "source_confidence": "medium",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Guru",
+      "p": 0.95
+     }
+    ],
+    "kind": "ritual",
+    "kind_p": 0.6,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L019",
+   "text": "Donate bananas and sweets to elders; plant a peepal tree - Lal Kitab remedies for Jupiter",
+   "source": {
+    "site": "Lal Kitab compilations (via search)",
+    "url": "https://www.scribd.com",
+    "kind": "remedy-compilation"
+   },
+   "source_confidence": "medium",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Guru",
+      "p": 0.95
+     }
+    ],
+    "kind": "charity",
+    "kind_p": 0.6,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L020",
+   "text": "Jupiter can still give good results if Rahu, Saturn, Mercury or the Sun are strong in the chart",
+   "source": {
+    "site": "Shilaavinyaas",
+    "url": "https://shilaavinyaas.com",
+    "kind": "astrologer-site"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Surya",
+      "p": 0.95
+     },
+     {
+      "graha": "Budha",
+      "p": 0.95
+     },
+     {
+      "graha": "Guru",
+      "p": 0.95
+     },
+     {
+      "graha": "Shani",
+      "p": 0.95
+     },
+     {
+      "graha": "Rahu",
+      "p": 0.95
+     }
+    ],
+    "kind": "charity",
+    "kind_p": 0.6,
+    "kind_margin": 0.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L021",
+   "text": "Fast on Wednesdays for Mercury; some traditions suggest avoiding salt during the fast",
+   "source": {
+    "site": "standard practitioner advice (via search)",
+    "url": "https://shilaavinyaas.com",
+    "kind": "astrologer-site"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Budha",
+      "p": 0.95
+     }
+    ],
+    "kind": "ritual",
+    "kind_p": 0.75,
+    "kind_margin": 0.5,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "consistent",
+     "hits": [
+      {
+       "graha": "Budha",
+       "axis": "day",
+       "matched": [
+        "wednesday"
+       ]
+      }
+     ],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L022",
+   "text": "Chant the Budh Beej Mantra or the Gayatri Mantra for 45 days; worship Saraswati for Mercury",
+   "source": {
+    "site": "standard practitioner advice (via search)",
+    "url": "https://shilaavinyaas.com",
+    "kind": "astrologer-site"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Budha",
+      "p": 0.95
+     }
+    ],
+    "kind": "mantra",
+    "kind_p": 0.87,
+    "kind_margin": 0.6,
+    "kind_status": "auto-draft",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "auto-draft"
+   }
+  },
+  {
+   "id": "L023",
+   "text": "Wear an Emerald (Panna) for Mercury - only after proper consultation",
+   "source": {
+    "site": "Times of India",
+    "url": "https://timesofindia.indiatimes.com",
+    "kind": "media-astrology"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Budha",
+      "p": 0.95
+     }
+    ],
+    "kind": "gemstone",
+    "kind_p": 0.817,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "consistent",
+     "hits": [
+      {
+       "graha": "Budha",
+       "axis": "gem",
+       "matched": [
+        "emerald",
+        "panna"
+       ]
+      }
+     ],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L024",
+   "text": "Donate green items on Wednesdays for Mercury: moong dal, green vegetables, green cloth",
+   "source": {
+    "site": "Times of India",
+    "url": "https://timesofindia.indiatimes.com",
+    "kind": "media-astrology"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Budha",
+      "p": 0.95
+     }
+    ],
+    "kind": "charity",
+    "kind_p": 0.6,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "consistent",
+     "hits": [
+      {
+       "graha": "Budha",
+       "axis": "day",
+       "matched": [
+        "wednesday"
+       ]
+      },
+      {
+       "graha": "Budha",
+       "axis": "colour",
+       "matched": [
+        "green"
+       ]
+      }
+     ],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L025",
+   "text": "Feed soaked green gram to birds as a Mercury remedy",
+   "source": {
+    "site": "standard practitioner advice (via search)",
+    "url": "https://www.adityakundli.com",
+    "kind": "astrologer-site"
+   },
+   "source_confidence": "medium",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Budha",
+      "p": 0.95
+     }
+    ],
+    "kind": "charity",
+    "kind_p": 0.6,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "consistent",
+     "hits": [
+      {
+       "graha": "Budha",
+       "axis": "colour",
+       "matched": [
+        "green"
+       ]
+      }
+     ],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L026",
+   "text": "Keep the teeth clean with alum, maintain cleanliness, avoid dishonesty - Lal Kitab remedies for Mercury",
+   "source": {
+    "site": "Lal Kitab compilations (via search)",
+    "url": "https://www.scribd.com",
+    "kind": "remedy-compilation"
+   },
+   "source_confidence": "medium",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Budha",
+      "p": 0.95
+     }
+    ],
+    "kind": "behavioral",
+    "kind_p": 0.85,
+    "kind_margin": 1.0,
+    "kind_status": "auto-draft",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "auto-draft"
+   }
+  },
+  {
+   "id": "L027",
+   "text": "A weak Mercury can cause job losses and poor decision-making; remedies include emerald and donating green items on Wednesdays",
+   "source": {
+    "site": "Times of India",
+    "url": "https://timesofindia.indiatimes.com",
+    "kind": "media-astrology"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Budha",
+      "p": 0.95
+     }
+    ],
+    "kind": "gemstone",
+    "kind_p": 0.6,
+    "kind_margin": 0.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.95,
+     "flag": true,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "consistent",
+     "hits": [
+      {
+       "graha": "Budha",
+       "axis": "day",
+       "matched": [
+        "wednesday"
+       ]
+      },
+      {
+       "graha": "Budha",
+       "axis": "gem",
+       "matched": [
+        "emerald"
+       ]
+      },
+      {
+       "graha": "Budha",
+       "axis": "colour",
+       "matched": [
+        "green"
+       ]
+      }
+     ],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L028",
+   "text": "Chant Om Suryaya Namaha or the Aditya Hridaya Stotra for the Sun",
+   "source": {
+    "site": "Times of India / AstroSage (via search)",
+    "url": "https://www.astrosage.com",
+    "kind": "media-astrology"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Surya",
+      "p": 0.95
+     }
+    ],
+    "kind": "mantra",
+    "kind_p": 0.85,
+    "kind_margin": 1.0,
+    "kind_status": "auto-draft",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "auto-draft"
+   }
+  },
+  {
+   "id": "L029",
+   "text": "Offer water to the rising Sun (Surya arghya)",
+   "source": {
+    "site": "Times of India",
+    "url": "https://timesofindia.indiatimes.com",
+    "kind": "media-astrology"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Surya",
+      "p": 0.95
+     }
+    ],
+    "kind": "ritual",
+    "kind_p": 0.75,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L030",
+   "text": "Donate wheat, jaggery, copper and red cloth on Sundays for the Sun",
+   "source": {
+    "site": "AstroSage",
+    "url": "https://www.astrosage.com",
+    "kind": "remedy-portal"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Surya",
+      "p": 0.95
+     }
+    ],
+    "kind": "charity",
+    "kind_p": 0.6,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "consistent",
+     "hits": [
+      {
+       "graha": "Surya",
+       "axis": "day",
+       "matched": [
+        "sunday"
+       ]
+      },
+      {
+       "graha": "Surya",
+       "axis": "colour",
+       "matched": [
+        "copper",
+        "red"
+       ]
+      },
+      {
+       "graha": "Surya",
+       "axis": "metal",
+       "matched": [
+        "copper"
+       ]
+      }
+     ],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L031",
+   "text": "Wear Ruby (Manikya) set in gold on the ring finger for the Sun",
+   "source": {
+    "site": "AstroSage",
+    "url": "https://www.astrosage.com",
+    "kind": "remedy-portal"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Surya",
+      "p": 0.95
+     }
+    ],
+    "kind": "gemstone",
+    "kind_p": 0.817,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "consistent",
+     "hits": [
+      {
+       "graha": "Surya",
+       "axis": "gem",
+       "matched": [
+        "ruby",
+        "manikya"
+       ]
+      },
+      {
+       "graha": "Surya",
+       "axis": "metal",
+       "matched": [
+        "gold"
+       ]
+      }
+     ],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L032",
+   "text": "For a weak Sun: respect the father, father figures and elders; feed cows",
+   "source": {
+    "site": "Scribd remedy compilation",
+    "url": "https://www.scribd.com",
+    "kind": "remedy-compilation"
+   },
+   "source_confidence": "medium",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Surya",
+      "p": 0.95
+     }
+    ],
+    "kind": "charity",
+    "kind_p": 0.6,
+    "kind_margin": 0.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L033",
+   "text": "For a weak Sun, donate food, sweets, jaggery and clothes to the elderly, and wake up early",
+   "source": {
+    "site": "Scribd remedy compilation",
+    "url": "https://www.scribd.com",
+    "kind": "remedy-compilation"
+   },
+   "source_confidence": "medium",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Surya",
+      "p": 0.95
+     }
+    ],
+    "kind": "charity",
+    "kind_p": 0.6,
+    "kind_margin": 0.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L034",
+   "text": "For a weak Moon: chant Om Chandraya Namaha 108 times, keep gentle bedtime routines, avoid screens before sleep",
+   "source": {
+    "site": "Aditya Kundli",
+    "url": "https://www.adityakundli.com",
+    "kind": "astrologer-site"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Chandra",
+      "p": 0.95
+     }
+    ],
+    "kind": "mantra",
+    "kind_p": 0.85,
+    "kind_margin": 0.5,
+    "kind_status": "auto-draft",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "auto-draft"
+   }
+  },
+  {
+   "id": "L035",
+   "text": "Donate rice, milk and white items at temples for the Moon",
+   "source": {
+    "site": "AstroSage / standard advice (via search)",
+    "url": "https://www.astrosage.com",
+    "kind": "remedy-portal"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Chandra",
+      "p": 0.95
+     }
+    ],
+    "kind": "charity",
+    "kind_p": 0.6,
+    "kind_margin": 0.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "consistent",
+     "hits": [
+      {
+       "graha": "Chandra",
+       "axis": "colour",
+       "matched": [
+        "white"
+       ]
+      }
+     ],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L036",
+   "text": "Wear a Pearl (Moti) for the Moon; drink from a silver glass",
+   "source": {
+    "site": "AstroSage / standard advice (via search)",
+    "url": "https://www.astrosage.com",
+    "kind": "remedy-portal"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Chandra",
+      "p": 0.95
+     }
+    ],
+    "kind": "gemstone",
+    "kind_p": 0.817,
+    "kind_margin": 0.667,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "consistent",
+     "hits": [
+      {
+       "graha": "Chandra",
+       "axis": "gem",
+       "matched": [
+        "pearl",
+        "moti"
+       ]
+      },
+      {
+       "graha": "Chandra",
+       "axis": "colour",
+       "matched": [
+        "silver"
+       ]
+      },
+      {
+       "graha": "Chandra",
+       "axis": "metal",
+       "matched": [
+        "silver"
+       ]
+      }
+     ],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L037",
+   "text": "Seek the mother's blessings and avoid alcohol and meat to strengthen the Moon",
+   "source": {
+    "site": "standard practitioner advice (via search)",
+    "url": "https://www.indastro.com",
+    "kind": "astrologer-site"
+   },
+   "source_confidence": "medium",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Chandra",
+      "p": 0.95
+     }
+    ],
+    "kind": "behavioral",
+    "kind_p": 0.6,
+    "kind_margin": 0.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L038",
+   "text": "Embrace moonlight and chant the Chandra mantra to please the Moon",
+   "source": {
+    "site": "Times of India",
+    "url": "https://timesofindia.indiatimes.com",
+    "kind": "media-astrology"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Chandra",
+      "p": 0.95
+     }
+    ],
+    "kind": "mantra",
+    "kind_p": 0.75,
+    "kind_margin": 0.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L039",
+   "text": "Chant the Mangal Beej mantra (Om Kraam Kreem Kraum Sah Bhaumaya Namaha) 11,000 times over 20 days with a Rudraksha rosary",
+   "source": {
+    "site": "AstroSage",
+    "url": "https://www.astrosage.com",
+    "kind": "remedy-portal"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Mangala",
+      "p": 0.95
+     }
+    ],
+    "kind": "mantra",
+    "kind_p": 0.87,
+    "kind_margin": 1.0,
+    "kind_status": "auto-draft",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "auto-draft"
+   }
+  },
+  {
+   "id": "L040",
+   "text": "Donate red lentils (masoor dal), red cloth and copper for Mars",
+   "source": {
+    "site": "AstroSage",
+    "url": "https://www.astrosage.com",
+    "kind": "remedy-portal"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Mangala",
+      "p": 0.95
+     }
+    ],
+    "kind": "charity",
+    "kind_p": 0.6,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "consistent",
+     "hits": [
+      {
+       "graha": "Mangala",
+       "axis": "colour",
+       "matched": [
+        "red"
+       ]
+      },
+      {
+       "graha": "Mangala",
+       "axis": "metal",
+       "matched": [
+        "copper"
+       ]
+      }
+     ],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L041",
+   "text": "Wear Red Coral (Moonga) for Mars",
+   "source": {
+    "site": "AstroSage",
+    "url": "https://www.astrosage.com",
+    "kind": "remedy-portal"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Mangala",
+      "p": 0.95
+     }
+    ],
+    "kind": "gemstone",
+    "kind_p": 0.817,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "consistent",
+     "hits": [
+      {
+       "graha": "Mangala",
+       "axis": "gem",
+       "matched": [
+        "red coral",
+        "moonga",
+        "coral"
+       ]
+      },
+      {
+       "graha": "Mangala",
+       "axis": "colour",
+       "matched": [
+        "red"
+       ]
+      }
+     ],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L042",
+   "text": "Perform Mangal Puja; control anger and exercise discipline as Mars remedies",
+   "source": {
+    "site": "AstroSage",
+    "url": "https://www.astrosage.com",
+    "kind": "remedy-portal"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Mangala",
+      "p": 0.95
+     }
+    ],
+    "kind": "behavioral",
+    "kind_p": 0.75,
+    "kind_margin": 0.5,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L043",
+   "text": "Chant Om Shum Shukraya Namaha or Om Dram Dreem Droum Sah Shukraya Namaha 108 times daily for Venus",
+   "source": {
+    "site": "AstroSage / standard advice (via search)",
+    "url": "https://www.astrosage.com",
+    "kind": "remedy-portal"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Shukra",
+      "p": 0.95
+     }
+    ],
+    "kind": "mantra",
+    "kind_p": 0.883,
+    "kind_margin": 1.0,
+    "kind_status": "auto-draft",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "auto-draft"
+   }
+  },
+  {
+   "id": "L044",
+   "text": "Donate white items on Fridays for Venus: rice, sugar, silver, white cloth",
+   "source": {
+    "site": "AstroSage / standard advice (via search)",
+    "url": "https://www.astrosage.com",
+    "kind": "remedy-portal"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Shukra",
+      "p": 0.95
+     }
+    ],
+    "kind": "charity",
+    "kind_p": 0.6,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "consistent",
+     "hits": [
+      {
+       "graha": "Shukra",
+       "axis": "day",
+       "matched": [
+        "friday"
+       ]
+      },
+      {
+       "graha": "Shukra",
+       "axis": "colour",
+       "matched": [
+        "white",
+        "silver"
+       ]
+      },
+      {
+       "graha": "Shukra",
+       "axis": "metal",
+       "matched": [
+        "silver"
+       ]
+      }
+     ],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L045",
+   "text": "Wear a Diamond, or its substitutes Opal / White Sapphire, for Venus",
+   "source": {
+    "site": "Astro Nupur",
+    "url": "https://www.astronupur.com",
+    "kind": "astrologer-site"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Shukra",
+      "p": 0.95
+     }
+    ],
+    "kind": "gemstone",
+    "kind_p": 0.85,
+    "kind_margin": 1.0,
+    "kind_status": "auto-draft",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "consistent",
+     "hits": [
+      {
+       "graha": "Shukra",
+       "axis": "gem",
+       "matched": [
+        "diamond",
+        "opal",
+        "white sapphire"
+       ]
+      },
+      {
+       "graha": "Shukra",
+       "axis": "colour",
+       "matched": [
+        "white"
+       ]
+      }
+     ],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "auto-draft"
+   }
+  },
+  {
+   "id": "L046",
+   "text": "For Venus: respect women, maintain cleanliness and hygiene, honour the luxury arts",
+   "source": {
+    "site": "Astro Nupur / Indastro",
+    "url": "https://www.astronupur.com",
+    "kind": "astrologer-site"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Shukra",
+      "p": 0.95
+     }
+    ],
+    "kind": "behavioral",
+    "kind_p": 0.75,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L047",
+   "text": "Chant Om Raam Rahave Namaha 108 times for Rahu",
+   "source": {
+    "site": "Scribd Ketu/Rahu remedies compilation",
+    "url": "https://www.scribd.com",
+    "kind": "remedy-compilation"
+   },
+   "source_confidence": "medium",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Rahu",
+      "p": 0.95
+     }
+    ],
+    "kind": "mantra",
+    "kind_p": 0.85,
+    "kind_margin": 1.0,
+    "kind_status": "auto-draft",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "auto-draft"
+   }
+  },
+  {
+   "id": "L048",
+   "text": "Donate black sesame seeds, black cloth, mustard oil or blankets on Saturdays for Rahu",
+   "source": {
+    "site": "standard practitioner advice (via search)",
+    "url": "https://www.astrosage.com",
+    "kind": "remedy-portal"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Rahu",
+      "p": 0.95
+     }
+    ],
+    "kind": "charity",
+    "kind_p": 0.6,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "consistent",
+     "hits": [
+      {
+       "graha": "Rahu",
+       "axis": "day",
+       "matched": [
+        "saturday"
+       ]
+      }
+     ],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L049",
+   "text": "Wear Hessonite (Gomed) for Rahu",
+   "source": {
+    "site": "standard practitioner advice (via search)",
+    "url": "https://www.astrosage.com",
+    "kind": "remedy-portal"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Rahu",
+      "p": 0.95
+     }
+    ],
+    "kind": "gemstone",
+    "kind_p": 0.817,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "consistent",
+     "hits": [
+      {
+       "graha": "Rahu",
+       "axis": "gem",
+       "matched": [
+        "hessonite",
+        "gomed"
+       ]
+      }
+     ],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L050",
+   "text": "Keep an elephant idol at home and avoid speculation - Rahu remedies from a Lal Kitab list",
+   "source": {
+    "site": "Scribd Lal Kitab remedies list",
+    "url": "https://www.scribd.com",
+    "kind": "remedy-compilation"
+   },
+   "source_confidence": "medium",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Rahu",
+      "p": 0.95
+     }
+    ],
+    "kind": "behavioral",
+    "kind_p": 0.6,
+    "kind_margin": 0.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L051",
+   "text": "Do the upaya (remedy) of the planet whose house Rahu occupies - a practitioner technique for Rahu",
+   "source": {
+    "site": "Scribd Lal Kitab remedies list",
+    "url": "https://www.scribd.com",
+    "kind": "remedy-compilation"
+   },
+   "source_confidence": "medium",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Rahu",
+      "p": 0.95
+     }
+    ],
+    "kind": "technique",
+    "kind_p": 0.75,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L052",
+   "text": "Chant Om Kem Ketave Namaha for Ketu",
+   "source": {
+    "site": "Scribd Ketu remedies compilation",
+    "url": "https://www.scribd.com",
+    "kind": "remedy-compilation"
+   },
+   "source_confidence": "medium",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Ketu",
+      "p": 0.95
+     }
+    ],
+    "kind": "mantra",
+    "kind_p": 0.817,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L053",
+   "text": "Donate blankets and sesame items to the needy for Ketu",
+   "source": {
+    "site": "Scribd Ketu remedies compilation",
+    "url": "https://www.scribd.com",
+    "kind": "remedy-compilation"
+   },
+   "source_confidence": "medium",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Ketu",
+      "p": 0.95
+     }
+    ],
+    "kind": "charity",
+    "kind_p": 0.6,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L054",
+   "text": "Wear Cat's Eye (Lehsunia) for Ketu",
+   "source": {
+    "site": "standard practitioner advice (via search)",
+    "url": "https://www.astrosage.com",
+    "kind": "remedy-portal"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Ketu",
+      "p": 0.95
+     }
+    ],
+    "kind": "gemstone",
+    "kind_p": 0.817,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "consistent",
+     "hits": [
+      {
+       "graha": "Ketu",
+       "axis": "gem",
+       "matched": [
+        "cat's eye",
+        "lehsunia"
+       ]
+      }
+     ],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L055",
+   "text": "Worship Lord Ganesha with durva grass, modak and coconut as a Ketu remedy",
+   "source": {
+    "site": "standard practitioner advice (via search)",
+    "url": "https://www.astrosage.com",
+    "kind": "remedy-portal"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "Ketu",
+      "p": 0.95
+     }
+    ],
+    "kind": "worship",
+    "kind_p": 0.817,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L056",
+   "text": "Gemstones are typically recommended only when the planet is benefic-but-weak; for malefic planets, mantra and charity (daan) are the preferred remedies",
+   "source": {
+    "site": "practitioner consensus (via search, incl. Indastro)",
+    "url": "https://www.indastro.com",
+    "kind": "astrologer-consensus"
+   },
+   "source_confidence": "medium",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "general",
+      "p": 0.0
+     }
+    ],
+    "kind": "charity",
+    "kind_p": 0.75,
+    "kind_margin": 0.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L057",
+   "text": "Gemstones are often recommended when slower-moving planets are weak in transit, especially if the person is running that planet's dasha during an important life phase",
+   "source": {
+    "site": "Boloji",
+    "url": "https://www.boloji.com",
+    "kind": "astrologer-site"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "general",
+      "p": 0.0
+     }
+    ],
+    "kind": "gemstone",
+    "kind_p": 0.75,
+    "kind_margin": 0.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L058",
+   "text": "Behavioural remedies - discipline, service and honesty - are preferred over expensive rituals for weak planets",
+   "source": {
+    "site": "Aditya Kundli",
+    "url": "https://www.adityakundli.com",
+    "kind": "astrologer-site"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "general",
+      "p": 0.0
+     }
+    ],
+    "kind": "behavioral",
+    "kind_p": 0.817,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L059",
+   "text": "Always consult a qualified astrologer before wearing gemstones",
+   "source": {
+    "site": "multiple sources (search consensus)",
+    "url": "https://www.astrosage.com",
+    "kind": "astrologer-consensus"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "general",
+      "p": 0.0
+     }
+    ],
+    "kind": "gemstone",
+    "kind_p": 0.817,
+    "kind_margin": 0.667,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.04,
+     "flag": false,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  },
+  {
+   "id": "L060",
+   "text": "Daan (donation) is the best way to reduce the malefic effects of a planet and it gives you a chance to do good deeds",
+   "source": {
+    "site": "AstroSage",
+    "url": "https://www.astrosage.com",
+    "kind": "remedy-portal"
+   },
+   "source_confidence": "high",
+   "classification": {
+    "grahas": [
+     {
+      "graha": "general",
+      "p": 0.0
+     }
+    ],
+    "kind": "charity",
+    "kind_p": 0.817,
+    "kind_margin": 1.0,
+    "kind_status": "scholar-assist",
+    "ethics": {
+     "p": 0.95,
+     "flag": true,
+     "basis": "outcome/health/wealth guarantee language"
+    },
+    "classical_agreement": {
+     "verdict": "no-basis",
+     "hits": [],
+     "misses": [],
+     "method": "deterministic rule over verified conventions (BJ Ch 2 v 5 colour verse + Āśvalāyana materials + god-planet mapping)"
+    },
+    "status": "scholar-assist"
+   }
+  }
+ ]
+}
